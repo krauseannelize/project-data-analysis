@@ -1,0 +1,1202 @@
+OrderNo,SalesOrderLineKey,OrderQuantity,ItemCost,ItemPrice,OrderDate,DeliveryDueDate,OrderToDelivery,CustomerName,CustomerCity,CustomerState,CustomerCountry,ProductCategory,ProductSubcategory,Product,ProductColor,Model,Order Line Price
+SO43697,43697001,1,2171.29,3578.27,01/07/2017,05/07/2017,4,Cole Watson,Metchosin,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43698,43698001,1,1912.15,3399.99,01/07/2017,11/07/2017,10,Rachael Martinez,Pantin,Seine Saint Denis,France,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO43699,43699001,1,1912.15,3399.99,01/07/2017,06/07/2017,5,Sydney Wright,Lebanon,Oregon,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO43700,43700001,1,413.15,699.1,01/07/2017,10/07/2017,9,Ruben Prasad,Beverly Hills,California,United States,Bikes,Road Bikes,"Road-650 Black, 62",Black,Road-650,699.1
+SO43701,43701001,1,1912.15,3399.99,01/07/2017,11/07/2017,10,Christy Zhu,North Ryde,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO43702,43702001,1,2171.29,3578.27,01/07/2017,05/07/2017,4,Colin Anand,,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43703,43703001,1,2171.29,3578.27,01/07/2017,07/07/2017,6,Albert Alvarez,Perth,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43704,43704001,1,1898.09,3374.99,01/07/2017,04/07/2017,3,Julio Ruiz,East Brisbane,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO43705,43705001,1,1912.15,3399.99,01/07/2017,05/07/2017,4,Curtis Lu,East Brisbane,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO43706,43706001,1,2171.29,3578.27,02/07/2017,08/07/2017,6,Edward Brown,Santa Monica,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43707,43707001,1,2171.29,3578.27,02/07/2017,09/07/2017,7,Emma Brown,Lemon Grove,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43708,43708001,1,413.15,699.1,02/07/2017,05/07/2017,3,Brad Deng,Liverpool,England,United Kingdom,Bikes,Road Bikes,"Road-650 Red, 52",Red,Road-650,699.1
+SO43709,43709001,1,2171.29,3578.27,02/07/2017,07/07/2017,5,Martha Xu,Rockhampton,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43710,43710001,1,2171.29,3578.27,02/07/2017,10/07/2017,8,Katrina Raji,Wollongong,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43711,43711001,1,2171.29,3578.27,02/07/2017,12/07/2017,10,Courtney Edwards,Milwaukie,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43712,43712001,1,2171.29,3578.27,02/07/2017,08/07/2017,6,Abigail Henderson,Werne,Nordrhein-Westfalen,Germany,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43713,43713001,1,2171.29,3578.27,03/07/2017,09/07/2017,6,Sydney Rogers,Burbank,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43714,43714001,1,2171.29,3578.27,03/07/2017,05/07/2017,2,Latasha Alonso,York,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43715,43715001,1,2171.29,3578.27,03/07/2017,11/07/2017,8,Warren Jai,Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43716,43716001,1,2171.29,3578.27,03/07/2017,09/07/2017,6,Jonathon Gutierrez,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43717,43717001,1,413.15,699.1,03/07/2017,08/07/2017,5,Alexandra Watson,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Black, 62",Black,Road-650,699.1
+SO43718,43718001,1,2171.29,3578.27,03/07/2017,05/07/2017,2,Kevin Gonzalez,Kirkland,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43719,43719001,1,2171.29,3578.27,03/07/2017,08/07/2017,5,Lucas Hill,Berkeley,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43720,43720001,1,2171.29,3578.27,03/07/2017,10/07/2017,7,Melanie Sanchez,Ingolstadt,Bayern,Germany,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43721,43721001,1,2171.29,3578.27,03/07/2017,09/07/2017,6,Louis Xie,York,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43722,43722001,1,2171.29,3578.27,04/07/2017,13/07/2017,9,Albert Blanco,Esher-Molesey,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43723,43723001,1,413.15,699.1,04/07/2017,10/07/2017,6,Bonnie Xu,Bremerton,Washington,United States,Bikes,Road Bikes,"Road-650 Black, 58",Black,Road-650,699.1
+SO43724,43724001,1,2171.29,3578.27,04/07/2017,12/07/2017,8,Misty Raji,Bendigo,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43725,43725001,1,2171.29,3578.27,04/07/2017,06/07/2017,2,Anne Dominguez,Kassel,Hessen,Germany,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43726,43726001,1,413.15,699.1,04/07/2017,12/07/2017,8,Kelvin Huang,Bellflower,California,United States,Bikes,Road Bikes,"Road-650 Black, 58",Black,Road-650,699.1
+SO43727,43727001,1,2171.29,3578.27,04/07/2017,13/07/2017,9,Logan Gonzales,Brisbane,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43728,43728001,1,2171.29,3578.27,05/07/2017,09/07/2017,4,Alyssa Garcia,Fremont,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43729,43729001,1,1912.15,3399.99,05/07/2017,07/07/2017,2,Mayra Prasad,Birmingham,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO43730,43730001,1,1912.15,3399.99,05/07/2017,15/07/2017,10,Garrett Cooper,Woodland Hills,California,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO43731,43731001,1,2171.29,3578.27,05/07/2017,13/07/2017,8,Rosa Zheng,Matraville,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43732,43732001,1,1898.09,3374.99,05/07/2017,07/07/2017,2,Alejandro Beck,Hawthorne,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO43733,43733001,1,2171.29,3578.27,05/07/2017,15/07/2017,10,Patrick Cook,Port Orchard,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43734,43734001,1,2171.29,3578.27,05/07/2017,09/07/2017,4,Richard Brooks,Port Orchard,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43735,43735001,1,2171.29,3578.27,05/07/2017,10/07/2017,5,Casey Pal,Caloundra,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43736,43736001,1,1912.15,3399.99,05/07/2017,07/07/2017,2,Ruben Torres,Hobart,Tasmania,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO43737,43737001,1,2171.29,3578.27,06/07/2017,13/07/2017,7,Lindsey Andersen,Paderborn,Nordrhein-Westfalen,Germany,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43738,43738001,1,2171.29,3578.27,06/07/2017,14/07/2017,8,Melody Ramos,Morangis,Essonne,France,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43739,43739001,1,2171.29,3578.27,06/07/2017,13/07/2017,7,Phillip Sai,Stoke-on-Trent,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43740,43740001,1,2171.29,3578.27,06/07/2017,09/07/2017,3,Cory Arun,Milsons Point,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43741,43741001,1,2171.29,3578.27,06/07/2017,12/07/2017,6,Jeremiah Martinez,Ballard,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43742,43742001,1,2171.29,3578.27,06/07/2017,11/07/2017,5,Tamara Lal,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43743,43743001,1,1912.15,3399.99,06/07/2017,16/07/2017,10,Marco Mehta,Warrnambool,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 48",Silver,Mountain-100,3399.99
+SO43744,43744001,1,2171.29,3578.27,06/07/2017,11/07/2017,5,Haley Ward,Rockhampton,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43745,43745001,1,2171.29,3578.27,07/07/2017,11/07/2017,4,Manuel Fernandez,Malabar,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43746,43746001,1,2171.29,3578.27,07/07/2017,15/07/2017,8,Kelvin Liang,Perth,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43747,43747001,1,2171.29,3578.27,07/07/2017,09/07/2017,2,Christian Jackson,Lincoln Acres,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43748,43748001,1,2171.29,3578.27,07/07/2017,14/07/2017,7,Alexandria Hughes,Lake Oswego,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43749,43749001,1,2171.29,3578.27,07/07/2017,11/07/2017,4,Paige Murphy,Issaquah,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43750,43750001,1,2171.29,3578.27,07/07/2017,15/07/2017,8,Stacey Lu,Versailles,Yveline,France,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43751,43751001,1,2171.29,3578.27,07/07/2017,12/07/2017,5,Darrell Raji,Paris,Seine (Paris),France,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43752,43752001,1,2171.29,3578.27,07/07/2017,09/07/2017,2,Luke Adams,Paderborn,Nordrhein-Westfalen,Germany,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43753,43753001,1,2171.29,3578.27,07/07/2017,09/07/2017,2,Tabitha Arthur,Bendigo,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43754,43754001,1,2171.29,3578.27,08/07/2017,16/07/2017,8,Morgan Phillips,Olympia,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43755,43755001,1,2171.29,3578.27,08/07/2017,14/07/2017,6,Kayla Long,Novato,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43756,43756001,1,413.15,699.1,08/07/2017,17/07/2017,9,Cedric Liang,London,England,United Kingdom,Bikes,Road Bikes,"Road-650 Black, 58",Black,Road-650,699.1
+SO43757,43757001,1,1898.09,3374.99,08/07/2017,11/07/2017,3,Shannon Wang,Sunbury,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO43758,43758001,1,2171.29,3578.27,08/07/2017,11/07/2017,3,Jackson Li,Imperial Beach,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43759,43759001,1,2171.29,3578.27,08/07/2017,11/07/2017,3,Jon Chander,Hof,Bayern,Germany,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43760,43760001,1,2171.29,3578.27,08/07/2017,13/07/2017,5,Tiffany Gao,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43761,43761001,1,2171.29,3578.27,08/07/2017,11/07/2017,3,Brenda Fernandez,Seaford,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43762,43762001,1,2171.29,3578.27,09/07/2017,19/07/2017,10,Courtney Carter,Lakewood,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43763,43763001,1,2171.29,3578.27,09/07/2017,16/07/2017,7,Martha Liang,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43764,43764001,1,2171.29,3578.27,09/07/2017,14/07/2017,5,Ebony Ashe,Matraville,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43765,43765001,1,1912.15,3399.99,09/07/2017,11/07/2017,2,Jacquelyn Suarez,East Brisbane,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO43766,43766001,1,2171.29,3578.27,09/07/2017,16/07/2017,7,Krystal Holt,Cranbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43767,43767001,1,1898.09,3374.99,09/07/2017,13/07/2017,4,Eugene Huang,Seaford,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO43768,43768001,1,2171.29,3578.27,10/07/2017,20/07/2017,10,Evan Bailey,Seattle,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43769,43769001,1,2171.29,3578.27,10/07/2017,12/07/2017,2,Gabrielle Jenkins,Haney,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43770,43770001,1,2171.29,3578.27,10/07/2017,13/07/2017,3,Warren Ye,Bellingham,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43771,43771001,1,413.15,699.1,10/07/2017,19/07/2017,9,Ashley Washington,Long Beach,California,United States,Bikes,Road Bikes,"Road-650 Red, 52",Red,Road-650,699.1
+SO43772,43772001,1,2171.29,3578.27,10/07/2017,12/07/2017,2,Damien Huang,Hawthorne,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43773,43773001,1,2171.29,3578.27,10/07/2017,17/07/2017,7,Arthur Perez,Sunbury,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43774,43774001,1,2171.29,3578.27,10/07/2017,16/07/2017,6,Roy Raman,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43775,43775001,1,1912.15,3399.99,10/07/2017,17/07/2017,7,Jessie Zhao,Warrnambool,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 48",Silver,Mountain-100,3399.99
+SO43776,43776001,1,2171.29,3578.27,10/07/2017,20/07/2017,10,James Flores,Neunkirchen,Saarland,Germany,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43777,43777001,1,2171.29,3578.27,10/07/2017,13/07/2017,3,Troy Sai,Hobart,Tasmania,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43778,43778001,1,1912.15,3399.99,10/07/2017,14/07/2017,4,Clarence Rai,Bendigo,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO43779,43779001,1,413.15,699.1,10/07/2017,17/07/2017,7,Warren Zhang,Coffs Harbour,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Red, 44",Red,Road-650,699.1
+SO43780,43780001,1,2171.29,3578.27,11/07/2017,19/07/2017,8,Melody Diaz,Les Ulis,Essonne,France,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43781,43781001,1,2171.29,3578.27,11/07/2017,20/07/2017,9,Monique Ramos,Warrnambool,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43782,43782001,1,2171.29,3578.27,11/07/2017,13/07/2017,2,Melvin She,Townsville,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43783,43783001,1,2171.29,3578.27,11/07/2017,16/07/2017,5,Cameron Thompson,Sydney,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43784,43784001,1,2171.29,3578.27,12/07/2017,18/07/2017,6,Jessica Sanchez,Daly City,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43785,43785001,1,2171.29,3578.27,12/07/2017,19/07/2017,7,Ivan Raman,Versailles,Yveline,France,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43786,43786001,1,2171.29,3578.27,12/07/2017,16/07/2017,4,Clinton Moreno,Paris,Seine (Paris),France,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43787,43787001,1,1912.15,3399.99,12/07/2017,18/07/2017,6,Don Lal,Berlin,Hessen,Germany,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO43788,43788001,1,1898.09,3374.99,12/07/2017,14/07/2017,2,Latoya Goel,London,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO43789,43789001,1,1898.09,3374.99,12/07/2017,16/07/2017,4,Tristan Butler,Kirkland,Washington,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO43790,43790001,1,1912.15,3399.99,12/07/2017,15/07/2017,3,Abigail Perry,W. Linn,Oregon,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO43791,43791001,1,2171.29,3578.27,12/07/2017,15/07/2017,3,Dustin Lal,Springwood,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43792,43792001,1,2171.29,3578.27,12/07/2017,22/07/2017,10,Andres Lal,Port Macquarie,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43793,43793001,1,1912.15,3399.99,12/07/2017,17/07/2017,5,Jon Yang,Rockhampton,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO43794,43794001,1,1912.15,3399.99,12/07/2017,14/07/2017,2,Jimmy Moreno,Bendigo,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 48",Silver,Mountain-100,3399.99
+SO43795,43795001,1,2171.29,3578.27,13/07/2017,16/07/2017,3,Maria Henderson,La Jolla,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43796,43796001,1,413.15,699.1,13/07/2017,23/07/2017,10,Jaime Gomez,Metz,Moselle,France,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO43797,43797001,1,2171.29,3578.27,13/07/2017,22/07/2017,9,Francis Ramos,Wollongong,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43798,43798001,1,2171.29,3578.27,13/07/2017,22/07/2017,9,Tonya She,Hawthorne,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43799,43799001,1,2171.29,3578.27,13/07/2017,17/07/2017,4,Danny Gomez,South Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43800,43800001,1,2171.29,3578.27,13/07/2017,21/07/2017,8,Brittany Gonzales,Royal Oak,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43801,43801001,1,2171.29,3578.27,13/07/2017,17/07/2017,4,Blake Butler,Gateshead,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43802,43802001,1,2171.29,3578.27,13/07/2017,17/07/2017,4,Armando Moreno,Orleans,Loiret,France,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43803,43803001,1,2171.29,3578.27,14/07/2017,19/07/2017,5,Alexa Sanders,N. Vancouver,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43804,43804001,1,2171.29,3578.27,14/07/2017,23/07/2017,9,Savannah Morris,Leeds,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43805,43805001,1,413.15,699.1,14/07/2017,20/07/2017,6,Samuel Hernandez,Everett,Washington,United States,Bikes,Road Bikes,"Road-650 Red, 48",Red,Road-650,699.1
+SO43806,43806001,1,2171.29,3578.27,14/07/2017,17/07/2017,3,Sandra Huang,Hervey Bay,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43807,43807001,1,2171.29,3578.27,14/07/2017,22/07/2017,8,Ernest Lin,Orleans,Loiret,France,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43808,43808001,1,2171.29,3578.27,14/07/2017,23/07/2017,9,Allen Garcia,Münster,Saarland,Germany,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43809,43809001,1,2171.29,3578.27,14/07/2017,20/07/2017,6,Fernando Thompson,Sydney,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43810,43810001,1,1912.15,3399.99,14/07/2017,20/07/2017,6,Elizabeth Johnson,Wollongong,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO43811,43811001,1,1912.15,3399.99,14/07/2017,23/07/2017,9,Harold Sai,Goulburn,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO43812,43812001,1,2171.29,3578.27,15/07/2017,24/07/2017,9,Bianca Zheng,Burbank,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43813,43813001,1,1898.09,3374.99,15/07/2017,25/07/2017,10,Frederick Suri,Colombes,Hauts de Seine,France,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO43814,43814001,1,1898.09,3374.99,15/07/2017,22/07/2017,7,Tristan Perry,W. Linn,Oregon,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO43815,43815001,1,2171.29,3578.27,15/07/2017,22/07/2017,7,Jordyn Simmons,Warrnambool,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43816,43816001,1,2171.29,3578.27,15/07/2017,19/07/2017,4,Dawn Tang,Darlinghurst,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43817,43817001,1,2171.29,3578.27,15/07/2017,21/07/2017,6,Yolanda Chander,Hervey Bay,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43818,43818001,1,2171.29,3578.27,15/07/2017,23/07/2017,8,Dominique Garcia,Melton,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43819,43819001,1,1912.15,3399.99,15/07/2017,18/07/2017,3,Janet Alvarez,Matraville,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO43820,43820001,1,2171.29,3578.27,15/07/2017,17/07/2017,2,Jeremy Murphy,Concord,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43821,43821001,1,2171.29,3578.27,15/07/2017,24/07/2017,9,Aaron Collins,Santa Cruz,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43822,43822001,1,2171.29,3578.27,15/07/2017,20/07/2017,5,Katelyn Allen,Coronado,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43823,43823001,1,413.15,699.1,15/07/2017,20/07/2017,5,Armando Navarro,Oxon,England,United Kingdom,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO43824,43824001,1,413.15,699.1,15/07/2017,23/07/2017,8,Marcel Truempy,Yakima,Washington,United States,Bikes,Road Bikes,"Road-650 Black, 44",Black,Road-650,699.1
+SO43825,43825001,1,2171.29,3578.27,15/07/2017,22/07/2017,7,Levi Sai,Bendigo,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43826,43826001,1,1898.09,3374.99,15/07/2017,20/07/2017,5,Rob Verhoff,Bendigo,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO43827,43827001,1,413.15,699.1,15/07/2017,19/07/2017,4,Anthony Walker,Gold Coast,Queensland,Australia,Bikes,Road Bikes,"Road-650 Black, 44",Black,Road-650,699.1
+SO43828,43828001,1,2171.29,3578.27,16/07/2017,23/07/2017,7,Miguel Martinez,Sedro Woolley,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43829,43829001,1,2171.29,3578.27,16/07/2017,20/07/2017,4,Jack Edwards,El Cajon,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43830,43830001,1,2171.29,3578.27,16/07/2017,20/07/2017,4,Raul Sharma,Rhodes,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43831,43831001,1,1898.09,3374.99,16/07/2017,18/07/2017,2,Jill Jimenez,St. Leonards,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO43832,43832001,1,2171.29,3578.27,16/07/2017,25/07/2017,9,Isaiah Cox,Runcorn,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43833,43833001,1,2171.29,3578.27,16/07/2017,25/07/2017,9,Arianna Flores,Shawnee,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43834,43834001,1,1898.09,3374.99,16/07/2017,23/07/2017,7,Ramon Zheng,Courbevoie,Hauts de Seine,France,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO43835,43835001,1,1898.09,3374.99,16/07/2017,20/07/2017,4,Sara James,Newton,British Columbia,Canada,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO43836,43836001,1,413.15,699.1,16/07/2017,21/07/2017,5,Isabella Green,Shawnee,British Columbia,Canada,Bikes,Road Bikes,"Road-650 Red, 62",Red,Road-650,699.1
+SO43837,43837001,1,1898.09,3374.99,16/07/2017,18/07/2017,2,Shannon Carlson,Hervey Bay,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO43838,43838001,1,2171.29,3578.27,17/07/2017,21/07/2017,4,Miranda Alexander,El Cajon,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43839,43839001,1,2171.29,3578.27,17/07/2017,21/07/2017,4,Jennifer Young,Bremerton,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43840,43840001,1,413.15,699.1,17/07/2017,21/07/2017,4,Misty Yuan,Sèvres,Hauts de Seine,France,Bikes,Road Bikes,"Road-650 Red, 44",Red,Road-650,699.1
+SO43841,43841001,1,2171.29,3578.27,17/07/2017,26/07/2017,9,Craig Jiménez,Münster,Saarland,Germany,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43842,43842001,1,2171.29,3578.27,17/07/2017,23/07/2017,6,Jaime Sutton,Sunbury,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43918,43918001,1,2171.29,3578.27,17/07/2017,20/07/2017,3,Paige Morris,Haney,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43919,43919001,1,2171.29,3578.27,17/07/2017,26/07/2017,9,Brandi Gill,Paris,Seine (Paris),France,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43920,43920001,1,2171.29,3578.27,17/07/2017,21/07/2017,4,Justin Taylor,Downey,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43921,43921001,1,2171.29,3578.27,17/07/2017,20/07/2017,3,Ariana Stewart,Coffs Harbour,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43922,43922001,1,2171.29,3578.27,17/07/2017,25/07/2017,8,Mitchell Jai,Münster,Saarland,Germany,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43923,43923001,1,2171.29,3578.27,18/07/2017,27/07/2017,9,Rachel Foster,Redwood City,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43924,43924001,1,2171.29,3578.27,18/07/2017,21/07/2017,3,Kaitlyn Henderson,Tremblay-en-France,Seine Saint Denis,France,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43925,43925001,1,2171.29,3578.27,18/07/2017,20/07/2017,2,Shane Raman,Malabar,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43926,43926001,1,1898.09,3374.99,18/07/2017,28/07/2017,10,Gilbert Raje,East Brisbane,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO43927,43927001,1,2171.29,3578.27,18/07/2017,26/07/2017,8,Stacey Gao,Sydney,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43928,43928001,1,2171.29,3578.27,18/07/2017,26/07/2017,8,Elijah Li,Melton,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43929,43929001,1,413.15,699.1,18/07/2017,26/07/2017,8,Gloria Diaz,Findon,South Australia,Australia,Bikes,Road Bikes,"Road-650 Red, 60",Red,Road-650,699.1
+SO43930,43930001,1,2171.29,3578.27,19/07/2017,21/07/2017,2,Philip Gomez,Bellflower,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43931,43931001,1,2171.29,3578.27,19/07/2017,25/07/2017,6,Bridget Jai,Frankfurt,Bayern,Germany,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43932,43932001,1,2171.29,3578.27,19/07/2017,26/07/2017,7,Alan Xu,Rhodes,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43933,43933001,1,1912.15,3399.99,19/07/2017,24/07/2017,5,Theresa Ramos,Matraville,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 48",Silver,Mountain-100,3399.99
+SO43934,43934001,1,1912.15,3399.99,19/07/2017,22/07/2017,3,Ebony Gonzalez,North Sydney,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO43935,43935001,1,413.15,699.1,19/07/2017,24/07/2017,5,Virginia Srini,Birmingham,England,United Kingdom,Bikes,Road Bikes,"Road-650 Black, 60",Black,Road-650,699.1
+SO43936,43936001,1,2171.29,3578.27,19/07/2017,22/07/2017,3,Carrie Gill,Beverly Hills,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43937,43937001,1,2171.29,3578.27,19/07/2017,24/07/2017,5,Kendra Rubio,Caloundra,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43938,43938001,1,2171.29,3578.27,19/07/2017,26/07/2017,7,Kristine Alonso,Malabar,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43939,43939001,1,2171.29,3578.27,19/07/2017,22/07/2017,3,Emily Jones,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43940,43940001,1,413.15,699.1,19/07/2017,22/07/2017,3,Sharon Sharma,North Sydney,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Black, 62",Black,Road-650,699.1
+SO43941,43941001,1,2171.29,3578.27,20/07/2017,22/07/2017,2,Marie Sanz,Watford,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43942,43942001,1,2171.29,3578.27,20/07/2017,24/07/2017,4,Jessie Ortega,Brisbane,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43943,43943001,1,413.15,699.1,20/07/2017,23/07/2017,3,Natalie Hernandez,National City,California,United States,Bikes,Road Bikes,"Road-650 Black, 44",Black,Road-650,699.1
+SO43944,43944001,1,1912.15,3399.99,20/07/2017,28/07/2017,8,Deanna Munoz,Geelong,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO43945,43945001,1,2171.29,3578.27,20/07/2017,23/07/2017,3,Kristi Arthur,Matraville,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43946,43946001,1,2171.29,3578.27,20/07/2017,24/07/2017,4,Lawrence Romero,Malabar,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43947,43947001,1,2171.29,3578.27,20/07/2017,29/07/2017,9,Suzanne Lu,Coffs Harbour,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43948,43948001,1,1912.15,3399.99,20/07/2017,27/07/2017,7,Jaclyn Lu,Geelong,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO43949,43949001,1,2171.29,3578.27,20/07/2017,30/07/2017,10,Sophia Hall,Lemon Grove,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43950,43950001,1,2171.29,3578.27,20/07/2017,27/07/2017,7,Rachel Robinson,Beverly Hills,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43951,43951001,1,2171.29,3578.27,20/07/2017,27/07/2017,7,Claudia Zeng,Gold Coast,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43952,43952001,1,2171.29,3578.27,20/07/2017,24/07/2017,4,Renee Romero,Melton,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43953,43953001,1,413.15,699.1,21/07/2017,24/07/2017,3,Colleen Chavez,Warrington,England,United Kingdom,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO43954,43954001,1,2171.29,3578.27,21/07/2017,28/07/2017,7,Virginia Mehta,Billericay,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43955,43955001,1,2171.29,3578.27,21/07/2017,23/07/2017,2,Andre Sara,Warrington,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43956,43956001,1,1912.15,3399.99,21/07/2017,31/07/2017,10,Bethany Yuan,Cloverdale,South Australia,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO43957,43957001,1,2171.29,3578.27,21/07/2017,29/07/2017,8,Amanda Wood,Newport Beach,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43958,43958001,1,2171.29,3578.27,21/07/2017,28/07/2017,7,Ashlee Raje,Wollongong,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43959,43959001,1,1898.09,3374.99,21/07/2017,30/07/2017,9,Wendy Dominguez,Cranbourne,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO43960,43960001,1,1898.09,3374.99,21/07/2017,29/07/2017,8,Christine Yuan,Lavender Bay,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO43961,43961001,1,2171.29,3578.27,22/07/2017,30/07/2017,8,Kari Navarro,Chula Vista,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43962,43962001,1,2171.29,3578.27,22/07/2017,27/07/2017,5,Logan Williams,Redwood City,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43963,43963001,1,2171.29,3578.27,22/07/2017,29/07/2017,7,Robin Dominguez,Port Macquarie,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43964,43964001,1,2171.29,3578.27,22/07/2017,24/07/2017,2,Krista Moreno,Townsville,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43965,43965001,1,1898.09,3374.99,22/07/2017,25/07/2017,3,Diana Hernandez,Lavender Bay,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO43966,43966001,1,1912.15,3399.99,22/07/2017,01/08/2017,10,Marc Martin,Wollongong,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 48",Silver,Mountain-100,3399.99
+SO43967,43967001,1,2171.29,3578.27,22/07/2017,27/07/2017,5,Jack Mitchell,Everett,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43968,43968001,1,2171.29,3578.27,22/07/2017,24/07/2017,2,Olivia Bennett,Lemon Grove,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43969,43969001,1,2171.29,3578.27,22/07/2017,24/07/2017,2,Trevor Ross,Berkeley,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43970,43970001,1,2171.29,3578.27,22/07/2017,26/07/2017,4,Joel Perez,Warrnambool,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43971,43971001,1,2171.29,3578.27,22/07/2017,30/07/2017,8,Alvin She,Lavender Bay,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43972,43972001,1,2171.29,3578.27,23/07/2017,01/08/2017,9,Thomas Roberts,Langford,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43973,43973001,1,2171.29,3578.27,23/07/2017,25/07/2017,2,Xavier Lee,Palo Alto,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43974,43974001,1,2171.29,3578.27,23/07/2017,27/07/2017,4,Mario Xie,Bury,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43975,43975001,1,2171.29,3578.27,23/07/2017,29/07/2017,6,Paula Ortega,Erlangen,Bayern,Germany,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43976,43976001,1,2171.29,3578.27,23/07/2017,30/07/2017,7,Gabrielle Turner,Santa Cruz,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43977,43977001,1,2171.29,3578.27,23/07/2017,29/07/2017,6,Denise Sanchez,Hobart,Tasmania,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43978,43978001,1,2171.29,3578.27,23/07/2017,01/08/2017,9,Jason Gonzalez,Beaverton,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43979,43979001,1,413.15,699.1,23/07/2017,27/07/2017,4,Anna Price,Renton,Washington,United States,Bikes,Road Bikes,"Road-650 Red, 60",Red,Road-650,699.1
+SO43980,43980001,1,1898.09,3374.99,23/07/2017,27/07/2017,4,Jeremy Powell,Sunbury,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO43981,43981001,1,2171.29,3578.27,23/07/2017,01/08/2017,9,Sophia Nelson,Melton,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43982,43982001,1,413.15,699.1,23/07/2017,25/07/2017,2,Mario Shan,Port Macquarie,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO43983,43983001,1,2171.29,3578.27,24/07/2017,01/08/2017,8,Christopher Martin,Bremerton,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43984,43984001,1,2171.29,3578.27,24/07/2017,03/08/2017,10,Brad Sharma,Grevenbroich,Bayern,Germany,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43985,43985001,1,2171.29,3578.27,24/07/2017,29/07/2017,5,Cara Liang,Salzgitter,Hessen,Germany,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO43986,43986001,1,2171.29,3578.27,24/07/2017,31/07/2017,7,Ian Morris,Daly City,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43987,43987001,1,2171.29,3578.27,24/07/2017,28/07/2017,4,Joseph Brown,Concord,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43988,43988001,1,1912.15,3399.99,24/07/2017,29/07/2017,5,Alexis Coleman,Runcorn,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO43989,43989001,1,2171.29,3578.27,24/07/2017,28/07/2017,4,Kaitlyn Foster,Bellflower,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43990,43990001,1,1912.15,3399.99,24/07/2017,29/07/2017,5,Melanie Ross,Sedro Woolley,Washington,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO43991,43991001,1,2171.29,3578.27,24/07/2017,30/07/2017,6,Lee Blanco,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43992,43992001,1,2171.29,3578.27,24/07/2017,03/08/2017,10,Dennis Ye,Springwood,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO43993,43993001,1,2171.29,3578.27,25/07/2017,31/07/2017,6,Savannah Scott,Hobart,Tasmania,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43994,43994001,1,2171.29,3578.27,25/07/2017,29/07/2017,4,Olivia Jackson,Chula Vista,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO43995,43995001,1,2171.29,3578.27,25/07/2017,31/07/2017,6,Dalton Brown,Shawnee,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO43996,43996001,1,2171.29,3578.27,25/07/2017,03/08/2017,9,Mary Howard,Woodland Hills,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43997,43997001,1,2171.29,3578.27,25/07/2017,01/08/2017,7,Jason Lopez,Downey,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO43998,43998001,1,1898.09,3374.99,25/07/2017,30/07/2017,5,Jaime Nath,Milsons Point,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO43999,43999001,1,2171.29,3578.27,25/07/2017,31/07/2017,6,Jay Sanchez,Beaverton,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44000,44000001,1,2171.29,3578.27,26/07/2017,29/07/2017,3,Samantha Ross,Burlingame,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44001,44001001,1,2171.29,3578.27,26/07/2017,02/08/2017,7,Jimmy Navarro,Concord,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44002,44002001,1,413.15,699.1,26/07/2017,28/07/2017,2,Melanie Foster,Lincoln Acres,California,United States,Bikes,Road Bikes,"Road-650 Black, 62",Black,Road-650,699.1
+SO44003,44003001,1,413.15,699.1,26/07/2017,01/08/2017,6,Kelli Chen,München,Hessen,Germany,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO44004,44004001,1,2171.29,3578.27,26/07/2017,03/08/2017,8,Kyle Lopez,Burlingame,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44005,44005001,1,413.15,699.1,26/07/2017,30/07/2017,4,Miranda Price,Metchosin,British Columbia,Canada,Bikes,Road Bikes,"Road-650 Black, 60",Black,Road-650,699.1
+SO44006,44006001,1,2171.29,3578.27,26/07/2017,02/08/2017,7,Lacey Guo,North Ryde,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44007,44007001,1,413.15,699.1,26/07/2017,31/07/2017,5,Trisha Lu,Milsons Point,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Red, 58",Red,Road-650,699.1
+SO44008,44008001,1,2171.29,3578.27,26/07/2017,01/08/2017,6,Angel Carter,Lake Oswego,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44009,44009001,1,2171.29,3578.27,26/07/2017,02/08/2017,7,Alexandria Brooks,Renton,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44010,44010001,1,2171.29,3578.27,26/07/2017,02/08/2017,7,Jan Watson,Warrington,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44011,44011001,1,2171.29,3578.27,26/07/2017,28/07/2017,2,Lindsay Luo,Eilenburg,Brandenburg,Germany,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44012,44012001,1,1898.09,3374.99,26/07/2017,04/08/2017,9,Heidi Lopez,Matraville,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44013,44013001,1,2171.29,3578.27,26/07/2017,29/07/2017,3,Bryan Stewart,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44014,44014001,1,2171.29,3578.27,27/07/2017,04/08/2017,8,Andrea Sanders,Long Beach,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44015,44015001,1,2171.29,3578.27,27/07/2017,04/08/2017,8,Dominic Gonzalez,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44016,44016001,1,1898.09,3374.99,27/07/2017,06/08/2017,10,Claudia Zhou,Lancaster,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44017,44017001,1,2171.29,3578.27,27/07/2017,01/08/2017,5,Jack Young,Lake Oswego,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44018,44018001,1,1898.09,3374.99,27/07/2017,05/08/2017,9,Noah King,Walla Walla,Washington,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44019,44019001,1,2171.29,3578.27,27/07/2017,29/07/2017,2,Laura Zheng,North Ryde,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44020,44020001,1,2171.29,3578.27,27/07/2017,05/08/2017,9,Dalton Lee,Brisbane,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44021,44021001,1,1898.09,3374.99,27/07/2017,31/07/2017,4,Denise Stone,Melbourne,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO44022,44022001,1,2171.29,3578.27,28/07/2017,30/07/2017,2,Alisha Ye,Cliffside,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44023,44023001,1,1898.09,3374.99,28/07/2017,04/08/2017,7,Gabrielle Long,Langford,British Columbia,Canada,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44024,44024001,1,2171.29,3578.27,28/07/2017,05/08/2017,8,Rosa Lu,Geelong,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44025,44025001,1,2171.29,3578.27,28/07/2017,31/07/2017,3,Kellie Sanz,Lavender Bay,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44026,44026001,1,2171.29,3578.27,28/07/2017,06/08/2017,9,Derek Goel,Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44027,44027001,1,2171.29,3578.27,28/07/2017,31/07/2017,3,Lucas Collins,Oak Bay,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44028,44028001,1,2171.29,3578.27,28/07/2017,05/08/2017,8,Natasha Gutierrez,Darlinghurst,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44029,44029001,1,1898.09,3374.99,28/07/2017,31/07/2017,3,Alan Zheng,Hobart,Tasmania,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44030,44030001,1,2171.29,3578.27,29/07/2017,01/08/2017,3,Randall Dominguez,Dunkerque,Nord,France,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44031,44031001,1,2171.29,3578.27,29/07/2017,31/07/2017,2,Teresa Ramos,York,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44032,44032001,1,1912.15,3399.99,29/07/2017,06/08/2017,8,Robin Alvarez,Esher-Molesey,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44033,44033001,1,2171.29,3578.27,29/07/2017,07/08/2017,9,Ethan Coleman,Caloundra,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44034,44034001,1,2171.29,3578.27,29/07/2017,04/08/2017,6,Patricia Raman,Cranbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44035,44035001,1,2171.29,3578.27,29/07/2017,08/08/2017,10,Derrick Serrano,Hervey Bay,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44036,44036001,1,2171.29,3578.27,29/07/2017,07/08/2017,9,Preston Sai,Newcastle,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44037,44037001,1,413.15,699.1,29/07/2017,06/08/2017,8,Edwin Xu,Springwood,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Red, 48",Red,Road-650,699.1
+SO44038,44038001,1,1912.15,3399.99,29/07/2017,08/08/2017,10,Jessica Lewis,Woodland Hills,California,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44039,44039001,1,413.15,699.1,29/07/2017,01/08/2017,3,Mayra Perez,Colombes,Hauts de Seine,France,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO44040,44040001,1,1898.09,3374.99,29/07/2017,08/08/2017,10,Carl Andersen,Lane Cove,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO44041,44041001,1,2171.29,3578.27,29/07/2017,05/08/2017,7,Mitchell Pal,Wollongong,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44042,44042001,1,2171.29,3578.27,30/07/2017,02/08/2017,3,Warren Goel,High Wycombe,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44043,44043001,1,2171.29,3578.27,30/07/2017,08/08/2017,9,Sandra Li,Lancaster,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44044,44044001,1,2171.29,3578.27,30/07/2017,02/08/2017,3,Claudia Gao,W. York,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44045,44045001,1,1912.15,3399.99,30/07/2017,09/08/2017,10,Alisha Zhang,Morangis,Essonne,France,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44046,44046001,1,2171.29,3578.27,30/07/2017,07/08/2017,8,Tamara Nath,Beaverton,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44047,44047001,1,1912.15,3399.99,30/07/2017,06/08/2017,7,Brianna Simmons,Los Angeles,California,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44048,44048001,1,2171.29,3578.27,30/07/2017,05/08/2017,6,Tony Nara,East Brisbane,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44049,44049001,1,2171.29,3578.27,30/07/2017,03/08/2017,4,Vanessa Henderson,Kassel,Hessen,Germany,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44050,44050001,1,2171.29,3578.27,30/07/2017,09/08/2017,10,Cristina Xie,South Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44051,44051001,1,2171.29,3578.27,31/07/2017,03/08/2017,3,Ariana Bailey,Billericay,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44052,44052001,1,2171.29,3578.27,31/07/2017,09/08/2017,9,Evan King,Port Macquarie,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44053,44053001,1,413.15,699.1,31/07/2017,02/08/2017,2,Nancy Srini,Hamburg,Hessen,Germany,Bikes,Road Bikes,"Road-650 Black, 44",Black,Road-650,699.1
+SO44054,44054001,1,2171.29,3578.27,31/07/2017,09/08/2017,9,Sharon Kumar,Frankfurt,Hessen,Germany,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44055,44055001,1,2171.29,3578.27,31/07/2017,10/08/2017,10,Phillip Rana,Leipzig,Nordrhein-Westfalen,Germany,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44056,44056001,1,2171.29,3578.27,31/07/2017,09/08/2017,9,Lori Ramos,Berlin,Hessen,Germany,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44057,44057001,1,413.15,699.1,31/07/2017,03/08/2017,3,Natalie Rogers,Corvallis,Oregon,United States,Bikes,Road Bikes,"Road-650 Black, 44",Black,Road-650,699.1
+SO44058,44058001,1,1898.09,3374.99,31/07/2017,08/08/2017,8,Michele Nath,Newcastle,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44059,44059001,1,2171.29,3578.27,31/07/2017,03/08/2017,3,Tabitha Gomez,Findon,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44060,44060001,1,413.15,699.1,31/07/2017,04/08/2017,4,Karl Rai,St. Leonards,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO44061,44061001,1,2171.29,3578.27,01/08/2017,06/08/2017,5,Ryan Lal,Issaquah,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44062,44062001,1,2171.29,3578.27,01/08/2017,04/08/2017,3,Rebecca Wright,Olympia,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44063,44063001,1,1912.15,3399.99,01/08/2017,07/08/2017,6,Anne Hernandez,Watford,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44064,44064001,1,2171.29,3578.27,01/08/2017,07/08/2017,6,Richard Bailey,Burnaby,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44065,44065001,1,2171.29,3578.27,01/08/2017,09/08/2017,8,Xavier Roberts,Santa Monica,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44066,44066001,1,1912.15,3399.99,01/08/2017,08/08/2017,7,Carlos Carter,Woodland Hills,California,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44067,44067001,1,2171.29,3578.27,01/08/2017,06/08/2017,5,Krystal Lu,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44068,44068001,1,2171.29,3578.27,02/08/2017,04/08/2017,2,Ashlee Xu,Hannover,Nordrhein-Westfalen,Germany,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44069,44069001,1,1898.09,3374.99,02/08/2017,06/08/2017,4,Shannon Dominguez,Orly,Val de Marne,France,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44070,44070001,1,1898.09,3374.99,02/08/2017,09/08/2017,7,Lucas Mitchell,Royal Oak,British Columbia,Canada,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44071,44071001,1,2171.29,3578.27,02/08/2017,06/08/2017,4,Paula Romero,Perth,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44072,44072001,1,2171.29,3578.27,02/08/2017,09/08/2017,7,Ronnie Zhang,Rhodes,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44073,44073001,1,1898.09,3374.99,02/08/2017,06/08/2017,4,Adam Flores,Hervey Bay,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO44134,44134001,1,2171.29,3578.27,03/08/2017,10/08/2017,7,Allen Lopez,Woolston,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44135,44135001,1,2171.29,3578.27,03/08/2017,11/08/2017,8,Gabrielle Hall,Santa Cruz,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44136,44136001,1,2171.29,3578.27,03/08/2017,06/08/2017,3,Lucas Martin,Cliffside,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44137,44137001,1,2171.29,3578.27,03/08/2017,07/08/2017,4,Michelle Cox,Warrnambool,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44138,44138001,1,2171.29,3578.27,04/08/2017,09/08/2017,5,Jaime Shen,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44139,44139001,1,2171.29,3578.27,04/08/2017,06/08/2017,2,Charles Taylor,York,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44140,44140001,1,2171.29,3578.27,04/08/2017,11/08/2017,7,Brandi Ruiz,Saint Germain en Laye,Yveline,France,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44141,44141001,1,2171.29,3578.27,04/08/2017,12/08/2017,8,Shaun Deng,Stuttgart,Saarland,Germany,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44142,44142001,1,2171.29,3578.27,04/08/2017,10/08/2017,6,Jake Zukowski,Cliffside,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44143,44143001,1,2171.29,3578.27,04/08/2017,07/08/2017,3,Brandon Jones,Burbank,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44144,44144001,1,2171.29,3578.27,04/08/2017,12/08/2017,8,Tammy Raji,North Sydney,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44145,44145001,1,2171.29,3578.27,04/08/2017,10/08/2017,6,Amy Ma,South Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44146,44146001,1,2171.29,3578.27,04/08/2017,13/08/2017,9,Alejandro Wang,Seaford,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44147,44147001,1,2171.29,3578.27,04/08/2017,13/08/2017,9,Alan Zhu,Darlinghurst,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44148,44148001,1,2171.29,3578.27,05/08/2017,12/08/2017,7,Charles Moore,Burbank,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44149,44149001,1,2171.29,3578.27,05/08/2017,07/08/2017,2,Dale Chande,Townsville,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44150,44150001,1,2171.29,3578.27,05/08/2017,09/08/2017,4,Carolyn Munoz,Springwood,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44151,44151001,1,413.15,699.1,05/08/2017,15/08/2017,10,Zachary Wilson,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Red, 48",Red,Road-650,699.1
+SO44152,44152001,1,1912.15,3399.99,06/08/2017,13/08/2017,7,Nicole Brown,Stoke-on-Trent,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO44153,44153001,1,2171.29,3578.27,06/08/2017,15/08/2017,9,Jacqueline Ward,Long Beach,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44154,44154001,1,2171.29,3578.27,06/08/2017,13/08/2017,7,Katherine Rodriguez,Lebanon,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44155,44155001,1,2171.29,3578.27,06/08/2017,09/08/2017,3,Todd Zhu,Burbank,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44156,44156001,1,1912.15,3399.99,06/08/2017,14/08/2017,8,Jack Collins,Puyallup,Washington,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO44157,44157001,1,2171.29,3578.27,06/08/2017,12/08/2017,6,Willie She,Darlinghurst,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44158,44158001,1,2171.29,3578.27,07/08/2017,14/08/2017,7,Anne Rubio,Stuttgart,Saarland,Germany,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44159,44159001,1,2171.29,3578.27,07/08/2017,12/08/2017,5,Fernando Turner,Woodland Hills,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44160,44160001,1,2171.29,3578.27,07/08/2017,15/08/2017,8,Jenny Wagner,Beaverton,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44161,44161001,1,2171.29,3578.27,08/08/2017,15/08/2017,7,Michele Perez,Peterborough,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44162,44162001,1,2171.29,3578.27,08/08/2017,13/08/2017,5,Eric Alexander,Burbank,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44163,44163001,1,2171.29,3578.27,08/08/2017,18/08/2017,10,Taylor Davis,Lemon Grove,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44164,44164001,1,2171.29,3578.27,08/08/2017,18/08/2017,10,Marshall Lal,Bellflower,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44165,44165001,1,2171.29,3578.27,08/08/2017,12/08/2017,4,Cedric Chen,Gold Coast,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44166,44166001,1,413.15,699.1,08/08/2017,18/08/2017,10,Kevin Adams,Portland,Oregon,United States,Bikes,Road Bikes,"Road-650 Black, 44",Black,Road-650,699.1
+SO44167,44167001,1,2171.29,3578.27,08/08/2017,12/08/2017,4,Deborah Kumar,Cranbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44168,44168001,1,2171.29,3578.27,09/08/2017,15/08/2017,6,Victor Romero,Roissy en Brie,Seine et Marne,France,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44169,44169001,1,2171.29,3578.27,09/08/2017,12/08/2017,3,Billy Alvarez,Beaverton,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44170,44170001,1,2171.29,3578.27,09/08/2017,16/08/2017,7,Nicole Howard,Burbank,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44171,44171001,1,2171.29,3578.27,09/08/2017,18/08/2017,9,Savannah Evans,Downey,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44172,44172001,1,413.15,699.1,09/08/2017,15/08/2017,6,Gabrielle Mitchell,West Covina,California,United States,Bikes,Road Bikes,"Road-650 Black, 44",Black,Road-650,699.1
+SO44173,44173001,1,2171.29,3578.27,10/08/2017,14/08/2017,4,Spencer Griffin,Warrington,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44174,44174001,1,2171.29,3578.27,10/08/2017,15/08/2017,5,Maria Watson,Townsville,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44175,44175001,1,2171.29,3578.27,10/08/2017,18/08/2017,8,Micah Wu,Coffs Harbour,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44176,44176001,1,2171.29,3578.27,11/08/2017,18/08/2017,7,Virginia Sara,Paris La Defense,Hauts de Seine,France,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44177,44177001,1,1898.09,3374.99,11/08/2017,20/08/2017,9,Jerome Romero,Watford,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44178,44178001,1,2171.29,3578.27,11/08/2017,19/08/2017,8,Jennifer Barnes,Chula Vista,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44179,44179001,1,1898.09,3374.99,11/08/2017,13/08/2017,2,Morgan Edwards,Tacoma,Washington,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44180,44180001,1,1912.15,3399.99,11/08/2017,13/08/2017,2,Marc Diaz,Findon,South Australia,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 48",Silver,Mountain-100,3399.99
+SO44181,44181001,1,2171.29,3578.27,11/08/2017,18/08/2017,7,Ruth Arun,Gold Coast,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44182,44182001,1,2171.29,3578.27,11/08/2017,19/08/2017,8,Jaclyn Ferrier,Geelong,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44183,44183001,1,2171.29,3578.27,12/08/2017,17/08/2017,5,Clarence Luo,Berkeley,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44184,44184001,1,2171.29,3578.27,12/08/2017,16/08/2017,4,Michael Moore,Sydney,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44185,44185001,1,2171.29,3578.27,12/08/2017,18/08/2017,6,Deanna Mehta,Rhodes,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44186,44186001,1,1912.15,3399.99,13/08/2017,15/08/2017,2,Reginald Munoz,Burbank,California,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 48",Silver,Mountain-100,3399.99
+SO44187,44187001,1,2171.29,3578.27,13/08/2017,20/08/2017,7,Christy Zheng,Port Macquarie,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44188,44188001,1,413.15,699.1,14/08/2017,23/08/2017,9,Theodore Ruiz,Bracknell,England,United Kingdom,Bikes,Road Bikes,"Road-650 Black, 60",Black,Road-650,699.1
+SO44189,44189001,1,413.15,699.1,14/08/2017,24/08/2017,10,Clarence Nara,London,England,United Kingdom,Bikes,Road Bikes,"Road-650 Red, 60",Red,Road-650,699.1
+SO44190,44190001,1,1898.09,3374.99,14/08/2017,22/08/2017,8,Todd Gao,Gold Coast,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO44191,44191001,1,2171.29,3578.27,14/08/2017,23/08/2017,9,Alicia Beck,Perth,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44192,44192001,1,2171.29,3578.27,15/08/2017,21/08/2017,6,Benjamin Jackson,Ingolstadt,Bayern,Germany,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44193,44193001,1,2171.29,3578.27,15/08/2017,19/08/2017,4,Gabrielle Coleman,Lakewood,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44194,44194001,1,2171.29,3578.27,15/08/2017,18/08/2017,3,Stephanie Gray,Port Macquarie,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44195,44195001,1,2171.29,3578.27,15/08/2017,24/08/2017,9,Carl Goel,St. Leonards,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44196,44196001,1,2171.29,3578.27,15/08/2017,24/08/2017,9,Victor Sanz,St. Leonards,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44197,44197001,1,2171.29,3578.27,16/08/2017,24/08/2017,8,Alexandra Stewart,Berkeley,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44198,44198001,1,2171.29,3578.27,16/08/2017,23/08/2017,7,Connor Chen,Lincoln Acres,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44199,44199001,1,2171.29,3578.27,16/08/2017,19/08/2017,3,Trisha Wang,Wollongong,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44200,44200001,1,2171.29,3578.27,16/08/2017,18/08/2017,2,Mayra Kovar,Rockhampton,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44201,44201001,1,2171.29,3578.27,17/08/2017,24/08/2017,7,Calvin Deng,Pantin,Seine Saint Denis,France,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44202,44202001,1,2171.29,3578.27,17/08/2017,22/08/2017,5,Tamara Yang,Berkeley,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44203,44203001,1,2171.29,3578.27,17/08/2017,20/08/2017,3,William Miller,Lakewood,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44204,44204001,1,413.15,699.1,17/08/2017,22/08/2017,5,Kyle Diaz,Novato,California,United States,Bikes,Road Bikes,"Road-650 Black, 62",Black,Road-650,699.1
+SO44205,44205001,1,2171.29,3578.27,17/08/2017,26/08/2017,9,Clayton Deng,Newcastle,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44206,44206001,1,1912.15,3399.99,18/08/2017,22/08/2017,4,Shannon Liu,Woolston,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Silver, 48",Silver,Mountain-100,3399.99
+SO44207,44207001,1,2171.29,3578.27,18/08/2017,28/08/2017,10,Bruce Ward,Grossmont,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44208,44208001,1,1912.15,3399.99,18/08/2017,20/08/2017,2,Alyssa Wood,Mill Valley,California,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 48",Silver,Mountain-100,3399.99
+SO44209,44209001,1,2171.29,3578.27,18/08/2017,25/08/2017,7,Darren Rana,Melton,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44210,44210001,1,2171.29,3578.27,19/08/2017,23/08/2017,4,Logan Wright,Peterborough,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44211,44211001,1,2171.29,3578.27,19/08/2017,24/08/2017,5,Katherine Patterson,Long Beach,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44212,44212001,1,2171.29,3578.27,19/08/2017,28/08/2017,9,Isabella Johnson,Glendale,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44213,44213001,1,2171.29,3578.27,19/08/2017,28/08/2017,9,Terrence Sharma,Geelong,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44214,44214001,1,2171.29,3578.27,19/08/2017,23/08/2017,4,Jonathan Green,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44215,44215001,1,2171.29,3578.27,20/08/2017,29/08/2017,9,Jerry Chander,Bellingham,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44216,44216001,1,2171.29,3578.27,20/08/2017,22/08/2017,2,Andres Shan,Frankfurt am Main,Saarland,Germany,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44217,44217001,1,2171.29,3578.27,20/08/2017,26/08/2017,6,Jon Zhao,Bremerton,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44218,44218001,1,2171.29,3578.27,20/08/2017,26/08/2017,6,Jonathan Mitchell,Vancouver,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44219,44219001,1,413.15,699.1,20/08/2017,27/08/2017,7,Marissa Butler,Concord,California,United States,Bikes,Road Bikes,"Road-650 Black, 44",Black,Road-650,699.1
+SO44220,44220001,1,1912.15,3399.99,20/08/2017,30/08/2017,10,Jon Zhou,Warrnambool,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO44221,44221001,1,2171.29,3578.27,20/08/2017,22/08/2017,2,Carly Nath,Lavender Bay,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44222,44222001,1,2171.29,3578.27,20/08/2017,22/08/2017,2,Fernando Green,Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44223,44223001,1,2171.29,3578.27,21/08/2017,24/08/2017,3,Kurt Tang,Oxford,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44224,44224001,1,2171.29,3578.27,21/08/2017,28/08/2017,7,Cassidy Coleman,Coronado,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44225,44225001,1,413.15,699.1,22/08/2017,31/08/2017,9,Kayla Jackson,Runcorn,England,United Kingdom,Bikes,Road Bikes,"Road-650 Red, 60",Red,Road-650,699.1
+SO44226,44226001,1,2171.29,3578.27,22/08/2017,28/08/2017,6,Robyn Alvarez,Colomiers,Garonne (Haute),France,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44227,44227001,1,1898.09,3374.99,22/08/2017,26/08/2017,4,Maria Alexander,Dunkerque,Nord,France,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44228,44228001,1,1912.15,3399.99,22/08/2017,28/08/2017,6,Emily Miller,Newcastle upon Tyne,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44229,44229001,1,1912.15,3399.99,22/08/2017,26/08/2017,4,Rachel Rogers,Marysville,Washington,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44230,44230001,1,2171.29,3578.27,22/08/2017,01/09/2017,10,Omar Chander,Rockhampton,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44231,44231001,1,413.15,699.1,22/08/2017,29/08/2017,7,Johnathan Rodriguez,Paris,Seine (Paris),France,Bikes,Road Bikes,"Road-650 Black, 60",Black,Road-650,699.1
+SO44232,44232001,1,2171.29,3578.27,22/08/2017,28/08/2017,6,Luis Lopez,Geelong,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44233,44233001,1,2171.29,3578.27,23/08/2017,26/08/2017,3,Clayton Kumar,York,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44234,44234001,1,2171.29,3578.27,23/08/2017,01/09/2017,9,Madison Russell,Newport Beach,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44235,44235001,1,2171.29,3578.27,23/08/2017,30/08/2017,7,Sydney Perez,Vancouver,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44236,44236001,1,2171.29,3578.27,23/08/2017,26/08/2017,3,Mya Long,Burien,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44237,44237001,1,2171.29,3578.27,23/08/2017,31/08/2017,8,Shaun Lal,Lavender Bay,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44238,44238001,1,2171.29,3578.27,23/08/2017,30/08/2017,7,Tracy Rai,Sunbury,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44239,44239001,1,2171.29,3578.27,24/08/2017,27/08/2017,3,Kyle Roberts,Versailles,Yveline,France,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44240,44240001,1,2171.29,3578.27,24/08/2017,03/09/2017,10,Carol Xu,Offenbach,Saarland,Germany,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44241,44241001,1,2171.29,3578.27,24/08/2017,28/08/2017,4,Taylor Watson,Newport Beach,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44242,44242001,1,2171.29,3578.27,24/08/2017,28/08/2017,4,Rachel Washington,Woodburn,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44243,44243001,1,2171.29,3578.27,24/08/2017,27/08/2017,3,Isabella Price,Port Macquarie,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44244,44244001,1,2171.29,3578.27,24/08/2017,30/08/2017,6,Jasmine Wilson,Coffs Harbour,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44245,44245001,1,413.15,699.1,24/08/2017,02/09/2017,9,Joan Martin,Caloundra,Queensland,Australia,Bikes,Road Bikes,"Road-650 Red, 52",Red,Road-650,699.1
+SO44246,44246001,1,2171.29,3578.27,25/08/2017,31/08/2017,6,Kurt Nara,Roncq,Nord,France,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44247,44247001,1,2171.29,3578.27,25/08/2017,02/09/2017,8,Michele Raman,Bendigo,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44248,44248001,1,2171.29,3578.27,25/08/2017,03/09/2017,9,Dustin Luo,North Sydney,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44249,44249001,1,2171.29,3578.27,26/08/2017,28/08/2017,2,Shawn Nara,Kirkby,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44250,44250001,1,2171.29,3578.27,26/08/2017,02/09/2017,7,Samuel Hughes,Los Angeles,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44251,44251001,1,2171.29,3578.27,26/08/2017,04/09/2017,9,Kimberly Cook,Redwood City,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44252,44252001,1,2171.29,3578.27,27/08/2017,04/09/2017,8,Manuel Perez,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44253,44253001,1,2171.29,3578.27,27/08/2017,30/08/2017,3,Jesse Turner,Woodland Hills,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44254,44254001,1,2171.29,3578.27,27/08/2017,01/09/2017,5,Willie Lin,Ballard,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44255,44255001,1,413.15,699.1,27/08/2017,30/08/2017,3,Kimberly Torres,Woodland Hills,California,United States,Bikes,Road Bikes,"Road-650 Black, 48",Black,Road-650,699.1
+SO44256,44256001,1,2171.29,3578.27,27/08/2017,30/08/2017,3,Walter Jimenez,Sydney,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44257,44257001,1,2171.29,3578.27,28/08/2017,05/09/2017,8,Shawna Xie,Versailles,Yveline,France,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44258,44258001,1,2171.29,3578.27,28/08/2017,04/09/2017,7,Alan Chen,Ingolstadt,Bayern,Germany,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44259,44259001,1,2171.29,3578.27,28/08/2017,07/09/2017,10,Aidan Henderson,Burien,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44260,44260001,1,2171.29,3578.27,28/08/2017,05/09/2017,8,Lydia Garcia,Beaverton,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44261,44261001,1,2171.29,3578.27,28/08/2017,07/09/2017,10,Paige Reed,Port Hammond,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44262,44262001,1,413.15,699.1,28/08/2017,01/09/2017,4,Heidi Arun,Basingstoke Hants,England,United Kingdom,Bikes,Road Bikes,"Road-650 Red, 60",Red,Road-650,699.1
+SO44263,44263001,1,2171.29,3578.27,28/08/2017,03/09/2017,6,Tanya Alvarez,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44264,44264001,1,2171.29,3578.27,28/08/2017,04/09/2017,7,Randall Rubio,Cranbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44265,44265001,1,413.15,699.1,28/08/2017,30/08/2017,2,Tyrone Navarro,Gold Coast,Queensland,Australia,Bikes,Road Bikes,"Road-650 Red, 58",Red,Road-650,699.1
+SO44266,44266001,1,413.15,699.1,28/08/2017,07/09/2017,10,Troy Sanchez,Lane Cove,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Black, 62",Black,Road-650,699.1
+SO44267,44267001,1,413.15,699.1,29/08/2017,07/09/2017,9,Lance Gomez,Braunschweig,Nordrhein-Westfalen,Germany,Bikes,Road Bikes,"Road-650 Black, 62",Black,Road-650,699.1
+SO44268,44268001,1,2171.29,3578.27,29/08/2017,03/09/2017,5,Danny Alvarez,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44269,44269001,1,413.15,699.1,30/08/2017,05/09/2017,6,Mackenzie Cook,Redwood City,California,United States,Bikes,Road Bikes,"Road-650 Red, 44",Red,Road-650,699.1
+SO44270,44270001,1,2171.29,3578.27,31/08/2017,10/09/2017,10,Mallory Martin,Woolston,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44271,44271001,1,2171.29,3578.27,31/08/2017,05/09/2017,5,Lisa Zheng,Newcastle upon Tyne,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44272,44272001,1,2171.29,3578.27,31/08/2017,10/09/2017,10,Wendy Ramos,Morangis,Essonne,France,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44273,44273001,1,2171.29,3578.27,31/08/2017,09/09/2017,9,Omar Black,Bellflower,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44274,44274001,1,2171.29,3578.27,31/08/2017,09/09/2017,9,Ian Rivera,San Carlos,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44275,44275001,1,2171.29,3578.27,31/08/2017,07/09/2017,7,Noah Flores,Hobart,Tasmania,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44276,44276001,1,2171.29,3578.27,31/08/2017,04/09/2017,4,Nichole Goel,North Ryde,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44277,44277001,1,2171.29,3578.27,31/08/2017,04/09/2017,4,Dwayne Torres,Port Macquarie,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44278,44278001,1,2171.29,3578.27,31/08/2017,08/09/2017,8,Alexandra Allen,Warrnambool,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44279,44279001,1,2171.29,3578.27,31/08/2017,10/09/2017,10,Paul Shakespear,Caloundra,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44320,44320001,1,2171.29,3578.27,01/09/2017,07/09/2017,6,Lacey He,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44321,44321001,1,2171.29,3578.27,01/09/2017,05/09/2017,4,Eduardo Lewis,W. Linn,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44322,44322001,1,413.15,699.1,01/09/2017,11/09/2017,10,Candace Sai,Cergy,Val d'Oise,France,Bikes,Road Bikes,"Road-650 Red, 48",Red,Road-650,699.1
+SO44323,44323001,1,1912.15,3399.99,01/09/2017,06/09/2017,5,Casey Luo,St. Leonards,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44324,44324001,1,2171.29,3578.27,02/09/2017,12/09/2017,10,Clifford Garcia,Les Ulis,Essonne,France,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44325,44325001,1,1898.09,3374.99,02/09/2017,10/09/2017,8,Chad Kumar,Port Macquarie,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO44326,44326001,1,2171.29,3578.27,02/09/2017,06/09/2017,4,Maria Perry,Coffs Harbour,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44327,44327001,1,2171.29,3578.27,03/09/2017,09/09/2017,6,Wyatt Russell,San Diego,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44328,44328001,1,2171.29,3578.27,03/09/2017,07/09/2017,4,Karen Li,Warrnambool,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44329,44329001,1,2171.29,3578.27,03/09/2017,12/09/2017,9,Gina Torres,Sunbury,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44330,44330001,1,2171.29,3578.27,03/09/2017,11/09/2017,8,Alyssa Jones,San Francisco,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44331,44331001,1,2171.29,3578.27,04/09/2017,12/09/2017,8,Zachary Martin,Yakima,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44332,44332001,1,2171.29,3578.27,04/09/2017,10/09/2017,6,Jason Butler,Sunbury,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44333,44333001,1,1912.15,3399.99,05/09/2017,12/09/2017,7,Arthur Carlson,Oxon,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO44334,44334001,1,2171.29,3578.27,05/09/2017,14/09/2017,9,Madeline Mitchell,Redwood City,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44335,44335001,1,413.15,699.1,05/09/2017,08/09/2017,3,Kristina Mehta,Reading,England,United Kingdom,Bikes,Road Bikes,"Road-650 Red, 62",Red,Road-650,699.1
+SO44336,44336001,1,1912.15,3399.99,05/09/2017,09/09/2017,4,Jesse Richardson,Oregon City,Oregon,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO44337,44337001,1,1898.09,3374.99,05/09/2017,09/09/2017,4,Edwin Nara,Warrnambool,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO44338,44338001,1,2171.29,3578.27,05/09/2017,14/09/2017,9,Jeffery Wang,Warrnambool,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44339,44339001,1,2171.29,3578.27,05/09/2017,13/09/2017,8,Nancy Mehta,Silverwater,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44340,44340001,1,2171.29,3578.27,05/09/2017,09/09/2017,4,Ivan Garcia,Sunbury,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44341,44341001,1,1898.09,3374.99,06/09/2017,11/09/2017,5,Nathan Hayes,Mill Valley,California,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO44342,44342001,1,413.15,699.1,06/09/2017,14/09/2017,8,Lauren Jenkins,Everett,Washington,United States,Bikes,Road Bikes,"Road-650 Red, 58",Red,Road-650,699.1
+SO44343,44343001,1,2171.29,3578.27,06/09/2017,08/09/2017,2,Bradley Yuan,North Ryde,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44344,44344001,1,2171.29,3578.27,07/09/2017,17/09/2017,10,Emmanuel Patel,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44345,44345001,1,2171.29,3578.27,07/09/2017,12/09/2017,5,Morgan Henderson,Santa Monica,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44346,44346001,1,413.15,699.1,07/09/2017,11/09/2017,4,Kaylee Kelly,West Covina,California,United States,Bikes,Road Bikes,"Road-650 Black, 62",Black,Road-650,699.1
+SO44347,44347001,1,2171.29,3578.27,07/09/2017,12/09/2017,5,Pedro Rodriguez,Coffs Harbour,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44348,44348001,1,2171.29,3578.27,08/09/2017,14/09/2017,6,Jay Malhotra,Bracknell,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44349,44349001,1,2171.29,3578.27,08/09/2017,13/09/2017,5,Marcus Cook,Lemon Grove,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44350,44350001,1,2171.29,3578.27,08/09/2017,11/09/2017,3,Samantha Davis,Torrance,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44351,44351001,1,2171.29,3578.27,08/09/2017,14/09/2017,6,Sean Gonzalez,Beverly Hills,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44352,44352001,1,2171.29,3578.27,08/09/2017,14/09/2017,6,Gabrielle Edwards,Milwaukie,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44353,44353001,1,413.15,699.1,08/09/2017,14/09/2017,6,Charles Harris,Lemon Grove,California,United States,Bikes,Road Bikes,"Road-650 Red, 44",Red,Road-650,699.1
+SO44354,44354001,1,413.15,699.1,08/09/2017,12/09/2017,4,Sara Ward,Redwood City,California,United States,Bikes,Road Bikes,"Road-650 Black, 62",Black,Road-650,699.1
+SO44355,44355001,1,1912.15,3399.99,08/09/2017,14/09/2017,6,Aimee He,Wollongong,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 48",Silver,Mountain-100,3399.99
+SO44356,44356001,1,1912.15,3399.99,08/09/2017,12/09/2017,4,Adam Ross,Port Macquarie,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO44357,44357001,1,2171.29,3578.27,08/09/2017,18/09/2017,10,Tabitha Subram,North Sydney,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44358,44358001,1,2171.29,3578.27,08/09/2017,15/09/2017,7,Allen Rodriguez,Newcastle,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44359,44359001,1,2171.29,3578.27,09/09/2017,14/09/2017,5,Claudia Sun,Gateshead,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44360,44360001,1,2171.29,3578.27,09/09/2017,15/09/2017,6,Craig Moreno,York,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44361,44361001,1,2171.29,3578.27,09/09/2017,11/09/2017,2,Peter Jai,Dresden,Hessen,Germany,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44362,44362001,1,2171.29,3578.27,09/09/2017,11/09/2017,2,Samuel Mitchell,Santa Monica,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44363,44363001,1,2171.29,3578.27,09/09/2017,12/09/2017,3,Savannah King,Oregon City,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44364,44364001,1,1898.09,3374.99,09/09/2017,19/09/2017,10,Cheryl Diaz,East Brisbane,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO44365,44365001,1,2171.29,3578.27,09/09/2017,19/09/2017,10,Louis Zhou,Lane Cove,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44366,44366001,1,2171.29,3578.27,09/09/2017,19/09/2017,10,Wayne Kumar,Brisbane,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44367,44367001,1,413.15,699.1,09/09/2017,13/09/2017,4,Bonnie Sharma,Malabar,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Red, 48",Red,Road-650,699.1
+SO44368,44368001,1,2171.29,3578.27,10/09/2017,17/09/2017,7,Billy Munoz,Leeds,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44369,44369001,1,2171.29,3578.27,10/09/2017,16/09/2017,6,Tyrone Dominguez,Bellflower,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44370,44370001,1,2171.29,3578.27,10/09/2017,12/09/2017,2,Louis Yuan,Lavender Bay,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44371,44371001,1,2171.29,3578.27,10/09/2017,15/09/2017,5,Cedric Zhou,Perth,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44372,44372001,1,2171.29,3578.27,10/09/2017,17/09/2017,7,Kristine Vazquez,Melton,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44373,44373001,1,2171.29,3578.27,11/09/2017,20/09/2017,9,Linda Jimenez,München,Hamburg,Germany,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44374,44374001,1,2171.29,3578.27,11/09/2017,18/09/2017,7,Willie Xu,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44375,44375001,1,2171.29,3578.27,11/09/2017,15/09/2017,4,Robyn Carlson,Milton Keynes,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44376,44376001,1,1898.09,3374.99,11/09/2017,14/09/2017,3,Janet Gomez,Leipzig,Nordrhein-Westfalen,Germany,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44377,44377001,1,2171.29,3578.27,11/09/2017,14/09/2017,3,Jack Nelson,Bellflower,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44378,44378001,1,1898.09,3374.99,11/09/2017,17/09/2017,6,Marshall Rai,Bellingham,Washington,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44379,44379001,1,1898.09,3374.99,11/09/2017,13/09/2017,2,Damien Chander,Perth,South Australia,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO44380,44380001,1,2171.29,3578.27,11/09/2017,15/09/2017,4,Aimee Li,Darlinghurst,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44381,44381001,1,2171.29,3578.27,12/09/2017,18/09/2017,6,Derrick Martin,Reading,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44382,44382001,1,1912.15,3399.99,12/09/2017,18/09/2017,6,Randy Zeng,Cheltenham,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Silver, 48",Silver,Mountain-100,3399.99
+SO44383,44383001,1,2171.29,3578.27,12/09/2017,14/09/2017,2,Jordan Campbell,Concord,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44384,44384001,1,2171.29,3578.27,12/09/2017,17/09/2017,5,Thomas Butler,Berkeley,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44385,44385001,1,2171.29,3578.27,12/09/2017,15/09/2017,3,Maria Edwards,Lemon Grove,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44386,44386001,1,2171.29,3578.27,12/09/2017,20/09/2017,8,Xavier Harris,Mill Valley,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44387,44387001,1,1898.09,3374.99,12/09/2017,18/09/2017,6,Andrés Anand,North Sydney,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO44388,44388001,1,2171.29,3578.27,12/09/2017,18/09/2017,6,Shawna Lal,Sunbury,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44389,44389001,1,2171.29,3578.27,12/09/2017,15/09/2017,3,Bradley Raji,Darlinghurst,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44390,44390001,1,2171.29,3578.27,12/09/2017,20/09/2017,8,Bruce Navarro,South Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44391,44391001,1,2171.29,3578.27,12/09/2017,18/09/2017,6,Bridget Tang,Geelong,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44392,44392001,1,2171.29,3578.27,12/09/2017,18/09/2017,6,Dustin Nara,Milsons Point,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44393,44393001,1,1912.15,3399.99,13/09/2017,20/09/2017,7,Bruce Suri,Kiel,Saarland,Germany,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO44394,44394001,1,2171.29,3578.27,13/09/2017,18/09/2017,5,Alexa Gray,Corvallis,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44395,44395001,1,2171.29,3578.27,13/09/2017,16/09/2017,3,Sean Edwards,Walla Walla,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44396,44396001,1,1912.15,3399.99,13/09/2017,22/09/2017,9,Lucas Harris,Long Beach,California,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO44397,44397001,1,413.15,699.1,13/09/2017,18/09/2017,5,Amber Hill,Grossmont,California,United States,Bikes,Road Bikes,"Road-650 Red, 52",Red,Road-650,699.1
+SO44398,44398001,1,2171.29,3578.27,13/09/2017,17/09/2017,4,Alberto Gill,Malabar,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44399,44399001,1,2171.29,3578.27,14/09/2017,22/09/2017,8,Eduardo Clark,Puyallup,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44400,44400001,1,2171.29,3578.27,14/09/2017,23/09/2017,9,Emma Griffin,Torrance,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44401,44401001,1,2171.29,3578.27,14/09/2017,16/09/2017,2,Lacey Li,Brisbane,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44402,44402001,1,2171.29,3578.27,15/09/2017,22/09/2017,7,Teresa Ruiz,Grevenbroich,Bayern,Germany,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44403,44403001,1,1898.09,3374.99,15/09/2017,23/09/2017,8,Emma Murphy,Oak Bay,British Columbia,Canada,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44404,44404001,1,2171.29,3578.27,16/09/2017,21/09/2017,5,Isabella Rodriguez,San Gabriel,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44405,44405001,1,2171.29,3578.27,16/09/2017,18/09/2017,2,Spencer Henderson,Newport Beach,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44406,44406001,1,2171.29,3578.27,16/09/2017,19/09/2017,3,Jonathan Shan,Grossmont,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44407,44407001,1,1898.09,3374.99,16/09/2017,25/09/2017,9,Leah Ye,Melton,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO44408,44408001,1,1898.09,3374.99,16/09/2017,19/09/2017,3,Cassie Chande,Darlinghurst,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO44409,44409001,1,413.15,699.1,16/09/2017,26/09/2017,10,Natasha Serrano,Springwood,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Red, 58",Red,Road-650,699.1
+SO44410,44410001,1,2171.29,3578.27,17/09/2017,24/09/2017,7,Jessica Davis,Downey,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44411,44411001,1,2171.29,3578.27,17/09/2017,25/09/2017,8,Rolando Smith,Berkeley,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44412,44412001,1,1898.09,3374.99,17/09/2017,21/09/2017,4,Latasha Navarro,Cloverdale,South Australia,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44413,44413001,1,2171.29,3578.27,18/09/2017,27/09/2017,9,Drew Sharma,Frankfurt,Bayern,Germany,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44414,44414001,1,2171.29,3578.27,18/09/2017,22/09/2017,4,Lucas Butler,Santa Cruz,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44415,44415001,1,2171.29,3578.27,18/09/2017,27/09/2017,9,Carlos James,Woodland Hills,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44416,44416001,1,1912.15,3399.99,18/09/2017,27/09/2017,9,Carolyn Navarro,Gold Coast,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO44417,44417001,1,2171.29,3578.27,18/09/2017,20/09/2017,2,Cristina Raje,Brisbane,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44418,44418001,1,2171.29,3578.27,18/09/2017,28/09/2017,10,Bruce Hernandez,Seaford,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44419,44419001,1,2171.29,3578.27,18/09/2017,25/09/2017,7,Drew Goel,Perth,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44420,44420001,1,2171.29,3578.27,18/09/2017,24/09/2017,6,Cesar Suri,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44421,44421001,1,2171.29,3578.27,19/09/2017,23/09/2017,4,Levi Rana,Frankfurt am Main,Hamburg,Germany,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44422,44422001,1,413.15,699.1,19/09/2017,23/09/2017,4,Desiree Gill,Erlangen,Bayern,Germany,Bikes,Road Bikes,"Road-650 Red, 44",Red,Road-650,699.1
+SO44423,44423001,1,2171.29,3578.27,19/09/2017,26/09/2017,7,Gabriel Diaz,Lemon Grove,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44424,44424001,1,2171.29,3578.27,19/09/2017,26/09/2017,7,Tracy Xu,Lavender Bay,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44425,44425001,1,2171.29,3578.27,19/09/2017,27/09/2017,8,Anna Williams,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44426,44426001,1,2171.29,3578.27,20/09/2017,25/09/2017,5,Gerald Moreno,Frankfurt,Hessen,Germany,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44427,44427001,1,2171.29,3578.27,20/09/2017,23/09/2017,3,Toni Sara,Gateshead,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44428,44428001,1,2171.29,3578.27,20/09/2017,23/09/2017,3,Kaylee Sanchez,Novato,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44429,44429001,1,2171.29,3578.27,20/09/2017,26/09/2017,6,Ryan Long,Walla Walla,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44430,44430001,1,2171.29,3578.27,20/09/2017,22/09/2017,2,Douglas Patel,Wollongong,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44431,44431001,1,2171.29,3578.27,20/09/2017,27/09/2017,7,Daniel Martinez,Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44432,44432001,1,2171.29,3578.27,21/09/2017,23/09/2017,2,Natalie Gray,Newcastle upon Tyne,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44433,44433001,1,2171.29,3578.27,21/09/2017,25/09/2017,4,Samuel Long,Walla Walla,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44434,44434001,1,2171.29,3578.27,21/09/2017,28/09/2017,7,Aimee Liu,Bellflower,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44435,44435001,1,2171.29,3578.27,22/09/2017,27/09/2017,5,Tyrone Gill,Burien,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44436,44436001,1,413.15,699.1,22/09/2017,30/09/2017,8,Vanessa Powell,Shawnee,British Columbia,Canada,Bikes,Road Bikes,"Road-650 Red, 60",Red,Road-650,699.1
+SO44437,44437001,1,1912.15,3399.99,22/09/2017,02/10/2017,10,Blake Anderson,Wollongong,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44438,44438001,1,2171.29,3578.27,22/09/2017,25/09/2017,3,Joanna Ortega,Newcastle,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44439,44439001,1,2171.29,3578.27,23/09/2017,26/09/2017,3,Clinton Blanco,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44440,44440001,1,2171.29,3578.27,23/09/2017,25/09/2017,2,Kaitlin Sanchez,Dunkerque,Nord,France,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44441,44441001,1,2171.29,3578.27,23/09/2017,30/09/2017,7,Jennifer Parker,Vancouver,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44442,44442001,1,413.15,699.1,23/09/2017,02/10/2017,9,Charles Wilson,Lebanon,Oregon,United States,Bikes,Road Bikes,"Road-650 Black, 60",Black,Road-650,699.1
+SO44443,44443001,1,2171.29,3578.27,23/09/2017,03/10/2017,10,Edwin Chander,Wollongong,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44444,44444001,1,2171.29,3578.27,24/09/2017,04/10/2017,10,Jésus Munoz,Offenbach,Saarland,Germany,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44445,44445001,1,2171.29,3578.27,25/09/2017,27/09/2017,2,Renee Martin,Brisbane,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44446,44446001,1,2171.29,3578.27,25/09/2017,04/10/2017,9,Phillip Suri,Findon,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44447,44447001,1,2171.29,3578.27,26/09/2017,04/10/2017,8,Alan Guo,Suresnes,Hauts de Seine,France,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44448,44448001,1,2171.29,3578.27,26/09/2017,01/10/2017,5,Nicole Diaz,Kirkland,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44449,44449001,1,2171.29,3578.27,26/09/2017,28/09/2017,2,Shelby Cox,Santa Monica,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44450,44450001,1,2171.29,3578.27,26/09/2017,02/10/2017,6,Alexis Jenkins,Long Beach,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44451,44451001,1,2171.29,3578.27,26/09/2017,29/09/2017,3,Wyatt Collins,Lebanon,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44452,44452001,1,413.15,699.1,26/09/2017,05/10/2017,9,Carol Ann Rockne,Lancaster,England,United Kingdom,Bikes,Road Bikes,"Road-650 Black, 58",Black,Road-650,699.1
+SO44453,44453001,1,2171.29,3578.27,26/09/2017,02/10/2017,6,Cory Malhotra,Gold Coast,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44454,44454001,1,2171.29,3578.27,26/09/2017,03/10/2017,7,Carolyn Ramos,Springwood,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44455,44455001,1,2171.29,3578.27,26/09/2017,06/10/2017,10,Micheal Saunders,Rockhampton,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44456,44456001,1,413.15,699.1,26/09/2017,06/10/2017,10,Daisy Vazquez,Cranbourne,Victoria,Australia,Bikes,Road Bikes,"Road-650 Red, 58",Red,Road-650,699.1
+SO44457,44457001,1,2171.29,3578.27,27/09/2017,06/10/2017,9,Timothy Cox,Salem,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44458,44458001,1,2171.29,3578.27,27/09/2017,05/10/2017,8,Jonathan Adams,Lake Oswego,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44459,44459001,1,2171.29,3578.27,27/09/2017,06/10/2017,9,Marco Srini,Concord,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44460,44460001,1,413.15,699.1,27/09/2017,05/10/2017,8,Gary Rubio,York,England,United Kingdom,Bikes,Road Bikes,"Road-650 Black, 60",Black,Road-650,699.1
+SO44461,44461001,1,2171.29,3578.27,27/09/2017,04/10/2017,7,Suzanne Zeng,Springwood,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44462,44462001,1,2171.29,3578.27,28/09/2017,03/10/2017,5,Olivia Morris,Newcastle upon Tyne,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44463,44463001,1,413.15,699.1,28/09/2017,07/10/2017,9,Renee Dominguez,Münster,Saarland,Germany,Bikes,Road Bikes,"Road-650 Black, 58",Black,Road-650,699.1
+SO44464,44464001,1,2171.29,3578.27,28/09/2017,04/10/2017,6,Jennifer Perry,Victoria,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44465,44465001,1,413.15,699.1,28/09/2017,08/10/2017,10,Glenn Huang,Bremerton,Washington,United States,Bikes,Road Bikes,"Road-650 Red, 58",Red,Road-650,699.1
+SO44466,44466001,1,413.15,699.1,28/09/2017,05/10/2017,7,Eduardo Lopez,Cliffside,British Columbia,Canada,Bikes,Road Bikes,"Road-650 Black, 60",Black,Road-650,699.1
+SO44467,44467001,1,1912.15,3399.99,28/09/2017,30/09/2017,2,Willie Raji,Sunbury,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO44468,44468001,1,1898.09,3374.99,28/09/2017,02/10/2017,4,Felicia Jimenez,Bendigo,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO44469,44469001,1,2171.29,3578.27,28/09/2017,07/10/2017,9,Leah Sun,Bendigo,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44470,44470001,1,2171.29,3578.27,28/09/2017,30/09/2017,2,Connor Yang,Townsville,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44471,44471001,1,413.15,699.1,28/09/2017,08/10/2017,10,Micah Zeng,Springwood,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Red, 60",Red,Road-650,699.1
+SO44472,44472001,1,2171.29,3578.27,29/09/2017,05/10/2017,6,Briana Torres,Berlin,Hessen,Germany,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44473,44473001,1,2171.29,3578.27,29/09/2017,09/10/2017,10,Robert Clark,Ballard,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44474,44474001,1,413.15,699.1,29/09/2017,03/10/2017,4,Nicolas Rai,Concord,California,United States,Bikes,Road Bikes,"Road-650 Red, 52",Red,Road-650,699.1
+SO44475,44475001,1,1912.15,3399.99,29/09/2017,05/10/2017,6,Abby Sai,Cranbourne,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO44476,44476001,1,2171.29,3578.27,29/09/2017,04/10/2017,5,Lacey Xu,Sunbury,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44477,44477001,1,2171.29,3578.27,29/09/2017,07/10/2017,8,Shane Schmidt,Lane Cove,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44478,44478001,1,2171.29,3578.27,29/09/2017,03/10/2017,4,Caroline Griffin,Melton,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44479,44479001,1,1898.09,3374.99,30/09/2017,06/10/2017,6,Ebony Chandra,Bottrop,Nordrhein-Westfalen,Germany,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44480,44480001,1,1898.09,3374.99,30/09/2017,07/10/2017,7,Brandon Johnson,Woodland Hills,California,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44571,44571001,1,1912.15,3399.99,01/10/2017,05/10/2017,4,Lindsey Yuan,Hamburg,Hessen,Germany,Bikes,Mountain Bikes,"Mountain-100 Silver, 48",Silver,Mountain-100,3399.99
+SO44572,44572001,1,2171.29,3578.27,01/10/2017,07/10/2017,6,Ashlee Sharma,Beaverton,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44573,44573001,1,1912.15,3399.99,01/10/2017,08/10/2017,7,Kyle Long,El Cajon,California,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 48",Silver,Mountain-100,3399.99
+SO44574,44574001,1,1898.09,3374.99,01/10/2017,10/10/2017,9,Bianca Lin,St. Leonards,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44575,44575001,1,1912.15,3399.99,01/10/2017,11/10/2017,10,Curtis Yang,Darlinghurst,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44576,44576001,1,2171.29,3578.27,01/10/2017,08/10/2017,7,Justin Anderson,Beaverton,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44577,44577001,1,2171.29,3578.27,02/10/2017,07/10/2017,5,Devin Williams,Corvallis,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44578,44578001,1,2171.29,3578.27,02/10/2017,06/10/2017,4,Grace Williams,Beverly Hills,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44579,44579001,1,2171.29,3578.27,02/10/2017,12/10/2017,10,Isaiah Murphy,La Jolla,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44580,44580001,1,2171.29,3578.27,03/10/2017,10/10/2017,7,Kelli Lu,Essen,Hamburg,Germany,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44581,44581001,1,1898.09,3374.99,03/10/2017,07/10/2017,4,Kari Alvarez,Port Macquarie,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO44582,44582001,1,1912.15,3399.99,03/10/2017,11/10/2017,8,Larry Townsend,Perth,South Australia,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO44583,44583001,1,2171.29,3578.27,03/10/2017,10/10/2017,7,Katie Lal,Silverwater,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44584,44584001,1,2171.29,3578.27,04/10/2017,13/10/2017,9,Gabrielle Russell,Puyallup,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44585,44585001,1,2171.29,3578.27,04/10/2017,09/10/2017,5,Seth Howard,Lake Oswego,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44586,44586001,1,2171.29,3578.27,04/10/2017,06/10/2017,2,Juan Cooper,W. Linn,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44587,44587001,1,2171.29,3578.27,04/10/2017,12/10/2017,8,Edward Collins,Torrance,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44588,44588001,1,413.15,699.1,04/10/2017,06/10/2017,2,Mariah Simmons,Vancouver,British Columbia,Canada,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO44589,44589001,1,1912.15,3399.99,04/10/2017,14/10/2017,10,Edgar Sara,Gold Coast,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO44590,44590001,1,2171.29,3578.27,05/10/2017,09/10/2017,4,Carl Raje,Frankfurt am Main,Hamburg,Germany,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44591,44591001,1,413.15,699.1,05/10/2017,07/10/2017,2,Cara Sun,Paris,Seine (Paris),France,Bikes,Road Bikes,"Road-650 Red, 52",Red,Road-650,699.1
+SO44592,44592001,1,2171.29,3578.27,05/10/2017,14/10/2017,9,Robert Campbell,Downey,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44593,44593001,1,2171.29,3578.27,05/10/2017,12/10/2017,7,Martin Fernandez,Burlingame,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44594,44594001,1,2171.29,3578.27,05/10/2017,10/10/2017,5,Jeremiah Hall,Geelong,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44595,44595001,1,1912.15,3399.99,05/10/2017,15/10/2017,10,Ross Jordan,Warrnambool,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO44596,44596001,1,2171.29,3578.27,05/10/2017,12/10/2017,7,Eduardo Harris,Caloundra,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44597,44597001,1,2171.29,3578.27,06/10/2017,12/10/2017,6,Kaylee Morris,Lille,Nord,France,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44598,44598001,1,1898.09,3374.99,06/10/2017,15/10/2017,9,Marvin Browning,Paderborn,Hamburg,Germany,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO44599,44599001,1,2171.29,3578.27,06/10/2017,08/10/2017,2,Henry Stone,Burien,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44600,44600001,1,2171.29,3578.27,06/10/2017,12/10/2017,6,Cesar Sai,Milsons Point,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44601,44601001,1,1912.15,3399.99,06/10/2017,14/10/2017,8,April Deng,Matraville,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO44602,44602001,1,2171.29,3578.27,07/10/2017,10/10/2017,3,Curtis Zimmerman,Bury,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44603,44603001,1,413.15,699.1,07/10/2017,12/10/2017,5,Joe Serrano,London,England,United Kingdom,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO44604,44604001,1,413.15,699.1,07/10/2017,11/10/2017,4,Alejandro Nara,Frankfurt am Main,Saarland,Germany,Bikes,Road Bikes,"Road-650 Red, 60",Red,Road-650,699.1
+SO44605,44605001,1,2171.29,3578.27,07/10/2017,09/10/2017,2,Blake Johnson,Los Angeles,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44606,44606001,1,2171.29,3578.27,07/10/2017,11/10/2017,4,Eric Hughes,W. Linn,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44607,44607001,1,2171.29,3578.27,07/10/2017,10/10/2017,3,Latasha Rowe,Concord,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44608,44608001,1,2171.29,3578.27,07/10/2017,16/10/2017,9,Alfredo Gomez,Port Macquarie,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44609,44609001,1,2171.29,3578.27,07/10/2017,10/10/2017,3,Brent Huang,Brisbane,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44610,44610001,1,2171.29,3578.27,07/10/2017,16/10/2017,9,Tony Sharma,Springwood,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44611,44611001,1,2171.29,3578.27,08/10/2017,15/10/2017,7,Roger Huang,Braunschweig,Nordrhein-Westfalen,Germany,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44612,44612001,1,2171.29,3578.27,08/10/2017,12/10/2017,4,Angel Mitchell,West Covina,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44613,44613001,1,2171.29,3578.27,08/10/2017,12/10/2017,4,Courtney Phillips,Bremerton,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44614,44614001,1,2171.29,3578.27,08/10/2017,17/10/2017,9,Jessica Clark,Novato,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44615,44615001,1,2171.29,3578.27,08/10/2017,12/10/2017,4,Miguel Nelson,Salem,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44616,44616001,1,2171.29,3578.27,08/10/2017,14/10/2017,6,Devin Smith,Tacoma,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44617,44617001,1,2171.29,3578.27,08/10/2017,17/10/2017,9,Kelvin Zhu,Bremerton,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44618,44618001,1,2171.29,3578.27,08/10/2017,11/10/2017,3,Lindsey Raji,Port Macquarie,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44619,44619001,1,2171.29,3578.27,09/10/2017,11/10/2017,2,Julie Shan,Saarbrücken,Saarland,Germany,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44620,44620001,1,2171.29,3578.27,09/10/2017,15/10/2017,6,Tiffany Cai,Rockhampton,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44621,44621001,1,2171.29,3578.27,09/10/2017,18/10/2017,9,Danny Alonso,Hawthorne,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44622,44622001,1,2171.29,3578.27,09/10/2017,12/10/2017,3,Victor Moreno,Hamburg,Hamburg,Germany,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44623,44623001,1,2171.29,3578.27,10/10/2017,16/10/2017,6,Nichole Nara,Saint-Denis,Seine Saint Denis,France,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44624,44624001,1,413.15,699.1,10/10/2017,17/10/2017,7,Ryan Flores,Ingolstadt,Bayern,Germany,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO44625,44625001,1,2171.29,3578.27,10/10/2017,14/10/2017,4,Jasmine Bailey,Lakewood,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44626,44626001,1,2171.29,3578.27,10/10/2017,19/10/2017,9,Autumn Lin,Lavender Bay,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44627,44627001,1,1898.09,3374.99,10/10/2017,16/10/2017,6,Ruben Kapoor,South Melbourne,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44628,44628001,1,1898.09,3374.99,10/10/2017,18/10/2017,8,Terrence Carson,Lavender Bay,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO44629,44629001,1,2171.29,3578.27,10/10/2017,17/10/2017,7,Ann Chandra,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44630,44630001,1,2171.29,3578.27,11/10/2017,16/10/2017,5,Abigail Gonzales,San Carlos,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44631,44631001,1,2171.29,3578.27,11/10/2017,18/10/2017,7,Cynthia Madan,Bellflower,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44632,44632001,1,2171.29,3578.27,11/10/2017,19/10/2017,8,Ivan Rana,Coffs Harbour,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44633,44633001,1,2171.29,3578.27,11/10/2017,16/10/2017,5,Louis Kumar,Milsons Point,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44634,44634001,1,2171.29,3578.27,11/10/2017,18/10/2017,7,Sheena Raji,Cloverdale,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44635,44635001,1,2171.29,3578.27,11/10/2017,19/10/2017,8,Thomas Powell,Wollongong,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44636,44636001,1,2171.29,3578.27,12/10/2017,17/10/2017,5,Riley Wood,Kirkby,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44637,44637001,1,2171.29,3578.27,12/10/2017,19/10/2017,7,Martha Chow,Burien,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44638,44638001,1,2171.29,3578.27,12/10/2017,15/10/2017,3,Lauren Brown,Berkeley,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44639,44639001,1,413.15,699.1,12/10/2017,21/10/2017,9,Aaron Flores,Edmonds,Washington,United States,Bikes,Road Bikes,"Road-650 Red, 52",Red,Road-650,699.1
+SO44640,44640001,1,2171.29,3578.27,12/10/2017,21/10/2017,9,Terrence Raje,Springwood,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44641,44641001,1,2171.29,3578.27,12/10/2017,15/10/2017,3,Rachel Griffin,Geelong,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44642,44642001,1,413.15,699.1,12/10/2017,19/10/2017,7,Dennis Zheng,East Brisbane,Queensland,Australia,Bikes,Road Bikes,"Road-650 Red, 52",Red,Road-650,699.1
+SO44643,44643001,1,2171.29,3578.27,13/10/2017,15/10/2017,2,Theresa Alvarez,Saint Ouen,Charente-Maritime,France,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44644,44644001,1,2171.29,3578.27,13/10/2017,18/10/2017,5,Mathew Suarez,Paris,Seine (Paris),France,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44645,44645001,1,1912.15,3399.99,13/10/2017,17/10/2017,4,Jessie Jimenez,Oxford,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44646,44646001,1,1912.15,3399.99,13/10/2017,22/10/2017,9,Laura Chen,Salzgitter,Hessen,Germany,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44647,44647001,1,2171.29,3578.27,13/10/2017,17/10/2017,4,Sebastian James,W. Linn,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44648,44648001,1,1912.15,3399.99,13/10/2017,20/10/2017,7,Naomi Serrano,Burbank,California,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44649,44649001,1,1912.15,3399.99,13/10/2017,18/10/2017,5,Hannah Robinson,Redwood City,California,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44650,44650001,1,1898.09,3374.99,13/10/2017,16/10/2017,3,Ernest Wu,Warrnambool,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO44651,44651001,1,2171.29,3578.27,14/10/2017,18/10/2017,4,Naomi Dominguez,Birmingham,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44652,44652001,1,1898.09,3374.99,14/10/2017,17/10/2017,3,Emma Miller,Villeneuve-d'Ascq,Nord,France,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44653,44653001,1,413.15,699.1,14/10/2017,23/10/2017,9,Jerome Martin,Oxon,England,United Kingdom,Bikes,Road Bikes,"Road-650 Red, 44",Red,Road-650,699.1
+SO44654,44654001,1,2171.29,3578.27,14/10/2017,19/10/2017,5,Brianna Bailey,National City,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44655,44655001,1,1912.15,3399.99,14/10/2017,22/10/2017,8,Candace Fernandez,Matraville,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO44656,44656001,1,2171.29,3578.27,14/10/2017,17/10/2017,3,Heather Yang,Gold Coast,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44657,44657001,1,1898.09,3374.99,14/10/2017,24/10/2017,10,Beth Jiménez,Sydney,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44658,44658001,1,2171.29,3578.27,14/10/2017,22/10/2017,8,Karla Xie,Port Macquarie,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44659,44659001,1,2171.29,3578.27,14/10/2017,17/10/2017,3,Latoya Nara,Lavender Bay,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44660,44660001,1,2171.29,3578.27,15/10/2017,25/10/2017,10,Morgan Anderson,Lemon Grove,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44661,44661001,1,413.15,699.1,15/10/2017,20/10/2017,5,Jeremiah Howard,Downey,California,United States,Bikes,Road Bikes,"Road-650 Black, 62",Black,Road-650,699.1
+SO44662,44662001,1,1898.09,3374.99,15/10/2017,20/10/2017,5,Melinda Gill,Sydney,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44663,44663001,1,2171.29,3578.27,15/10/2017,25/10/2017,10,Marc Ramos,St. Leonards,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44664,44664001,1,2171.29,3578.27,15/10/2017,25/10/2017,10,Carolyn Suarez,St. Leonards,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44665,44665001,1,413.15,699.1,15/10/2017,24/10/2017,9,Fernando Nelson,Wollongong,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Black, 60",Black,Road-650,699.1
+SO44666,44666001,1,2171.29,3578.27,16/10/2017,24/10/2017,8,Mohamed Pal,Burlingame,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44667,44667001,1,2171.29,3578.27,16/10/2017,19/10/2017,3,Jesse Allen,Newport Beach,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44668,44668001,1,2171.29,3578.27,16/10/2017,19/10/2017,3,Kristen Liu,Barstow,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44669,44669001,1,1898.09,3374.99,16/10/2017,21/10/2017,5,Brianna Brooks,San Diego,California,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44670,44670001,1,2171.29,3578.27,16/10/2017,19/10/2017,3,Misty Goel,Brisbane,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44671,44671001,1,2171.29,3578.27,16/10/2017,22/10/2017,6,Preston Chapman,South Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44672,44672001,1,2171.29,3578.27,16/10/2017,22/10/2017,6,Phillip Gonzalez,Silverwater,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44673,44673001,1,2171.29,3578.27,17/10/2017,26/10/2017,9,Nina Deng,Münster,Saarland,Germany,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44674,44674001,1,2171.29,3578.27,17/10/2017,27/10/2017,10,Levi Gonzalez,Bellflower,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44675,44675001,1,413.15,699.1,17/10/2017,26/10/2017,9,Kristine Navarro,Milsons Point,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Black, 62",Black,Road-650,699.1
+SO44676,44676001,1,2171.29,3578.27,17/10/2017,23/10/2017,6,Cedric Xu,Darlinghurst,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44677,44677001,1,2171.29,3578.27,18/10/2017,27/10/2017,9,Xavier Martin,Haney,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44678,44678001,1,2171.29,3578.27,18/10/2017,25/10/2017,7,Jackson Henderson,Haney,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44679,44679001,1,1912.15,3399.99,18/10/2017,24/10/2017,6,Jessie Liu,Warrnambool,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO44680,44680001,1,2171.29,3578.27,19/10/2017,27/10/2017,8,Francisco Sara,Les Ulis,Essonne,France,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44681,44681001,1,413.15,699.1,19/10/2017,28/10/2017,9,Francisco Mehta,Saint Ouen,Somme,France,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO44682,44682001,1,2171.29,3578.27,19/10/2017,24/10/2017,5,Alexandra Wood,Oakland,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44683,44683001,1,2171.29,3578.27,19/10/2017,21/10/2017,2,Amber Nelson,Glendale,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44684,44684001,1,2171.29,3578.27,19/10/2017,25/10/2017,6,Xavier Gray,Spring Valley,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44685,44685001,1,2171.29,3578.27,19/10/2017,21/10/2017,2,Alison Chander,Perth,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44686,44686001,1,2171.29,3578.27,20/10/2017,23/10/2017,3,Eugene Liu,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44687,44687001,1,413.15,699.1,20/10/2017,28/10/2017,8,Kelli Gao,Oxford,England,United Kingdom,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO44688,44688001,1,2171.29,3578.27,20/10/2017,22/10/2017,2,Lindsay Chande,East Brisbane,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44689,44689001,1,2171.29,3578.27,20/10/2017,28/10/2017,8,Wendy Torres,Hawthorne,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44690,44690001,1,1912.15,3399.99,20/10/2017,30/10/2017,10,Meredith Gutierrez,Geelong,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44691,44691001,1,1912.15,3399.99,21/10/2017,31/10/2017,10,Bradley Luo,Metz,Moselle,France,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO44692,44692001,1,2171.29,3578.27,21/10/2017,23/10/2017,2,Julia Gonzales,Marysville,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44693,44693001,1,2171.29,3578.27,21/10/2017,28/10/2017,7,Alex Bailey,Burbank,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44694,44694001,1,2171.29,3578.27,21/10/2017,28/10/2017,7,Paige Brooks,Haney,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44695,44695001,1,1912.15,3399.99,21/10/2017,25/10/2017,4,John Smith,Port Hammond,British Columbia,Canada,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO44696,44696001,1,2171.29,3578.27,21/10/2017,25/10/2017,4,Larry Martin,Lane Cove,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44697,44697001,1,2171.29,3578.27,22/10/2017,29/10/2017,7,Felicia Gomez,Wollongong,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44698,44698001,1,413.15,699.1,22/10/2017,28/10/2017,6,Kevin Perez,Sunbury,Victoria,Australia,Bikes,Road Bikes,"Road-650 Red, 44",Red,Road-650,699.1
+SO44699,44699001,1,2171.29,3578.27,23/10/2017,25/10/2017,2,Katherine Gonzalez,Shawnee,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44700,44700001,1,2171.29,3578.27,23/10/2017,29/10/2017,6,Brianna Foster,Everett,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44701,44701001,1,413.15,699.1,23/10/2017,31/10/2017,8,Kelly Powell,Lake Oswego,Oregon,United States,Bikes,Road Bikes,"Road-650 Black, 62",Black,Road-650,699.1
+SO44702,44702001,1,2171.29,3578.27,23/10/2017,27/10/2017,4,Jodi Sharma,Warrnambool,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44703,44703001,1,2171.29,3578.27,24/10/2017,28/10/2017,4,Adriana Gonzalez,Colomiers,Garonne (Haute),France,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44704,44704001,1,1898.09,3374.99,24/10/2017,03/11/2017,10,Erik Romero,Paderborn,Nordrhein-Westfalen,Germany,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44705,44705001,1,2171.29,3578.27,24/10/2017,03/11/2017,10,Ben Adams,Bremerton,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44706,44706001,1,2171.29,3578.27,24/10/2017,02/11/2017,9,Katelyn Bailey,Seattle,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44707,44707001,1,2171.29,3578.27,24/10/2017,28/10/2017,4,Nathan Martinez,Burlingame,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44708,44708001,1,1898.09,3374.99,24/10/2017,26/10/2017,2,Chase James,National City,California,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44709,44709001,1,2171.29,3578.27,24/10/2017,29/10/2017,5,Arthur Smith,Melton,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44710,44710001,1,2171.29,3578.27,25/10/2017,28/10/2017,3,Nathan Yang,Santa Monica,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44711,44711001,1,2171.29,3578.27,25/10/2017,01/11/2017,7,Pedro Moreno,Caloundra,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44712,44712001,1,1898.09,3374.99,25/10/2017,03/11/2017,9,Crystal Wang,Hervey Bay,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO44713,44713001,1,2171.29,3578.27,26/10/2017,04/11/2017,9,Melissa Perry,Langford,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44714,44714001,1,2171.29,3578.27,26/10/2017,28/10/2017,2,Ryan Hayes,Milwaukie,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44715,44715001,1,2171.29,3578.27,26/10/2017,04/11/2017,9,Madeline Parker,Sooke,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44716,44716001,1,2171.29,3578.27,26/10/2017,30/10/2017,4,Jordyn Bennett,N. Vancouver,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44717,44717001,1,413.15,699.1,26/10/2017,30/10/2017,4,Emma Sandberg,Concord,California,United States,Bikes,Road Bikes,"Road-650 Black, 62",Black,Road-650,699.1
+SO44718,44718001,1,2171.29,3578.27,26/10/2017,04/11/2017,9,Alisha Zhu,Malabar,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44719,44719001,1,2171.29,3578.27,27/10/2017,30/10/2017,3,Edward Edwards,Gateshead,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44720,44720001,1,2171.29,3578.27,27/10/2017,05/11/2017,9,Logan Griffin,Sedro Woolley,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44721,44721001,1,413.15,699.1,27/10/2017,01/11/2017,5,Benjamin Miller,Sooke,British Columbia,Canada,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO44722,44722001,1,2171.29,3578.27,28/10/2017,06/11/2017,9,Steve Guo,Hamburg,Hessen,Germany,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44723,44723001,1,1912.15,3399.99,28/10/2017,05/11/2017,8,Lucas Price,Hof,Bayern,Germany,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO44724,44724001,1,2171.29,3578.27,28/10/2017,04/11/2017,7,Donna Anand,Bellingham,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44725,44725001,1,1912.15,3399.99,28/10/2017,05/11/2017,8,Natalie Miller,National City,California,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO44726,44726001,1,413.15,699.1,28/10/2017,06/11/2017,9,Dylan Bryant,Colma,California,United States,Bikes,Road Bikes,"Road-650 Black, 58",Black,Road-650,699.1
+SO44727,44727001,1,2171.29,3578.27,28/10/2017,05/11/2017,8,Natalie Moore,Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44728,44728001,1,1912.15,3399.99,28/10/2017,01/11/2017,4,Shaun Carson,North Ryde,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44729,44729001,1,2171.29,3578.27,29/10/2017,03/11/2017,5,Brad She,Cergy,Val d'Oise,France,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44730,44730001,1,2171.29,3578.27,29/10/2017,05/11/2017,7,Nelson Jimenez,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44731,44731001,1,2171.29,3578.27,29/10/2017,03/11/2017,5,Dalton Ward,Lynnwood,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44732,44732001,1,2171.29,3578.27,29/10/2017,05/11/2017,7,Ricky Sanz,Geelong,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44733,44733001,1,2171.29,3578.27,29/10/2017,01/11/2017,3,Ronald Suri,Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44734,44734001,1,2171.29,3578.27,30/10/2017,08/11/2017,9,Bethany Chande,Drancy,Seine Saint Denis,France,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44735,44735001,1,2171.29,3578.27,30/10/2017,08/11/2017,9,Arianna Reed,Mill Valley,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44736,44736001,1,413.15,699.1,30/10/2017,06/11/2017,7,Amber Baker,W. Linn,Oregon,United States,Bikes,Road Bikes,"Road-650 Red, 48",Red,Road-650,699.1
+SO44737,44737001,1,2171.29,3578.27,30/10/2017,04/11/2017,5,Christine Pal,Newcastle,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44738,44738001,1,2171.29,3578.27,30/10/2017,03/11/2017,4,Alvin Sun,Bendigo,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44739,44739001,1,2171.29,3578.27,30/10/2017,02/11/2017,3,Erika Gill,Townsville,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44803,44803001,1,2171.29,3578.27,31/10/2017,08/11/2017,8,Albert Gomez,Paris,Seine (Paris),France,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44804,44804001,1,2171.29,3578.27,31/10/2017,04/11/2017,4,Robert Bryant,Berkeley,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44805,44805001,1,2171.29,3578.27,31/10/2017,03/11/2017,3,Allison Roberts,San Francisco,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44806,44806001,1,2171.29,3578.27,31/10/2017,08/11/2017,8,Bruce Martinez,Bendigo,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44807,44807001,1,1898.09,3374.99,31/10/2017,06/11/2017,6,Brittney Sun,Findon,South Australia,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44808,44808001,1,2171.29,3578.27,01/11/2017,08/11/2017,7,Dominic Sara,Hof,Bayern,Germany,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44809,44809001,1,413.15,699.1,01/11/2017,09/11/2017,8,Heather Liang,Milton Keynes,England,United Kingdom,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO44810,44810001,1,2171.29,3578.27,01/11/2017,10/11/2017,9,Chloe Cox,Burbank,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44811,44811001,1,2171.29,3578.27,01/11/2017,07/11/2017,6,Sean Turner,Sooke,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44812,44812001,1,2171.29,3578.27,01/11/2017,11/11/2017,10,Harold Perez,Colma,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44813,44813001,1,2171.29,3578.27,01/11/2017,08/11/2017,7,Aaron Diaz,Melton,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44814,44814001,1,2171.29,3578.27,01/11/2017,03/11/2017,2,Jaclyn Li,Milsons Point,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44815,44815001,1,1898.09,3374.99,01/11/2017,05/11/2017,4,Tina Mehta,Bendigo,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO44816,44816001,1,2171.29,3578.27,02/11/2017,06/11/2017,4,Rosa Hu,Les Ulis,Essonne,France,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44817,44817001,1,2171.29,3578.27,02/11/2017,09/11/2017,7,Kayla Jenkins,Runcorn,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44818,44818001,1,2171.29,3578.27,02/11/2017,08/11/2017,6,Joshua Robinson,Coronado,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44819,44819001,1,2171.29,3578.27,02/11/2017,11/11/2017,9,Miguel Davis,Marysville,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44820,44820001,1,1898.09,3374.99,02/11/2017,09/11/2017,7,Jocelyn Henderson,W. Linn,Oregon,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44821,44821001,1,1912.15,3399.99,02/11/2017,10/11/2017,8,Ebony Gutierrez,Bremerton,Washington,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO44822,44822001,1,2171.29,3578.27,02/11/2017,07/11/2017,5,Kari Torres,St. Leonards,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44823,44823001,1,2171.29,3578.27,02/11/2017,04/11/2017,2,Clayton Xu,Townsville,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44824,44824001,1,2171.29,3578.27,02/11/2017,08/11/2017,6,Derrick Gomez,Newcastle,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44825,44825001,1,2171.29,3578.27,02/11/2017,08/11/2017,6,Mandy Wu,Port Macquarie,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44826,44826001,1,2171.29,3578.27,03/11/2017,13/11/2017,10,Margaret He,Metz,Moselle,France,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44827,44827001,1,1912.15,3399.99,03/11/2017,06/11/2017,3,Mariah Griffin,Lebanon,Oregon,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44828,44828001,1,2171.29,3578.27,03/11/2017,10/11/2017,7,Hector Carlson,Chula Vista,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44829,44829001,1,413.15,699.1,03/11/2017,10/11/2017,7,Eric Simmons,Everett,Washington,United States,Bikes,Road Bikes,"Road-650 Black, 60",Black,Road-650,699.1
+SO44830,44830001,1,2171.29,3578.27,03/11/2017,05/11/2017,2,Audrey Serrano,Townsville,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44831,44831001,1,1898.09,3374.99,04/11/2017,06/11/2017,2,Monica Mehta,Sulzbach Taunus,Saarland,Germany,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44832,44832001,1,2171.29,3578.27,04/11/2017,06/11/2017,2,Wyatt Allen,Burbank,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44833,44833001,1,2171.29,3578.27,04/11/2017,09/11/2017,5,Nicole Bailey,Long Beach,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44834,44834001,1,1898.09,3374.99,04/11/2017,11/11/2017,7,Jon Alonso,Colma,California,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44835,44835001,1,2171.29,3578.27,04/11/2017,10/11/2017,6,Nina Andersen,Warrnambool,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44836,44836001,1,2171.29,3578.27,04/11/2017,14/11/2017,10,Jamie Yang,Sunbury,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44837,44837001,1,2171.29,3578.27,05/11/2017,08/11/2017,3,Richard Perez,Erlangen,Bayern,Germany,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44838,44838001,1,2171.29,3578.27,05/11/2017,07/11/2017,2,Vincent He,Kassel,Hessen,Germany,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44839,44839001,1,2171.29,3578.27,05/11/2017,14/11/2017,9,Caleb Hernandez,Renton,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44840,44840001,1,2171.29,3578.27,05/11/2017,15/11/2017,10,Matthew Johnson,Downey,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44841,44841001,1,2171.29,3578.27,05/11/2017,14/11/2017,9,Ricky Diaz,Gold Coast,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44842,44842001,1,2171.29,3578.27,06/11/2017,12/11/2017,6,Meagan Sai,Paderborn,Nordrhein-Westfalen,Germany,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44843,44843001,1,2171.29,3578.27,06/11/2017,13/11/2017,7,Olivia Reed,Coronado,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44844,44844001,1,2171.29,3578.27,06/11/2017,13/11/2017,7,Riley Coleman,Torrance,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44845,44845001,1,2171.29,3578.27,06/11/2017,11/11/2017,5,Kaitlyn Simmons,Burien,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44846,44846001,1,2171.29,3578.27,06/11/2017,10/11/2017,4,Edwin Ye,Cloverdale,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44847,44847001,1,1912.15,3399.99,06/11/2017,15/11/2017,9,Kari Kim,Silverwater,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO44848,44848001,1,1898.09,3374.99,07/11/2017,14/11/2017,7,Kelli Zhu,Paris,Seine (Paris),France,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO44849,44849001,1,413.15,699.1,07/11/2017,14/11/2017,7,Cedric Raji,Les Ulis,Essonne,France,Bikes,Road Bikes,"Road-650 Red, 60",Red,Road-650,699.1
+SO44850,44850001,1,413.15,699.1,07/11/2017,15/11/2017,8,Alexis Foster,Frankfurt,Hessen,Germany,Bikes,Road Bikes,"Road-650 Black, 62",Black,Road-650,699.1
+SO44851,44851001,1,2171.29,3578.27,07/11/2017,12/11/2017,5,Richard Murphy,Oak Bay,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44852,44852001,1,2171.29,3578.27,07/11/2017,12/11/2017,5,Alyssa Reed,Grossmont,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44853,44853001,1,1898.09,3374.99,07/11/2017,14/11/2017,7,Sara Rogers,Westminster,British Columbia,Canada,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO44854,44854001,1,2171.29,3578.27,07/11/2017,13/11/2017,6,Andrew Thomas,Santa Monica,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44855,44855001,1,413.15,699.1,07/11/2017,12/11/2017,5,Isabella Brown,Port Hammond,British Columbia,Canada,Bikes,Road Bikes,"Road-650 Red, 58",Red,Road-650,699.1
+SO44856,44856001,1,413.15,699.1,07/11/2017,09/11/2017,2,Amber Green,W. Linn,Oregon,United States,Bikes,Road Bikes,"Road-650 Red, 48",Red,Road-650,699.1
+SO44857,44857001,1,2171.29,3578.27,07/11/2017,16/11/2017,9,Dustin Sharma,Darlinghurst,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44858,44858001,1,2171.29,3578.27,07/11/2017,16/11/2017,9,Tasha Nath,Sunbury,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44859,44859001,1,2171.29,3578.27,07/11/2017,10/11/2017,3,Jeremy Phillips,Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44860,44860001,1,2171.29,3578.27,07/11/2017,13/11/2017,6,Ann Subram,Caloundra,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44861,44861001,1,2171.29,3578.27,07/11/2017,14/11/2017,7,Daisy Suarez,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44862,44862001,1,2171.29,3578.27,07/11/2017,13/11/2017,6,Olivia White,Wollongong,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44863,44863001,1,2171.29,3578.27,07/11/2017,10/11/2017,3,Darren Townsend,Gold Coast,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44864,44864001,1,1898.09,3374.99,07/11/2017,15/11/2017,8,Jennifer Collins,Geelong,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO44865,44865001,1,1898.09,3374.99,07/11/2017,13/11/2017,6,Wendy Romero,Brisbane,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO44866,44866001,1,1898.09,3374.99,07/11/2017,09/11/2017,2,Grace Griffin,Hobart,Tasmania,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44867,44867001,1,2171.29,3578.27,08/11/2017,18/11/2017,10,Clayton Nath,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44868,44868001,1,2171.29,3578.27,08/11/2017,16/11/2017,8,Mariah Watson,Lake Oswego,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44869,44869001,1,2171.29,3578.27,08/11/2017,12/11/2017,4,Ernest Zhao,Seaford,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44870,44870001,1,2171.29,3578.27,08/11/2017,15/11/2017,7,Julie Xu,Sunbury,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44871,44871001,1,1912.15,3399.99,08/11/2017,17/11/2017,9,Julian Ross,Melbourne,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO44872,44872001,1,2171.29,3578.27,09/11/2017,14/11/2017,5,Dale Anand,Burbank,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44873,44873001,1,2171.29,3578.27,09/11/2017,14/11/2017,5,Andrea Murphy,Santa Monica,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44874,44874001,1,413.15,699.1,10/11/2017,19/11/2017,9,Tonya Shen,Paris,Seine (Paris),France,Bikes,Road Bikes,"Road-650 Red, 58",Red,Road-650,699.1
+SO44875,44875001,1,2171.29,3578.27,10/11/2017,15/11/2017,5,William Harris,Berkeley,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44876,44876001,1,2171.29,3578.27,10/11/2017,12/11/2017,2,Angelica Griffin,West Covina,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44877,44877001,1,2171.29,3578.27,10/11/2017,19/11/2017,9,Caroline Bryant,Bellflower,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44878,44878001,1,2171.29,3578.27,10/11/2017,15/11/2017,5,Maria Cox,Corvallis,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44879,44879001,1,2171.29,3578.27,10/11/2017,12/11/2017,2,Abigail Harris,Edmonds,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44880,44880001,1,2171.29,3578.27,10/11/2017,19/11/2017,9,Jennifer Taylor,Melton,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44881,44881001,1,2171.29,3578.27,10/11/2017,16/11/2017,6,Vincent Zheng,Hervey Bay,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44882,44882001,1,2171.29,3578.27,10/11/2017,12/11/2017,2,Vincent Huang,Hawthorne,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44883,44883001,1,2171.29,3578.27,10/11/2017,13/11/2017,3,Trisha Li,Coffs Harbour,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44884,44884001,1,2171.29,3578.27,10/11/2017,14/11/2017,4,Erica Chen,South Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44885,44885001,1,2171.29,3578.27,11/11/2017,14/11/2017,3,Riley Hayes,Kirkby,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44886,44886001,1,2171.29,3578.27,11/11/2017,19/11/2017,8,Seth Evans,El Cajon,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44887,44887001,1,2171.29,3578.27,11/11/2017,14/11/2017,3,Blake Jackson,Issaquah,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44888,44888001,1,2171.29,3578.27,11/11/2017,14/11/2017,3,Jasmine Ross,Bremerton,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44889,44889001,1,1898.09,3374.99,12/11/2017,17/11/2017,5,Anne Ramos,London,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO44890,44890001,1,1912.15,3399.99,12/11/2017,16/11/2017,4,Meredith Raman,London,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO44891,44891001,1,2171.29,3578.27,12/11/2017,18/11/2017,6,Carly Xu,Concord,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44892,44892001,1,2171.29,3578.27,12/11/2017,18/11/2017,6,Brianna Rodriguez,Newton,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44893,44893001,1,2171.29,3578.27,12/11/2017,22/11/2017,10,Luke Wang,Spokane,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44894,44894001,1,1898.09,3374.99,12/11/2017,20/11/2017,8,Brianna McDonald,Novato,California,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO44895,44895001,1,1898.09,3374.99,12/11/2017,18/11/2017,6,Anthony Anderson,Beverly Hills,California,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO44896,44896001,1,1912.15,3399.99,12/11/2017,19/11/2017,7,Christopher Winston,Lake Oswego,Oregon,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO44897,44897001,1,2171.29,3578.27,12/11/2017,21/11/2017,9,Mindy Black,Hervey Bay,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44898,44898001,1,2171.29,3578.27,12/11/2017,19/11/2017,7,Amy Zhang,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44899,44899001,1,1898.09,3374.99,12/11/2017,14/11/2017,2,Carrie Ortega,Warrington,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO44900,44900001,1,2171.29,3578.27,13/11/2017,21/11/2017,8,Renee Jimenez,Lancaster,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44901,44901001,1,2171.29,3578.27,13/11/2017,16/11/2017,3,Andres Nara,Paris,Seine (Paris),France,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44902,44902001,1,2171.29,3578.27,13/11/2017,17/11/2017,4,Randall Carlson,Grevenbroich,Bayern,Germany,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44903,44903001,1,2171.29,3578.27,13/11/2017,19/11/2017,6,Carl Deng,Hobart,Tasmania,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44904,44904001,1,1898.09,3374.99,13/11/2017,15/11/2017,2,Jarrod Prasad,Malabar,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44905,44905001,1,2171.29,3578.27,14/11/2017,24/11/2017,10,Jay Moyer,Erlangen,Bayern,Germany,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44906,44906001,1,2171.29,3578.27,14/11/2017,19/11/2017,5,Barry Rana,Birmingham,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44907,44907001,1,413.15,699.1,14/11/2017,19/11/2017,5,Devin Collins,Frankfurt,Hessen,Germany,Bikes,Road Bikes,"Road-650 Red, 62",Red,Road-650,699.1
+SO44908,44908001,1,2171.29,3578.27,14/11/2017,23/11/2017,9,Taylor Ramirez,Mill Valley,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44909,44909001,1,2171.29,3578.27,14/11/2017,19/11/2017,5,Valerie Harrison,Burbank,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44910,44910001,1,1912.15,3399.99,14/11/2017,22/11/2017,8,Jason Parker,Glendale,California,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO44911,44911001,1,1898.09,3374.99,14/11/2017,16/11/2017,2,Hunter Coleman,El Cajon,California,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44912,44912001,1,2171.29,3578.27,14/11/2017,23/11/2017,9,Martha Li,Concord,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44913,44913001,1,2171.29,3578.27,14/11/2017,20/11/2017,6,Joel Sanchez,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44914,44914001,1,2171.29,3578.27,14/11/2017,23/11/2017,9,Michele Gonzalez,Darlinghurst,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44915,44915001,1,2171.29,3578.27,14/11/2017,24/11/2017,10,Tina Martinez,Springwood,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44916,44916001,1,2171.29,3578.27,14/11/2017,22/11/2017,8,Adriana Suri,Lane Cove,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44917,44917001,1,2171.29,3578.27,15/11/2017,24/11/2017,9,Kenneth Xie,Braunschweig,Nordrhein-Westfalen,Germany,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44918,44918001,1,1898.09,3374.99,15/11/2017,17/11/2017,2,Lance Jimenez,Solingen,Nordrhein-Westfalen,Germany,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44919,44919001,1,2171.29,3578.27,15/11/2017,24/11/2017,9,Gabriel Long,Woodburn,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44920,44920001,1,413.15,699.1,15/11/2017,18/11/2017,3,Eric Evans,National City,California,United States,Bikes,Road Bikes,"Road-650 Black, 44",Black,Road-650,699.1
+SO44921,44921001,1,2171.29,3578.27,15/11/2017,23/11/2017,8,Johnny Nara,Silverwater,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44922,44922001,1,2171.29,3578.27,15/11/2017,21/11/2017,6,Terry Lal,Hawthorne,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44923,44923001,1,2171.29,3578.27,15/11/2017,23/11/2017,8,Carla Gonzalez,Malabar,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44924,44924001,1,2171.29,3578.27,16/11/2017,20/11/2017,4,Matthew Smith,Port Orchard,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44925,44925001,1,2171.29,3578.27,16/11/2017,21/11/2017,5,Kaitlin McDonald,Malabar,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44926,44926001,1,413.15,699.1,16/11/2017,25/11/2017,9,Francisco Madan,Caloundra,Queensland,Australia,Bikes,Road Bikes,"Road-650 Red, 48",Red,Road-650,699.1
+SO44927,44927001,1,1898.09,3374.99,16/11/2017,18/11/2017,2,Kyle Patterson,Melbourne,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO44928,44928001,1,2171.29,3578.27,17/11/2017,20/11/2017,3,Lee Vazquez,Leeds,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44929,44929001,1,2171.29,3578.27,17/11/2017,19/11/2017,2,Ashley Clark,Lille,Nord,France,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44930,44930001,1,2171.29,3578.27,17/11/2017,22/11/2017,5,Sydney Smith,Los Angeles,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44931,44931001,1,2171.29,3578.27,17/11/2017,20/11/2017,3,Garrett Murphy,Spokane,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44932,44932001,1,2171.29,3578.27,17/11/2017,26/11/2017,9,Shannon Serrano,North Sydney,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44933,44933001,1,2171.29,3578.27,17/11/2017,23/11/2017,6,Alexa Murphy,Cranbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44934,44934001,1,2171.29,3578.27,18/11/2017,25/11/2017,7,Heidi Vance,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44935,44935001,1,2171.29,3578.27,18/11/2017,25/11/2017,7,Terrance Rodriguez,Villeneuve-d'Ascq,Nord,France,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44936,44936001,1,2171.29,3578.27,18/11/2017,23/11/2017,5,Olivia Wilson,Portland,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44937,44937001,1,2171.29,3578.27,18/11/2017,25/11/2017,7,Martha She,Calgary,Alberta,Canada,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44938,44938001,1,2171.29,3578.27,18/11/2017,23/11/2017,5,Miguel Mitchell,Everett,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44939,44939001,1,2171.29,3578.27,18/11/2017,22/11/2017,4,Destiny Perry,Milwaukie,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44940,44940001,1,2171.29,3578.27,18/11/2017,28/11/2017,10,Brad Rai,Hervey Bay,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44941,44941001,1,2171.29,3578.27,18/11/2017,24/11/2017,6,Tara Lal,Lane Cove,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44942,44942001,1,2171.29,3578.27,18/11/2017,26/11/2017,8,Kenneth Lal,Sunbury,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44943,44943001,1,413.15,699.1,18/11/2017,22/11/2017,4,Christy Wu,East Brisbane,Queensland,Australia,Bikes,Road Bikes,"Road-650 Red, 52",Red,Road-650,699.1
+SO44944,44944001,1,413.15,699.1,18/11/2017,27/11/2017,9,Louis Raje,Findon,South Australia,Australia,Bikes,Road Bikes,"Road-650 Black, 58",Black,Road-650,699.1
+SO44945,44945001,1,413.15,699.1,18/11/2017,24/11/2017,6,Diana Gill,Lavender Bay,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Red, 60",Red,Road-650,699.1
+SO44946,44946001,1,1898.09,3374.99,18/11/2017,24/11/2017,6,Ramon Ye,Caloundra,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44947,44947001,1,1912.15,3399.99,18/11/2017,24/11/2017,6,Bethany Chander,Lane Cove,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO44948,44948001,1,2171.29,3578.27,19/11/2017,24/11/2017,5,Kyle Carter,Chatou,Yveline,France,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44949,44949001,1,1898.09,3374.99,19/11/2017,25/11/2017,6,Jaime Raje,Saarbrücken,Saarland,Germany,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44950,44950001,1,2171.29,3578.27,19/11/2017,24/11/2017,5,Elijah Phillips,Coronado,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44951,44951001,1,2171.29,3578.27,19/11/2017,23/11/2017,4,Chloe Price,Beverly Hills,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44952,44952001,1,1898.09,3374.99,19/11/2017,27/11/2017,8,Anna Robinson,Santa Monica,California,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44953,44953001,1,2171.29,3578.27,19/11/2017,21/11/2017,2,Micah Cai,Bountiful,Utah,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44954,44954001,1,2171.29,3578.27,19/11/2017,21/11/2017,2,Ann Raman,Concord,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44955,44955001,1,413.15,699.1,19/11/2017,24/11/2017,5,Savannah Lopez,Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO44956,44956001,1,1898.09,3374.99,19/11/2017,26/11/2017,7,Alvin Hu,Seaford,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO44957,44957001,1,2171.29,3578.27,20/11/2017,24/11/2017,4,Ryan Williams,Royal Oak,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44958,44958001,1,413.15,699.1,20/11/2017,23/11/2017,3,Dennis Zhao,London,England,United Kingdom,Bikes,Road Bikes,"Road-650 Black, 58",Black,Road-650,699.1
+SO44959,44959001,1,2171.29,3578.27,20/11/2017,23/11/2017,3,Isaiah Morris,Lakewood,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44960,44960001,1,2171.29,3578.27,20/11/2017,23/11/2017,3,Gabrielle Bell,Port Hammond,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44961,44961001,1,2171.29,3578.27,20/11/2017,28/11/2017,8,David Washington,La Jolla,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44962,44962001,1,2171.29,3578.27,20/11/2017,24/11/2017,4,Elizabeth Harris,Imperial Beach,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44963,44963001,1,1912.15,3399.99,20/11/2017,25/11/2017,5,Noah Jai,Glendale,California,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO44964,44964001,1,413.15,699.1,20/11/2017,23/11/2017,3,Sean Howard,Novato,California,United States,Bikes,Road Bikes,"Road-650 Black, 60",Black,Road-650,699.1
+SO44965,44965001,1,413.15,699.1,20/11/2017,26/11/2017,6,Grace Cox,Torrance,California,United States,Bikes,Road Bikes,"Road-650 Black, 58",Black,Road-650,699.1
+SO44966,44966001,1,2171.29,3578.27,20/11/2017,28/11/2017,8,Gregory She,Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44967,44967001,1,2171.29,3578.27,21/11/2017,27/11/2017,6,Gilbert Becker,Oxford,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44968,44968001,1,413.15,699.1,21/11/2017,24/11/2017,3,Wayne Shan,Solingen,Nordrhein-Westfalen,Germany,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO44969,44969001,1,2171.29,3578.27,21/11/2017,28/11/2017,7,Joseph Miller,Cliffside,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44970,44970001,1,2171.29,3578.27,21/11/2017,26/11/2017,5,Naomi Alvarez,Bellingham,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44971,44971001,1,2171.29,3578.27,21/11/2017,24/11/2017,3,Angela Cox,Milwaukie,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44972,44972001,1,2171.29,3578.27,21/11/2017,27/11/2017,6,Jackson Perez,Marysville,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44973,44973001,1,2171.29,3578.27,21/11/2017,30/11/2017,9,Sharon Nara,Coffs Harbour,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44974,44974001,1,2171.29,3578.27,22/11/2017,27/11/2017,5,Ronald Arthur,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44975,44975001,1,2171.29,3578.27,22/11/2017,26/11/2017,4,Xavier Brown,Olympia,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44976,44976001,1,2171.29,3578.27,22/11/2017,26/11/2017,4,Brandon Gonzales,Redmond,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44977,44977001,1,2171.29,3578.27,22/11/2017,27/11/2017,5,Jennifer Long,Colma,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44978,44978001,1,413.15,699.1,22/11/2017,28/11/2017,6,Russell Luo,Beverly Hills,California,United States,Bikes,Road Bikes,"Road-650 Red, 60",Red,Road-650,699.1
+SO44979,44979001,1,2171.29,3578.27,22/11/2017,29/11/2017,7,Robyn Rubio,Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44980,44980001,1,2171.29,3578.27,22/11/2017,28/11/2017,6,Blake Griffin,Gold Coast,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44981,44981001,1,2171.29,3578.27,22/11/2017,28/11/2017,6,Clarence Zhu,Sunbury,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44982,44982001,1,2171.29,3578.27,23/11/2017,27/11/2017,4,Brianna Cook,Daly City,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO44983,44983001,1,2171.29,3578.27,23/11/2017,28/11/2017,5,Makayla Brooks,Oak Bay,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44984,44984001,1,2171.29,3578.27,23/11/2017,27/11/2017,4,Andres Luo,Burbank,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44985,44985001,1,2171.29,3578.27,23/11/2017,30/11/2017,7,Preston Mehta,Lavender Bay,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44986,44986001,1,413.15,699.1,23/11/2017,29/11/2017,6,Misty Sharma,Gold Coast,Queensland,Australia,Bikes,Road Bikes,"Road-650 Red, 48",Red,Road-650,699.1
+SO44987,44987001,1,2171.29,3578.27,24/11/2017,04/12/2017,10,Lawrence Alonso,Suresnes,Hauts de Seine,France,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44988,44988001,1,413.15,699.1,24/11/2017,01/12/2017,7,Byron Romero,Dunkerque,Nord,France,Bikes,Road Bikes,"Road-650 Black, 44",Black,Road-650,699.1
+SO44989,44989001,1,2171.29,3578.27,24/11/2017,01/12/2017,7,Morgan Walker,W. Linn,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44990,44990001,1,413.15,699.1,24/11/2017,02/12/2017,8,Isaac Kelly,Grossmont,California,United States,Bikes,Road Bikes,"Road-650 Black, 44",Black,Road-650,699.1
+SO44991,44991001,1,2171.29,3578.27,24/11/2017,01/12/2017,7,Jaclyn Chande,Newcastle,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO44992,44992001,1,2171.29,3578.27,24/11/2017,04/12/2017,10,Toni Suri,Newcastle,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44993,44993001,1,1898.09,3374.99,24/11/2017,26/11/2017,2,Edward Miller,Rockhampton,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO44994,44994001,1,2171.29,3578.27,25/11/2017,04/12/2017,9,Marissa Bennett,Mill Valley,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO44995,44995001,1,2171.29,3578.27,25/11/2017,03/12/2017,8,Samuel Gonzales,Colma,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO44996,44996001,1,1898.09,3374.99,25/11/2017,05/12/2017,10,Hailey James,Edmonds,Washington,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO44997,44997001,1,2171.29,3578.27,25/11/2017,02/12/2017,7,Brian Watson,Lynnwood,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO44998,44998001,1,413.15,699.1,25/11/2017,03/12/2017,8,Dylan Garcia,Mill Valley,California,United States,Bikes,Road Bikes,"Road-650 Black, 48",Black,Road-650,699.1
+SO44999,44999001,1,2171.29,3578.27,25/11/2017,01/12/2017,6,Devin Gonzalez,Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45000,45000001,1,2171.29,3578.27,25/11/2017,29/11/2017,4,Gloria Alvarez,Milsons Point,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45001,45001001,1,2171.29,3578.27,25/11/2017,28/11/2017,3,Wayne Xie,Cranbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45002,45002001,1,2171.29,3578.27,26/11/2017,30/11/2017,4,Phillip Mehta,Paderborn,Hamburg,Germany,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45003,45003001,1,2171.29,3578.27,26/11/2017,30/11/2017,4,Jocelyn Perry,Downey,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45004,45004001,1,2171.29,3578.27,26/11/2017,03/12/2017,7,Calvin Beck,Burlingame,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45005,45005001,1,2171.29,3578.27,26/11/2017,28/11/2017,2,Emma Rivera,Bellflower,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45006,45006001,1,2171.29,3578.27,27/11/2017,04/12/2017,7,Isaac Gray,Versailles,Yveline,France,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45007,45007001,1,2171.29,3578.27,27/11/2017,06/12/2017,9,Joy Ruiz,Bottrop,Nordrhein-Westfalen,Germany,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45008,45008001,1,2171.29,3578.27,27/11/2017,29/11/2017,2,Gilbert Xie,Billericay,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45009,45009001,1,413.15,699.1,27/11/2017,03/12/2017,6,Ruth Rana,Kiel,Saarland,Germany,Bikes,Road Bikes,"Road-650 Black, 44",Black,Road-650,699.1
+SO45010,45010001,1,2171.29,3578.27,27/11/2017,02/12/2017,5,Isabella Howard,Port Orchard,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45011,45011001,1,2171.29,3578.27,27/11/2017,07/12/2017,10,Alexandra Barnes,Newton,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45012,45012001,1,413.15,699.1,27/11/2017,03/12/2017,6,Adam Perry,Walla Walla,Washington,United States,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO45013,45013001,1,2171.29,3578.27,27/11/2017,29/11/2017,2,Byron Gill,Perth,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45014,45014001,1,413.15,699.1,27/11/2017,30/11/2017,3,Levi Prasad,Perth,South Australia,Australia,Bikes,Road Bikes,"Road-650 Red, 60",Red,Road-650,699.1
+SO45015,45015001,1,1912.15,3399.99,27/11/2017,05/12/2017,8,Tyrone Serrano,Rockhampton,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO45016,45016001,1,2171.29,3578.27,28/11/2017,02/12/2017,4,Melvin Andersen,Berks,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45017,45017001,1,2171.29,3578.27,28/11/2017,05/12/2017,7,Jack Sharma,Woodburn,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45018,45018001,1,2171.29,3578.27,28/11/2017,06/12/2017,8,Marcus Young,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45019,45019001,1,2171.29,3578.27,28/11/2017,02/12/2017,4,Claudia Zheng,Lane Cove,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45020,45020001,1,2171.29,3578.27,28/11/2017,06/12/2017,8,Emmanuel Malhotra,Cranbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45021,45021001,1,1898.09,3374.99,28/11/2017,01/12/2017,3,Cynthia Malhotra,Coffs Harbour,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO45022,45022001,1,1898.09,3374.99,28/11/2017,04/12/2017,6,Jennifer Roberts,Hervey Bay,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO45023,45023001,1,2171.29,3578.27,28/11/2017,02/12/2017,4,Frederick Rana,Duesseldorf,Hessen,Germany,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45024,45024001,1,1912.15,3399.99,29/11/2017,01/12/2017,2,Jared Ward,Hamburg,Hamburg,Germany,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO45025,45025001,1,2171.29,3578.27,29/11/2017,09/12/2017,10,Arianna Simmons,Lakewood,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45026,45026001,1,1912.15,3399.99,29/11/2017,05/12/2017,6,Jordyn Jenkins,Lynnwood,Washington,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO45027,45027001,1,2171.29,3578.27,29/11/2017,04/12/2017,5,Jasmine West,Issaquah,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45028,45028001,1,2171.29,3578.27,29/11/2017,04/12/2017,5,Adriana Smith,Coffs Harbour,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45029,45029001,1,2171.29,3578.27,29/11/2017,09/12/2017,10,Jerry Chande,Cranbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45030,45030001,1,1898.09,3374.99,29/11/2017,08/12/2017,9,Brett Mehta,Cloverdale,South Australia,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO45031,45031001,1,2171.29,3578.27,30/11/2017,03/12/2017,3,Jerome Rubio,Cambridge,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45032,45032001,1,2171.29,3578.27,30/11/2017,07/12/2017,7,Meredith Sai,Kiel,Saarland,Germany,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45033,45033001,1,2171.29,3578.27,30/11/2017,05/12/2017,5,Eduardo Wood,Woodland Hills,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45034,45034001,1,2171.29,3578.27,30/11/2017,10/12/2017,10,Amanda Alexander,Issaquah,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45035,45035001,1,2171.29,3578.27,30/11/2017,05/12/2017,5,Connor Parker,W. Linn,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45036,45036001,1,2171.29,3578.27,30/11/2017,08/12/2017,8,Cynthia Lopez,Chula Vista,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45037,45037001,1,413.15,699.1,30/11/2017,04/12/2017,4,Seth Murphy,Cranbourne,Victoria,Australia,Bikes,Road Bikes,"Road-650 Black, 58",Black,Road-650,699.1
+SO45078,45078001,1,2171.29,3578.27,01/12/2017,06/12/2017,5,Abby Sandberg,Versailles,Yveline,France,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45079,45079001,1,2171.29,3578.27,01/12/2017,06/12/2017,5,Kyle Washington,Torrance,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45080,45080001,1,413.15,699.1,01/12/2017,07/12/2017,6,John Thomas,Puyallup,Washington,United States,Bikes,Road Bikes,"Road-650 Black, 58",Black,Road-650,699.1
+SO45081,45081001,1,413.15,699.1,01/12/2017,10/12/2017,9,Seth Lewis,Victoria,British Columbia,Canada,Bikes,Road Bikes,"Road-650 Black, 44",Black,Road-650,699.1
+SO45082,45082001,1,1898.09,3374.99,01/12/2017,05/12/2017,4,Ross Sanz,Melton,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO45083,45083001,1,2171.29,3578.27,02/12/2017,11/12/2017,9,Alejandro Chen,Bury,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45084,45084001,1,2171.29,3578.27,02/12/2017,11/12/2017,9,Grace Jenkins,Lakewood,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45085,45085001,1,2171.29,3578.27,02/12/2017,07/12/2017,5,Reginald Alvarez,Melton,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45086,45086001,1,2171.29,3578.27,02/12/2017,04/12/2017,2,Jacquelyn Diaz,Townsville,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45087,45087001,1,1898.09,3374.99,03/12/2017,11/12/2017,8,Joseph Martin,York,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO45088,45088001,1,1912.15,3399.99,03/12/2017,06/12/2017,3,Colin Nath,Newcastle upon Tyne,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO45089,45089001,1,1898.09,3374.99,03/12/2017,07/12/2017,4,Jenna Lopez,Woodland Hills,California,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO45090,45090001,1,2171.29,3578.27,03/12/2017,06/12/2017,3,Alexandra Adams,Burlingame,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45091,45091001,1,2171.29,3578.27,03/12/2017,08/12/2017,5,Jodi Chavez,Cranbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45092,45092001,1,2171.29,3578.27,03/12/2017,09/12/2017,6,Glenn Liu,Findon,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45093,45093001,1,2171.29,3578.27,03/12/2017,09/12/2017,6,Adrienne Gutierrez,Perth,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45094,45094001,1,2171.29,3578.27,03/12/2017,07/12/2017,4,Oscar Perry,N. Vancouver,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45095,45095001,1,1912.15,3399.99,04/12/2017,12/12/2017,8,George McDonald,Milton Keynes,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO45096,45096001,1,2171.29,3578.27,04/12/2017,12/12/2017,8,Amanda Perez,Roubaix,Nord,France,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45097,45097001,1,2171.29,3578.27,04/12/2017,07/12/2017,3,Caroline Long,Chula Vista,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45098,45098001,1,2171.29,3578.27,04/12/2017,13/12/2017,9,Dawn Shen,Bremerton,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45099,45099001,1,2171.29,3578.27,04/12/2017,11/12/2017,7,Richard Parker,Puyallup,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45100,45100001,1,413.15,699.1,05/12/2017,08/12/2017,3,Eric Turner,Darmstadt,Hessen,Germany,Bikes,Road Bikes,"Road-650 Red, 44",Red,Road-650,699.1
+SO45101,45101001,1,2171.29,3578.27,05/12/2017,09/12/2017,4,Adam Phillips,Royal Oak,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45102,45102001,1,2171.29,3578.27,05/12/2017,13/12/2017,8,Miguel Green,Lemon Grove,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45103,45103001,1,2171.29,3578.27,06/12/2017,13/12/2017,7,Richard Ward,Port Orchard,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45104,45104001,1,2171.29,3578.27,06/12/2017,11/12/2017,5,Ashley Smith,Burlingame,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45105,45105001,1,2171.29,3578.27,06/12/2017,12/12/2017,6,Luis Collins,Westminster,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45106,45106001,1,1898.09,3374.99,06/12/2017,08/12/2017,2,Taylor Moore,Newton,British Columbia,Canada,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO45107,45107001,1,2171.29,3578.27,06/12/2017,10/12/2017,4,Taylor Thomas,Spring Valley,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45108,45108001,1,2171.29,3578.27,06/12/2017,13/12/2017,7,Courtney Turner,Metchosin,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45109,45109001,1,2171.29,3578.27,07/12/2017,14/12/2017,7,Brendan Xu,York,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45110,45110001,1,2171.29,3578.27,07/12/2017,11/12/2017,4,Ricardo Xie,St. Leonards,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45111,45111001,1,413.15,699.1,07/12/2017,12/12/2017,5,Latasha Gill,Sunbury,Victoria,Australia,Bikes,Road Bikes,"Road-650 Red, 44",Red,Road-650,699.1
+SO45112,45112001,1,413.15,699.1,07/12/2017,12/12/2017,5,Brianna Stewart,Warrington,England,United Kingdom,Bikes,Road Bikes,"Road-650 Red, 62",Red,Road-650,699.1
+SO45113,45113001,1,2171.29,3578.27,08/12/2017,15/12/2017,7,Suzanne Wang,Berkeley,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45114,45114001,1,2171.29,3578.27,08/12/2017,15/12/2017,7,Ian Henderson,Edmonds,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45115,45115001,1,1898.09,3374.99,08/12/2017,10/12/2017,2,Isabella Wright,Lemon Grove,California,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 38",Black,Mountain-100,3374.99
+SO45116,45116001,1,2171.29,3578.27,08/12/2017,12/12/2017,4,Austin Sharma,Walla Walla,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45117,45117001,1,413.15,699.1,08/12/2017,18/12/2017,10,Anna Bryant,Milwaukie,Oregon,United States,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO45118,45118001,1,2171.29,3578.27,08/12/2017,10/12/2017,2,Jonathon Navarro,St. Leonards,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45119,45119001,1,2171.29,3578.27,08/12/2017,11/12/2017,3,Adam Hill,Hobart,Tasmania,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45120,45120001,1,1912.15,3399.99,08/12/2017,14/12/2017,6,Victoria Gonzales,Melton,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO45121,45121001,1,2171.29,3578.27,09/12/2017,17/12/2017,8,Victoria Bailey,Bremerton,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45122,45122001,1,2171.29,3578.27,09/12/2017,11/12/2017,2,Eric Young,El Cajon,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45123,45123001,1,2171.29,3578.27,09/12/2017,14/12/2017,5,Morgan Howard,Cliffside,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45124,45124001,1,2171.29,3578.27,09/12/2017,18/12/2017,9,Denise Kapoor,Hobart,Tasmania,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45125,45125001,1,2171.29,3578.27,09/12/2017,16/12/2017,7,Micah Zhao,Milsons Point,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45126,45126001,1,2171.29,3578.27,10/12/2017,16/12/2017,6,Meredith Alvarez,Lille,Nord,France,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45127,45127001,1,2171.29,3578.27,10/12/2017,15/12/2017,5,Ian Edwards,Burien,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45128,45128001,1,2171.29,3578.27,10/12/2017,17/12/2017,7,Katrina Anand,Matraville,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45129,45129001,1,1898.09,3374.99,10/12/2017,15/12/2017,5,Dawn Nath,Cloverdale,South Australia,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO45130,45130001,1,2171.29,3578.27,11/12/2017,14/12/2017,3,Dalton Scott,Billericay,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45131,45131001,1,1912.15,3399.99,11/12/2017,14/12/2017,3,Miguel Edwards,Beaverton,Oregon,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO45132,45132001,1,1898.09,3374.99,11/12/2017,20/12/2017,9,Justin Harris,Novato,California,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO45133,45133001,1,2171.29,3578.27,11/12/2017,18/12/2017,7,Mason Murphy,Portland,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45134,45134001,1,2171.29,3578.27,11/12/2017,17/12/2017,6,Eduardo Perez,Shawnee,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45135,45135001,1,2171.29,3578.27,11/12/2017,13/12/2017,2,Riley Brooks,Coronado,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45136,45136001,1,2171.29,3578.27,11/12/2017,13/12/2017,2,Colleen Raje,North Ryde,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45137,45137001,1,2171.29,3578.27,11/12/2017,20/12/2017,9,Latasha Moreno,Cloverdale,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45138,45138001,1,1898.09,3374.99,11/12/2017,16/12/2017,5,Erika Rubio,Caloundra,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO45139,45139001,1,2171.29,3578.27,12/12/2017,17/12/2017,5,Wayne Nath,Paris,Seine (Paris),France,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45140,45140001,1,2171.29,3578.27,12/12/2017,21/12/2017,9,Veronica Subram,Colomiers,Garonne (Haute),France,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45141,45141001,1,2171.29,3578.27,12/12/2017,18/12/2017,6,Evan Perez,Torrance,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45142,45142001,1,2171.29,3578.27,12/12/2017,17/12/2017,5,Katherine Stewart,Newton,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45143,45143001,1,2171.29,3578.27,12/12/2017,15/12/2017,3,Janet Scott,Long Beach,California,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45144,45144001,1,2171.29,3578.27,12/12/2017,15/12/2017,3,Tara Ashe,Bendigo,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45145,45145001,1,2171.29,3578.27,12/12/2017,18/12/2017,6,Seth Campbell,Hervey Bay,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45146,45146001,1,2171.29,3578.27,13/12/2017,19/12/2017,6,Maria Hernandez,Runcorn,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45147,45147001,1,2171.29,3578.27,13/12/2017,20/12/2017,7,Jaime Hernandez,Berkeley,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45148,45148001,1,413.15,699.1,13/12/2017,18/12/2017,5,Bryant Fernandez,Bellingham,Washington,United States,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO45149,45149001,1,2171.29,3578.27,14/12/2017,19/12/2017,5,Emma Patterson,Newcastle upon Tyne,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45150,45150001,1,1912.15,3399.99,14/12/2017,18/12/2017,4,Julia Jones,Renton,Washington,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO45151,45151001,1,2171.29,3578.27,14/12/2017,17/12/2017,3,Jerry Kumar,Burien,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45152,45152001,1,2171.29,3578.27,14/12/2017,17/12/2017,3,Sydney Flores,Puyallup,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45153,45153001,1,2171.29,3578.27,14/12/2017,19/12/2017,5,Regina Arthur,Seaford,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45154,45154001,1,2171.29,3578.27,14/12/2017,19/12/2017,5,Gary Alonso,Hervey Bay,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45155,45155001,1,2171.29,3578.27,14/12/2017,19/12/2017,5,Mathew Torres,North Sydney,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45156,45156001,1,1912.15,3399.99,14/12/2017,23/12/2017,9,Louis Luo,Gold Coast,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO45157,45157001,1,1912.15,3399.99,14/12/2017,20/12/2017,6,Latoya She,Newcastle,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO45158,45158001,1,1912.15,3399.99,15/12/2017,18/12/2017,3,Cheryl Suarez,Les Ulis,Essonne,France,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO45159,45159001,1,1898.09,3374.99,15/12/2017,24/12/2017,9,Franklin Raji,London,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO45160,45160001,1,2171.29,3578.27,15/12/2017,18/12/2017,3,Regina Vance,Wokingham,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45161,45161001,1,1898.09,3374.99,15/12/2017,20/12/2017,5,Morgan Perez,La Jolla,California,United States,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO45162,45162001,1,2171.29,3578.27,15/12/2017,18/12/2017,3,Andy Gomez,Malabar,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45163,45163001,1,413.15,699.1,15/12/2017,20/12/2017,5,Darren Gutierrez,Rhodes,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Red, 48",Red,Road-650,699.1
+SO45164,45164001,1,1898.09,3374.99,15/12/2017,20/12/2017,5,Stanley Malhotra,Hobart,Tasmania,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO45165,45165001,1,2171.29,3578.27,16/12/2017,23/12/2017,7,Wyatt Martinez,Newton,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45166,45166001,1,2171.29,3578.27,16/12/2017,26/12/2017,10,Steven Rivera,Melton,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45167,45167001,1,2171.29,3578.27,16/12/2017,26/12/2017,10,Darryl Zheng,Goulburn,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45168,45168001,1,2171.29,3578.27,16/12/2017,26/12/2017,10,Tamara Luo,Rhodes,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45169,45169001,1,2171.29,3578.27,16/12/2017,18/12/2017,2,Francisco Sai,Darlinghurst,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45170,45170001,1,1898.09,3374.99,16/12/2017,20/12/2017,4,Laura Lin,Matraville,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO45171,45171001,1,1912.15,3399.99,16/12/2017,23/12/2017,7,Janet Ortega,Malabar,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO45172,45172001,1,413.15,699.1,17/12/2017,20/12/2017,3,Deanna Sai,Drancy,Seine Saint Denis,France,Bikes,Road Bikes,"Road-650 Black, 60",Black,Road-650,699.1
+SO45173,45173001,1,2171.29,3578.27,17/12/2017,22/12/2017,5,Seth Powell,Santa Cruz,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45174,45174001,1,2171.29,3578.27,17/12/2017,20/12/2017,3,Faith Ramirez,West Covina,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45175,45175001,1,2171.29,3578.27,17/12/2017,27/12/2017,10,Xavier Powell,Torrance,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45176,45176001,1,2171.29,3578.27,17/12/2017,20/12/2017,3,Erin Sanchez,Edmonds,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45177,45177001,1,2171.29,3578.27,17/12/2017,21/12/2017,4,Louis Zeng,Sydney,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45178,45178001,1,1912.15,3399.99,17/12/2017,20/12/2017,3,Jon Gao,St. Leonards,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 48",Silver,Mountain-100,3399.99
+SO45179,45179001,1,1898.09,3374.99,17/12/2017,27/12/2017,10,Jaime Gutierrez,Wollongong,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 48",Black,Mountain-100,3374.99
+SO45180,45180001,1,2171.29,3578.27,18/12/2017,28/12/2017,10,Casey Tang,W. York,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45181,45181001,1,2171.29,3578.27,18/12/2017,25/12/2017,7,Peter Anand,Woolston,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45182,45182001,1,2171.29,3578.27,18/12/2017,20/12/2017,2,Theresa Dominguez,Lane Cove,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45183,45183001,1,413.15,699.1,18/12/2017,28/12/2017,10,Mario Luo,South Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-650 Black, 60",Black,Road-650,699.1
+SO45184,45184001,1,413.15,699.1,18/12/2017,23/12/2017,5,Ernest Guo,Milsons Point,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Red, 58",Red,Road-650,699.1
+SO45185,45185001,1,2171.29,3578.27,18/12/2017,21/12/2017,3,Steve Wu,Cambridge,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45186,45186001,1,2171.29,3578.27,19/12/2017,25/12/2017,6,Edwin Zhao,Warrington,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45187,45187001,1,2171.29,3578.27,19/12/2017,29/12/2017,10,Meghan Vazquez,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45188,45188001,1,2171.29,3578.27,19/12/2017,29/12/2017,10,Misty Deng,Billericay,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45189,45189001,1,2171.29,3578.27,19/12/2017,23/12/2017,4,Shelby Gray,Olympia,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45190,45190001,1,2171.29,3578.27,19/12/2017,26/12/2017,7,Rosa She,Townsville,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45191,45191001,1,413.15,699.1,19/12/2017,21/12/2017,2,Gabrielle Howard,Portland,Oregon,United States,Bikes,Road Bikes,"Road-650 Red, 48",Red,Road-650,699.1
+SO45192,45192001,1,2171.29,3578.27,20/12/2017,29/12/2017,9,Kelsey Chande,Milton Keynes,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45193,45193001,1,2171.29,3578.27,20/12/2017,25/12/2017,5,Julia Long,Newton,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45194,45194001,1,2171.29,3578.27,20/12/2017,22/12/2017,2,Kelly Bennett,Oakland,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45195,45195001,1,2171.29,3578.27,20/12/2017,27/12/2017,7,Donald Garcia,Perth,South Australia,Australia,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45196,45196001,1,2171.29,3578.27,20/12/2017,29/12/2017,9,Christy Pal,Geelong,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45197,45197001,1,2171.29,3578.27,20/12/2017,30/12/2017,10,Steve Chen,Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45198,45198001,1,2171.29,3578.27,21/12/2017,28/12/2017,7,Vadim Sazanovich,W. York,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45199,45199001,1,1912.15,3399.99,21/12/2017,26/12/2017,5,Elizabeth Bradley,Hamburg,Hamburg,Germany,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO45200,45200001,1,2171.29,3578.27,21/12/2017,28/12/2017,7,Gabriella Murphy,Mill Valley,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45201,45201001,1,2171.29,3578.27,21/12/2017,31/12/2017,10,Derrick Romero,Chula Vista,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45202,45202001,1,2171.29,3578.27,21/12/2017,25/12/2017,4,Todd Yang,Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45203,45203001,1,2171.29,3578.27,21/12/2017,31/12/2017,10,Priscilla Nara,East Brisbane,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45204,45204001,1,1912.15,3399.99,21/12/2017,26/12/2017,5,Melvin Chande,Cranbourne,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO45205,45205001,1,1912.15,3399.99,22/12/2017,26/12/2017,4,Tracy Chapman,Saint-Denis,Seine Saint Denis,France,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO45206,45206001,1,2171.29,3578.27,22/12/2017,30/12/2017,8,Tammy Chandra,Cergy,Val d'Oise,France,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45207,45207001,1,2171.29,3578.27,22/12/2017,30/12/2017,8,Ashley Barnes,San Francisco,California,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45208,45208001,1,1912.15,3399.99,22/12/2017,01/01/2018,10,James Simmons,Sooke,British Columbia,Canada,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO45209,45209001,1,2171.29,3578.27,22/12/2017,30/12/2017,8,Kara Jai,Berkeley,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45210,45210001,1,2171.29,3578.27,22/12/2017,30/12/2017,8,Samantha Miller,Torrance,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45211,45211001,1,2171.29,3578.27,22/12/2017,24/12/2017,2,Denise Fernandez,Bendigo,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45212,45212001,1,2171.29,3578.27,22/12/2017,26/12/2017,4,Evan Parker,Melton,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45213,45213001,1,1898.09,3374.99,22/12/2017,31/12/2017,9,Alejandro Huang,South Melbourne,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO45214,45214001,1,2171.29,3578.27,23/12/2017,28/12/2017,5,Jared Cook,Bobigny,Seine Saint Denis,France,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45215,45215001,1,2171.29,3578.27,23/12/2017,28/12/2017,5,Amber Lopez,Bellingham,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45216,45216001,1,2171.29,3578.27,23/12/2017,30/12/2017,7,Robert Turner,San Gabriel,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45217,45217001,1,2171.29,3578.27,24/12/2017,01/01/2018,8,Brandon Zhang,Redmond,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45218,45218001,1,1912.15,3399.99,24/12/2017,02/01/2018,9,Rebecca Phillips,Yakima,Washington,United States,Bikes,Mountain Bikes,"Mountain-100 Silver, 42",Silver,Mountain-100,3399.99
+SO45219,45219001,1,2171.29,3578.27,24/12/2017,28/12/2017,4,Chloe Miller,Cliffside,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45220,45220001,1,2171.29,3578.27,24/12/2017,03/01/2018,10,Katelyn James,Tacoma,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45221,45221001,1,2171.29,3578.27,24/12/2017,29/12/2017,5,Hailey Stewart,Port Hammond,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45222,45222001,1,413.15,699.1,24/12/2017,26/12/2017,2,Elizabeth Henderson,Puyallup,Washington,United States,Bikes,Road Bikes,"Road-650 Red, 52",Red,Road-650,699.1
+SO45223,45223001,1,2171.29,3578.27,24/12/2017,26/12/2017,2,Katelyn Richardson,Warrnambool,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45224,45224001,1,2171.29,3578.27,24/12/2017,27/12/2017,3,Lacey Ma,Port Macquarie,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45225,45225001,1,413.15,699.1,25/12/2017,01/01/2018,7,Troy Fernandez,Concord,California,United States,Bikes,Road Bikes,"Road-650 Black, 44",Black,Road-650,699.1
+SO45226,45226001,1,413.15,699.1,25/12/2017,04/01/2018,10,Jack Ross,Downey,California,United States,Bikes,Road Bikes,"Road-650 Black, 52",Black,Road-650,699.1
+SO45227,45227001,1,413.15,699.1,25/12/2017,04/01/2018,10,Zachary Yang,Marysville,Washington,United States,Bikes,Road Bikes,"Road-650 Red, 60",Red,Road-650,699.1
+SO45228,45228001,1,2171.29,3578.27,25/12/2017,30/12/2017,5,Dalton Garcia,Gold Coast,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45229,45229001,1,1898.09,3374.99,26/12/2017,03/01/2018,8,Megan Ramirez,Gateshead,England,United Kingdom,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO45230,45230001,1,2171.29,3578.27,26/12/2017,29/12/2017,3,Blake Thomas,Yakima,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45231,45231001,1,2171.29,3578.27,26/12/2017,01/01/2018,6,Krystal Sun,Hawthorne,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45232,45232001,1,2171.29,3578.27,26/12/2017,30/12/2017,4,Ashley Patterson,Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45233,45233001,1,1912.15,3399.99,26/12/2017,04/01/2018,9,Kenneth Kumar,Hawthorne,Queensland,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO45234,45234001,1,413.15,699.1,27/12/2017,05/01/2018,9,Deanna Prasad,Lieusaint,Seine et Marne,France,Bikes,Road Bikes,"Road-650 Red, 48",Red,Road-650,699.1
+SO45235,45235001,1,2171.29,3578.27,27/12/2017,01/01/2018,5,Mary Roberts,Marysville,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45236,45236001,1,2171.29,3578.27,27/12/2017,29/12/2017,2,Brett Malhotra,Darlinghurst,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45237,45237001,1,2171.29,3578.27,27/12/2017,30/12/2017,3,Ricky Gomez,Bendigo,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45238,45238001,1,1912.15,3399.99,27/12/2017,01/01/2018,5,Tasha Deng,Port Macquarie,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 44",Silver,Mountain-100,3399.99
+SO45239,45239001,1,413.15,699.1,28/12/2017,02/01/2018,5,Stanley Raman,Berlin,Hessen,Germany,Bikes,Road Bikes,"Road-650 Red, 48",Red,Road-650,699.1
+SO45240,45240001,1,2171.29,3578.27,28/12/2017,06/01/2018,9,Gabriella Kelly,Puyallup,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45241,45241001,1,2171.29,3578.27,28/12/2017,04/01/2018,7,Laura Hu,Chula Vista,California,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45242,45242001,1,2171.29,3578.27,28/12/2017,30/12/2017,2,Angel Phillips,Bremerton,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 44",Red,Road-150,3578.27
+SO45243,45243001,1,413.15,699.1,28/12/2017,07/01/2018,10,Tabitha Sara,North Ryde,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Black, 60",Black,Road-650,699.1
+SO45244,45244001,1,1898.09,3374.99,28/12/2017,30/12/2017,2,Linda Ortega,St. Leonards,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
+SO45245,45245001,1,2171.29,3578.27,29/12/2017,02/01/2018,4,Carmen Prasad,Newcastle,New South Wales,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45246,45246001,1,2171.29,3578.27,29/12/2017,31/12/2017,2,Darren Hernandez,South Melbourne,Victoria,Australia,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45247,45247001,1,413.15,699.1,29/12/2017,08/01/2018,10,Edwin Gao,Port Macquarie,New South Wales,Australia,Bikes,Road Bikes,"Road-650 Black, 60",Black,Road-650,699.1
+SO45248,45248001,1,1912.15,3399.99,29/12/2017,07/01/2018,9,Ruben Muñoz,Newcastle,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Silver, 38",Silver,Mountain-100,3399.99
+SO45249,45249001,1,2171.29,3578.27,30/12/2017,01/01/2018,2,Roy Patel,London,England,United Kingdom,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45250,45250001,1,2171.29,3578.27,30/12/2017,05/01/2018,6,Marcus Rivera,Bottrop,Nordrhein-Westfalen,Germany,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45251,45251001,1,413.15,699.1,30/12/2017,05/01/2018,6,Paula Gutierrez,Ingolstadt,Bayern,Germany,Bikes,Road Bikes,"Road-650 Black, 60",Black,Road-650,699.1
+SO45252,45252001,1,2171.29,3578.27,30/12/2017,01/01/2018,2,Xavier Griffin,Cliffside,British Columbia,Canada,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45253,45253001,1,2171.29,3578.27,30/12/2017,09/01/2018,10,Jennifer Jenkins,Lakewood,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45254,45254001,1,2171.29,3578.27,30/12/2017,01/01/2018,2,Alex Parker,Palo Alto,California,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45255,45255001,1,2171.29,3578.27,30/12/2017,01/01/2018,2,Makayla James,Yakima,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45256,45256001,1,413.15,699.1,30/12/2017,01/01/2018,2,Kayla Ross,San Carlos,California,United States,Bikes,Road Bikes,"Road-650 Black, 62",Black,Road-650,699.1
+SO45257,45257001,1,2171.29,3578.27,30/12/2017,05/01/2018,6,Susan Liu,Hawthorne,Queensland,Australia,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45258,45258001,1,413.15,699.1,30/12/2017,05/01/2018,6,Brent He,Cranbourne,Victoria,Australia,Bikes,Road Bikes,"Road-650 Black, 48",Black,Road-650,699.1
+SO45259,45259001,1,2171.29,3578.27,31/12/2017,05/01/2018,5,Matthew Lee,Port Orchard,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 56",Red,Road-150,3578.27
+SO45260,45260001,1,2171.29,3578.27,31/12/2017,09/01/2018,9,Wyatt Griffin,Lake Oswego,Oregon,United States,Bikes,Road Bikes,"Road-150 Red, 62",Red,Road-150,3578.27
+SO45261,45261001,1,2171.29,3578.27,31/12/2017,09/01/2018,9,Sean Rivera,Burien,Washington,United States,Bikes,Road Bikes,"Road-150 Red, 48",Red,Road-150,3578.27
+SO45262,45262001,1,2171.29,3578.27,31/12/2017,03/01/2018,3,Marissa Diaz,Daly City,California,United States,Bikes,Road Bikes,"Road-150 Red, 52",Red,Road-150,3578.27
+SO45263,45263001,1,413.15,699.1,31/12/2017,09/01/2018,9,Sharon Carson,Bremerton,Washington,United States,Bikes,Road Bikes,"Road-650 Black, 48",Black,Road-650,699.1
+SO45264,45264001,1,1898.09,3374.99,31/12/2017,02/01/2018,2,Melinda Navarro,Melbourne,Victoria,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 42",Black,Mountain-100,3374.99
+SO45265,45265001,1,1898.09,3374.99,31/12/2017,02/01/2018,2,Victor Jimenez,Lavender Bay,New South Wales,Australia,Bikes,Mountain Bikes,"Mountain-100 Black, 44",Black,Mountain-100,3374.99
