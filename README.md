@@ -4,4 +4,5 @@ This will be a collection of data analysis reports I created using different dat
 
 ## Excel
 
-- [AdventureWorks Sales Performance | July to December 2017](/excel-adventure-works-sales-2017/README.md)
+- [AdventureWorks Sales Performance](/excel-adventure-works-sales-2017/README.md)
+- [Databel Customer Churn](/excel-databel-customer-churn/README.md)
