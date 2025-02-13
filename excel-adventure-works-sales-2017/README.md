@@ -13,3 +13,5 @@ I created a comprehensive sales performance report for AdventureWorks, analyzing
 - **Delivery Performance:** Consistent delivery times across regions, with minor delays in France worth further investigation.
 
 This project allowed me to sharpen my skills in data analysis and data visualization, while also challenging me to create a cohesive brand identity for AdventureWorks. I put together a complete package, including a branded dashboard and a detailed, professionally designed report that translates raw data into actionable business insights.
+
+![Final Dashboard](/excel-adventure-works-sales-2017/dashboard-combined.png 'Final Dashboard')
