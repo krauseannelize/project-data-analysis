@@ -40,3 +40,16 @@ This changelog documents the steps taken in the Excel-based data analysis projec
     - Created dynamic named ranges referencing the output of the filtering formula in A20.
     - Inserted a donut chart visualizing the filtered churn reasons, with its title linked to the dynamic title in cell B17.  This chart updates dynamically as the combo box selection changes.
     * Rationale: To enable interactive exploration of churn reasons by category, allowing users to drill down into specific areas of interest and gain deeper insights into the drivers of churn.
+
+## Version 1.1 (2025-02-15) - Continued Analysis
+
+  - Step 6: Grouped the churn reason donut chart and its associated combo box and moved them to the "Dashboard" worksheet.
+  - Step 7: On the "Analysis" worksheet, created a pivot table using the "Aggregate" table data to analyze the number of customers and churn rate per age group.
+  - Step 8: Created a combination chart on the "Analysis" worksheet, visualizing the number of customers per age group as a column chart and the corresponding churn rate as a line graph. *Rationale: To visualize and analyze customer distribution and churn rate trends across different age groups, providing insights into age-related churn patterns.*
+  - Step 9: Moved the age group analysis combination chart to the "Dashboard" worksheet.
+  - Step 10: On the "Analysis" worksheet, extracted a list of unique state codes from the "Customer" table using the `UNIQUE` and `SORT` functions, ensuring the list is sorted alphabetically.
+  - Step 11: On the "Analysis" worksheet, calculated the following metrics for each state:
+    - Total Customers (using `SUMIFS`)
+    - Churned Customers (using `SUMIFS`)
+    - Churn Rate (calculated as Churned Customers / Total Customers, using `IFERROR` to handle potential division by zero errors)
+  - Step 12: Created a map visualization on the "Dashboard" worksheet using the calculated state-level churn rate data. *Rationale: To visualize geographic patterns in churn rates and identify states with high or low churn, enabling targeted interventions and resource allocation.*
