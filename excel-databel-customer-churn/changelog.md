@@ -53,3 +53,21 @@ This changelog documents the steps taken in the Excel-based data analysis projec
     - Churned Customers (using `SUMIFS`)
     - Churn Rate (calculated as Churned Customers / Total Customers, using `IFERROR` to handle potential division by zero errors)
   - Step 12: Created a map visualization on the "Dashboard" worksheet using the calculated state-level churn rate data. *Rationale: To visualize geographic patterns in churn rates and identify states with high or low churn, enabling targeted interventions and resource allocation.*
+
+## Version 1.2 (2025-02-17) - Continued Analysis
+
+  - Step 13: On the "Aggregate" worksheet, created a new "Account Age" column using the following formula to categorize account length: `=IFS([@[Account Length (in months)]]<=12,"months 1 to 12",[@[Account Length (in months)]]<=24,"years 1 to 2",[@[Account Length (in months)]]<=36,"years 2 to 3",[@[Account Length (in months)]]<=48,"years 3 to 4",[@[Account Length (in months)]]<=77,"years 4 or more")`. *Rationale: To identify churn patterns across different stages of the customer lifecycle.*
+  - Step 14: On the "Analysis" worksheet:
+    - Extracted a list of unique "Account Age" categories, sorted alphabetically.
+    - Calculated the churn rate for each combination of "Age Demographic" and "Account Age" using `SUMIFS` to sum total customers and churned customers, and then dividing churned customers by total customers.
+    - Added a "Total" column to the table, representing the total churn for each "Account Age" category.
+  - Step 15: On the "Analysis" worksheet:
+    - Applied conditional formatting to the churn rate table to create a heatmap visualization of churn by "Age Demographic" and "Account Age."
+    - Used data bars conditional formatting in the "Total" column to create a bar graph visualizing the percentage of total churn for each "Account Age" category.
+    - Added the title "Churn Rate by Account Age and Demographics" to the table.
+  - Step 16: On the "Dashboard" worksheet:
+    - Copied the formatted churn rate table from the "Analysis" worksheet and inserted it as a linked picture within a shape.
+    - Inserted a text box linking to the table title in the "Analysis" worksheet and group with the linked picture. *Rationale: To visualize and analyze churn rate patterns across different account age ranges and demographic groups, providing insights into factors influencing churn and enabling targeted interventions.*
+  - Step 17: Enhanced the "Dashboard" worksheet's visual presentation:
+    - Added the "Databel" logo.
+    - Applied formatting adjustments to existing shapes to improve clarity and visual appeal. *Rationale: To enhance the professional presentation of the dashboard and reinforce branding.*
