@@ -82,3 +82,5 @@ This changelog documents the steps taken in the Excel-based data analysis projec
     - Updated the data reference in the map visualization to point to the new helper table.
     - Moved the combo box to the "Dashboard" worksheet.
     *Rationale: To enable interactive exploration of state-level churn data by different metrics, providing users with the ability to analyze total customers, churned customers, and churn rate on the map visualization.*
+  - Step 19: Added key metric summaries to the "Dashboard" worksheet by inserting shapes containing references to the "Total Customers", "Churned Customers", and "Churn Rate" metrics (calculated in Step 2).
+  - Step 20: Performed significant cosmetic enhancements to the "Dashboard" worksheet to improve its overall appearance and user experience. *Rationale: To provide at-a-glance summaries of key churn metrics on the dashboard and to enhance the dashboard's visual appeal and usability.*
