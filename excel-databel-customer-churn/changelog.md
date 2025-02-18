@@ -39,7 +39,7 @@ This changelog documents the steps taken in the Excel-based data analysis projec
     - Implemented a dynamic filtering mechanism in cell A20 using the `LET`, `SWITCH`, `FILTER` and `PIVOTBY` functions. This formula filters the 'Churn Reason' and 'Churned' columns based on the selected category in the combo box and generates a new pivot table.
     - Created dynamic named ranges referencing the output of the filtering formula in A20.
     - Inserted a donut chart visualizing the filtered churn reasons, with its title linked to the dynamic title in cell B17.  This chart updates dynamically as the combo box selection changes.
-    * Rationale: To enable interactive exploration of churn reasons by category, allowing users to drill down into specific areas of interest and gain deeper insights into the drivers of churn.
+    *Rationale: To enable interactive exploration of churn reasons by category, allowing users to drill down into specific areas of interest and gain deeper insights into the drivers of churn.*
 
 ## Version 1.1 (2025-02-15) - Continued Analysis
 
@@ -71,3 +71,16 @@ This changelog documents the steps taken in the Excel-based data analysis projec
   - Step 17: Enhanced the "Dashboard" worksheet's visual presentation:
     - Added the "Databel" logo.
     - Applied formatting adjustments to existing shapes to improve clarity and visual appeal. *Rationale: To enhance the professional presentation of the dashboard and reinforce branding.*
+
+## Version 1.3 (2025-02-18) - Continued Analysis
+
+  - Step 18: Enhanced the state-level churn analysis, mirroring the interactive filtering approach used for churn categories and reasons (similar to Step 5). On the "Analysis" worksheet:
+    - Inserted a combo box to filter the state data by metric (Total Customers, Churned Customers, or Churn Rate).
+    - Implemented a dynamic chart title, allowing the map visualization to update based on the selected metric.
+    - Created named ranges for all columns in the state information table.
+    - Created a helper table.  The first column extracts the state information. The second column uses a `CHOOSE` function to select the appropriate metric data based on the combo box input. The third column uses `IF` and `TEXT` functions to apply conditional formatting to the selected metric data.
+    - Updated the data reference in the map visualization to point to the new helper table.
+    - Moved the combo box to the "Dashboard" worksheet.
+    *Rationale: To enable interactive exploration of state-level churn data by different metrics, providing users with the ability to analyze total customers, churned customers, and churn rate on the map visualization.*
+  - Step 19: Added key metric summaries to the "Dashboard" worksheet by inserting shapes containing references to the "Total Customers", "Churned Customers", and "Churn Rate" metrics (calculated in Step 2).
+  - Step 20: Performed significant cosmetic enhancements to the "Dashboard" worksheet to improve its overall appearance and user experience. *Rationale: To provide at-a-glance summaries of key churn metrics on the dashboard and to enhance the dashboard's visual appeal and usability.*
