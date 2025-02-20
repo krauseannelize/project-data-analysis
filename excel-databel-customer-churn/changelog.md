@@ -84,3 +84,23 @@ This changelog documents the steps taken in the Excel-based data analysis projec
     *Rationale: To enable interactive exploration of state-level churn data by different metrics, providing users with the ability to analyze total customers, churned customers, and churn rate on the map visualization.*
   - Step 19: Added key metric summaries to the "Dashboard" worksheet by inserting shapes containing references to the "Total Customers", "Churned Customers", and "Churn Rate" metrics (calculated in Step 2).
   - Step 20: Performed significant cosmetic enhancements to the "Dashboard" worksheet to improve its overall appearance and user experience. *Rationale: To provide at-a-glance summaries of key churn metrics on the dashboard and to enhance the dashboard's visual appeal and usability.*
+
+## Version 1.4 (2025-02-20) - Fixes
+
+- **Fixes:**
+  - **Map Visualization Color Scaling:** Resolved an issue where the color scaling for the map visualization was inconsistent and reversed, causing incorrect representation of Total Customers, Churned Customers, and Churn Rate.  The issue stemmed from formatting applied in the helper table to display percentage values correctly, which interfered with the visualization tool's interpretation of the data. This has been corrected by removing formatting from the helper table and using the underlying numeric data for visualization.
+  - **Custom Gradient Legend:** Implemented a custom gradient legend for the map visualization to provide a clear and accurate representation of the data ranges.  This replaces the default legend, which displays percentage values as 0 or 1. The custom legend uses a gradient rectangle with labels indicated "Low" or "High".
+
+- **Details:**
+  - The column in the helper table to format the data was removed.
+  - The map visualization reference that pointed to the formatted column was updated to point to the unformatted data column instead.
+  - A custom legend was added using drawing tools and grouped with the map visualization.
+
+- **Impact:**
+  - The map visualization now accurately reflects the data, with correct color scaling for all metrics.
+  - The custom legend provides a clear and user-friendly interpretation of the churn rate range.
+
+- **Testing:**
+  - Verified that the map visualization displays correct colors for all data points.
+  - Confirmed that the custom legend accurately reflects the scale with low values a light green and high values a dark green.
+  - Tested filtering functionality to ensure it does not impact color scaling.
