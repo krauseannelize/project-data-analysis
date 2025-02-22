@@ -104,3 +104,18 @@ This changelog documents the steps taken in the Excel-based data analysis projec
   - Verified that the map visualization displays correct colors for all data points.
   - Confirmed that the custom legend accurately reflects the scale with low values a light green and high values a dark green.
   - Tested filtering functionality to ensure it does not impact color scaling.
+
+## Version 1.5 (2025-02-22) - Fixes
+
+- **Enhancements:**
+  - **Churn Reason Visualization Update:**
+    - Changed the "Churn Reason Categories" pie chart visualization to a bar chart for improved readability.
+    - Sorted the bar chart in descending order to highlight the most frequent churn reasons.
+    - Applied a darker color to the bar representing the largest value, further emphasizing the primary churn driver.
+  - **Dynamic, interactive churn analysis section:**
+    - On the "Analysis" worksheet, modify the churn reason filter (see Step 5 above) to calculate the churn rate for each reason as opposed to churned number.
+    - Updated cell formatting to display the calculated churn rates as percentages, enhancing data clarity.
+  - **Dynamic Reason Churn Analysis Chart Update:**
+    - Verified that the values on the chart are now displayed as percentages to be consistent with "Churn Reason Categories" visualization.
+    - Changed the "*Reason Category* Churn Analysis" donut chart to a bar chart for improved data representation and easier comparison of churn reasons.
+    - Verified that the reason filter displays the reasons for each category correctly.
