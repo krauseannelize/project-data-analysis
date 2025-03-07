@@ -2,7 +2,7 @@
 
 - [Raw Data](/excel-databel-customer-churn/databel-customer-data.xlsx)
 - [Excel Dashboard](/excel-databel-customer-churn/databel-customer-churn-dashboard.xlsx)
-- Video Walkthrough
+- [Video Walkthrough](/excel-databel-customer-churn/databel-dashboard-walkthrough.mp4)
 
 This interactive Excel dashboard analyzes customer churn for the fictional telecoms company, Databel. Developed as part of DataCamp's Fundamental Skill track, specifically the "Analyzing Customer Churn in Excel" case study, this project significantly enhances the suggested solution by focusing on business-relevant metrics and advanced visualizations.
 
