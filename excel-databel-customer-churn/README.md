@@ -1,6 +1,8 @@
 # Databel Customer Churn Dashboard
 
 - [Raw Data](/excel-databel-customer-churn/databel-customer-data.xlsx)
+- [Datacamp's Metadata Sheet](/excel-databel-customer-churn/databel-customer-churn-metadata-sheet.pdf)
+- [Changelog: Raw Data to Dashboard](/excel-databel-customer-churn/changelog.md)
 - [Excel Dashboard](/excel-databel-customer-churn/databel-customer-churn-dashboard.xlsx)
 - [Video Walkthrough](/excel-databel-customer-churn/databel-dashboard-walkthrough.mp4)
 
