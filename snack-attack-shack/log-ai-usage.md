@@ -43,3 +43,12 @@ This log documents the use of AI tools during the Google Sheets data analysis pr
     - Shipping Sheet: Analyze delivery costs and performance.
   - Defined preprocessing needs, such as calculating sales value (sale price × quantity) and linking product costs from the products sheet.
   - Identified an efficient workflow to answer key questions comprehensively.
+
+## 2025-04-17 - Company Logo Creation
+
+- **Purpose**: Create a visually appealing company logo for use in project documentation.
+- **AI Tool Used**: Canva's AI Image Generator Magic Media
+- **Prompt**: "Generate a logo on a white background for 'Snack Attack Shack' using the colors blue, green and red."
+- **Outcome**:
+  - Chose one of the generated designs and note the color codes used for branding.
+  - Incorporated the logo into project documentation for cohesive visual identity.
