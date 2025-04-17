@@ -33,3 +33,8 @@ This log documents the steps taken in the Google Sheets data analysis project.
   - Step 15: Insert column "revenue" to calculate the amount paid by the customer by deducting any discounts from the order total.
   - Step 16: Insert column "profit" to calculate the profit by deducting total product cost (multiply product cost and quantity) from revenue.
   - Step 17: Insert column "profitMargin" to calculate the percentage profit over revenue.
+  - Step 18: Apply a filter to "orderDate" to only show transactions before 2024-05-01. *Rationale: Only partial records for May 2024 transactions exist, which will skew results.*
+  - Step 19: Create a new worksheet named "summary".
+  - Step 20: Extracted a list of all customers and their associated revenue using the formula: `=QUERY(revenue,"SELECT C, SUM(P) WHERE C IS NOT NULL GROUP BY C ORDER BY SUM(P) DESC LABEL C 'Customer', SUM(P) 'Revenue'", 1)`.
+  - Step 21: Inserted a column "% of Total" to calculate each customer's percentage of the total revenue.
+  - Step 22: Inserted a column "Cumulative" to calculate a running balance of the "% of Total," providing insight into cumulative revenue distribution.
