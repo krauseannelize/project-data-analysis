@@ -74,6 +74,19 @@ This log documents the steps taken in the Google Sheets data analysis project.
       - Revenue: Sum (default).
       - Revenue: Sum as % of grand total.
     - Filter: Applied filter on customerCountry to analyze city-level contributions per selected country.
+  - Step 41: Create a copy of the "analysis-revenue" worksheet and rename the copy to "analysis-dynamic".
+  - Step 42: Change the named table name to "dynamic".
+  - Step 43: Delete "customerCity" and "customerCountry" columns.
+  - Step 44: Added a new column titled "orderCount" to track the cumulative count of unique orders per customer using the formula `=COUNTUNIQUEIFS($A$2:$A2, $B$2:$B2, B2)`. This calculates a running balance of distinct orders per customer, ensuring line items for the same order are counted only once.
+  - Step 45: Added a new column titled "sinceLastOrder" to calculate the days since the customer's last order using the formula `=IF(E2=1, 0, D2 - INDEX($D$2:$D2,MATCH(1, ($B$2:$B2=B2)*($E$2:$E2=E2-1), 0)))`. This will help to identify gaps in customer order history for classification purposes.
+  - Step 46: Added a new column titled "customerStatus" to classify customers as New, Non-Returning, Dormant, or Regular based on their order history and purchasing patterns. The classification criteria is:
+    - New: Customer placed exactly 1 order within the 180 days preceding 2024-04-30, the last day of our range.
+    - Non-Returning: Customer has placed exactly 1 order and the gap between their order date and 2024-04-30 exceeds 180 days.
+    - Dormant: Customer has placed multiple orders, but has not made a purchase within the last 180 days and at least one gap between orders exceed 365 days.
+    - Regular: Customer has placed multiple orders, all gaps between orders are less than or equal to 365 days, with at least one purchase within the 180 days preceding 2024-04-30.
+    The classification was done using this formula: `=IF(MAXIFS(dynamic[orderCount], dynamic[customerID], B2)=1, 
+     IF((DATE(2024,4,30) - MAXIFS(dynamic[orderDate], dynamic[customerID], B2)) > 180, "Non-Returning", "New"), 
+     IF(AND(MAX(dynamic[sinceLastOrder]) > 365, (DATE(2024,4,30) - MAXIFS(dynamic[orderDate], dynamic[customerID], B2)) > 180), "Dormant", "Regular"))`
 
 - **Data Correction:**
   - Corrected customer "Que Delícia" city from " 12Rio de Janeiro" to "Rio de Janeiro" in the original "3 customers" worksheet to ensure data accuracy.
