@@ -62,3 +62,15 @@ This log documents the use of AI tools during the Google Sheets data analysis pr
   - Selected gradient colors: Pale Gold (#FFE699), Orange (#FFA500), and Royal Blue (#002FA7) for low, mid, and high values, respectively.
   - Applied the gradient to the heatmap, ensuring accessibility and professional aesthetics.
   - Incorporated the heatmap into the report for impactful visualization of country performance.
+
+## 2025-04-18 - Brainstorming and Debugging Customer Classification Logic
+
+- **Purpose**: Collaboratively refine customer classification logic with AI to improve accuracy and address edge cases in the dataset.
+- **AI Tool Used**: Microsoft Copilot
+- **Approach**: Engaged in iterative troubleshooting and brainstorming with AI, testing classification formulas and identifying key refinements to address gaps, frequent orders, and dormant customer detection.
+- **Key Outcomes**:
+  - Refined the formula for the "sinceLastOrder" column (Step 45) to calculate gaps between orders and enable precise customer analysis.
+  - Adjusted the logic for the "customerStatus" column (Step 46), ensuring classifications dynamically capture behavior across "New," "Non-Returning," "Dormant," and "Regular".
+    - "Dormant" customers were defined with stricter criteria, requiring both no recent activity within 6 months and a long gap (>365 days) between orders.
+    - Reactivated customers (e.g., those with frequent recent orders after a long gap) are now correctly classified as "Regular."
+   - Successfully debugged edge cases and misclassifications through detailed formula testing.
