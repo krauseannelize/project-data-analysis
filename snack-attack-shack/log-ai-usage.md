@@ -52,3 +52,13 @@ This log documents the use of AI tools during the Google Sheets data analysis pr
 - **Outcome**:
   - Chose one of the generated designs and note the color codes used for branding.
   - Incorporated the logo into project documentation for cohesive visual identity.
+
+## 2025-04-18 - Heat Map Visualization
+
+- **Purpose**: Create a visually accessible and appealing heatmap to visualize country performance data in the report.
+- **AI Tool Used:** Microsoft Copilot
+- **Prompt**: "Recommend a color-blind-friendly gradient using three colors (low, mid, high) for a heatmap."
+- **Outcome**:
+  - Selected gradient colors: Pale Gold (#FFE699), Orange (#FFA500), and Royal Blue (#002FA7) for low, mid, and high values, respectively.
+  - Applied the gradient to the heatmap, ensuring accessibility and professional aesthetics.
+  - Incorporated the heatmap into the report for impactful visualization of country performance.

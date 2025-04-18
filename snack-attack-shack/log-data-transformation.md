@@ -58,3 +58,23 @@ This log documents the steps taken in the Google Sheets data analysis project.
     - Columns: Representing category revenue.
     - Line: Representing cumulative % of total revenue.
   - Step 33: Added comments to cells containing the QUERY function to warn users: *"The QUERY function references specific columns. If columns in the source data are added, removed, or reordered, this formula may break or return incorrect results. Update the QUERY parameters as needed."*
+  - Step 34: Delete rows for orders placed in May 2024 and updated values accordingly in report. *Rationale: Noticed the filter applied in the "analysis-revenue" worksheet didn't exclude the transactions from initial analyses. As May 2024 only has partial records, it is excluded for ensure consistency and reliability.*
+  - Step 35: Extracted a list of all countries and their associated revenue in the "summary" worksheet by using the formula: `=QUERY(revenue,"SELECT E, SUM(P) WHERE E IS NOT NULL GROUP BY E ORDER BY SUM(P) DESC LABEL E 'Country', SUM(P) 'Revenue'", 1)`. Included comments with warning - see Step 33.
+  - Step 36: Inserted a column "% of Total" to calculate each country's percentage of the total revenue.
+  - Step 37: Inserted a column "Cumulative" to calculate a running balance of the "% of Total," providing insight into cumulative revenue distribution per country.
+  - Step 38: Created a combination chart in "visualizations" titled "Pareto Chart: Revenue by Country" with:
+    - Columns: Representing country revenue.
+    - Line: Representing cumulative % of total revenue.
+  - Step 39: Created a heat map visualization representing country revenue on a world map in "visualizations". Use AI to choose an accessible color scheme. Incorporate gradient colors: Pale Gold (#FFE699), Orange (#FFA500), and Royal Blue (#002FA7) for low, mid, and high values, respectively.
+  - Step 40: Inserted a pivot table in "summary" referencing the "analysis-revenue" worksheet with the following configuration:
+    - Rows:
+      - customerCountry (sorted descending by sum of revenue)
+      - customerCity (sorted descending by sum of revenue).
+    - Values:
+      - Revenue: Sum (default).
+      - Revenue: Sum as % of grand total.
+    - Filter: Applied filter on customerCountry to analyze city-level contributions per selected country.
+
+- **Data Correction:**
+  - Corrected customer "Que Delícia" city from " 12Rio de Janeiro" to "Rio de Janeiro" in the original "3 customers" worksheet to ensure data accuracy.
+
