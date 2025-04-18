@@ -34,7 +34,47 @@ This log documents the steps taken in the Google Sheets data analysis project.
   - Step 16: Insert column "profit" to calculate the profit by deducting total product cost (multiply product cost and quantity) from revenue.
   - Step 17: Insert column "profitMargin" to calculate the percentage profit over revenue.
   - Step 18: Apply a filter to "orderDate" to only show transactions before 2024-05-01. *Rationale: Only partial records for May 2024 transactions exist, which will skew results.*
-  - Step 19: Create a new worksheet named "summary".
+  - Step 19: Create a new worksheet named "summary" to consolidate key metrics and streamline analysis.
   - Step 20: Extracted a list of all customers and their associated revenue using the formula: `=QUERY(revenue,"SELECT C, SUM(P) WHERE C IS NOT NULL GROUP BY C ORDER BY SUM(P) DESC LABEL C 'Customer', SUM(P) 'Revenue'", 1)`.
   - Step 21: Inserted a column "% of Total" to calculate each customer's percentage of the total revenue.
-  - Step 22: Inserted a column "Cumulative" to calculate a running balance of the "% of Total," providing insight into cumulative revenue distribution.
+  - Step 22: Inserted a column "Cumulative" to calculate a running balance of the "% of Total," providing insight into cumulative revenue distribution per customer.
+
+## 2025-04-18 - Continued Data Processing
+
+  - Step 23: Create a new worksheet named "visualizations" to centralize charts and graphs for analysis.
+  - Step 24: Created a combination chart titled "Pareto Chart: Revenue by Customers" with:
+    - Columns: Representing customer revenue.
+    - Line: Representing cumulative % of total revenue.
+  - Step 25: Extracted a list of all products and their associated revenue in the "summary" worksheet by using the formula: `=QUERY(revenue,"SELECT H, SUM(P) WHERE H IS NOT NULL GROUP BY H ORDER BY SUM(P) DESC LABEL H 'Product', SUM(P) 'Revenue'", 1)`.
+  - Step 26: Inserted a column "% of Total" to calculate each products's percentage of the total revenue.
+  - Step 27: Inserted a column "Cumulative" to calculate a running balance of the "% of Total," providing insight into cumulative revenue distribution per product.
+  - Step 28: Created a combination chart in "visualizations" titled "Pareto Chart: Revenue by Products" with:
+    - Columns: Representing product revenue.
+    - Line: Representing cumulative % of total revenue.
+  - Step 29: Extracted a list of all categories and their associated revenue in the "summary" worksheet by using the formula: `=QUERY(revenue,"SELECT I, SUM(P) WHERE I IS NOT NULL GROUP BY I ORDER BY SUM(P) DESC LABEL I 'Category', SUM(P) 'Revenue'", 1)`.
+  - Step 30: Inserted a column "% of Total" to calculate each category's percentage of the total revenue.
+  - Step 31: Inserted a column "Cumulative" to calculate a running balance of the "% of Total," providing insight into cumulative revenue distribution per category.
+  - Step 32: Created a combination chart in "visualizations" titled "Pareto Chart: Revenue by Category" with:
+    - Columns: Representing category revenue.
+    - Line: Representing cumulative % of total revenue.
+  - Step 33: Added comments to cells containing the QUERY function to warn users: *"The QUERY function references specific columns. If columns in the source data are added, removed, or reordered, this formula may break or return incorrect results. Update the QUERY parameters as needed."*
+  - Step 34: Delete rows for orders placed in May 2024 and updated values accordingly in report. *Rationale: Noticed the filter applied in the "analysis-revenue" worksheet didn't exclude the transactions from initial analyses. As May 2024 only has partial records, it is excluded for ensure consistency and reliability.*
+  - Step 35: Extracted a list of all countries and their associated revenue in the "summary" worksheet by using the formula: `=QUERY(revenue,"SELECT E, SUM(P) WHERE E IS NOT NULL GROUP BY E ORDER BY SUM(P) DESC LABEL E 'Country', SUM(P) 'Revenue'", 1)`. Included comments with warning - see Step 33.
+  - Step 36: Inserted a column "% of Total" to calculate each country's percentage of the total revenue.
+  - Step 37: Inserted a column "Cumulative" to calculate a running balance of the "% of Total," providing insight into cumulative revenue distribution per country.
+  - Step 38: Created a combination chart in "visualizations" titled "Pareto Chart: Revenue by Country" with:
+    - Columns: Representing country revenue.
+    - Line: Representing cumulative % of total revenue.
+  - Step 39: Created a heat map visualization representing country revenue on a world map in "visualizations". Use AI to choose an accessible color scheme. Incorporate gradient colors: Pale Gold (#FFE699), Orange (#FFA500), and Royal Blue (#002FA7) for low, mid, and high values, respectively.
+  - Step 40: Inserted a pivot table in "summary" referencing the "analysis-revenue" worksheet with the following configuration:
+    - Rows:
+      - customerCountry (sorted descending by sum of revenue)
+      - customerCity (sorted descending by sum of revenue).
+    - Values:
+      - Revenue: Sum (default).
+      - Revenue: Sum as % of grand total.
+    - Filter: Applied filter on customerCountry to analyze city-level contributions per selected country.
+
+- **Data Correction:**
+  - Corrected customer "Que Delícia" city from " 12Rio de Janeiro" to "Rio de Janeiro" in the original "3 customers" worksheet to ensure data accuracy.
+
