@@ -48,6 +48,12 @@ This log documents the steps taken in the Google Sheets data analysis project.
   - Step 25: Extracted a list of all products and their associated revenue in the "summary" worksheet by using the formula: `=QUERY(revenue,"SELECT H, SUM(P) WHERE H IS NOT NULL GROUP BY H ORDER BY SUM(P) DESC LABEL H 'Product', SUM(P) 'Revenue'", 1)`.
   - Step 26: Inserted a column "% of Total" to calculate each products's percentage of the total revenue.
   - Step 27: Inserted a column "Cumulative" to calculate a running balance of the "% of Total," providing insight into cumulative revenue distribution per product.
-  - Step 24: Created a combination chart in "visualizations" titled "Pareto Chart: Revenue by Products" with:
+  - Step 28: Created a combination chart in "visualizations" titled "Pareto Chart: Revenue by Products" with:
     - Columns: Representing product revenue.
+    - Line: Representing cumulative % of total revenue.
+  - Step 29: Extracted a list of all categories and their associated revenue in the "summary" worksheet by using the formula: `=QUERY(revenue,"SELECT I, SUM(P) WHERE I IS NOT NULL GROUP BY I ORDER BY SUM(P) DESC LABEL I 'Category', SUM(P) 'Revenue'", 1)`.
+  - Step 30: Inserted a column "% of Total" to calculate each category's percentage of the total revenue.
+  - Step 31: Inserted a column "Cumulative" to calculate a running balance of the "% of Total," providing insight into cumulative revenue distribution per category.
+  - Step 32: Created a combination chart in "visualizations" titled "Pareto Chart: Revenue by Category" with:
+    - Columns: Representing category revenue.
     - Line: Representing cumulative % of total revenue.
