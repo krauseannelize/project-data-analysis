@@ -2,7 +2,7 @@
 
 This log documents the use of AI tools during the Google Sheets data analysis project. It showcases how AI was leveraged for exploratory analysis, generating insights, and assisting with data transformation and visualization. Each entry includes the date, the prompt used, and the result or outcome.
 
-2025-04-16 - Initial Interaction with AI
+## 2025-04-16 - Initial Interaction with AI
 
 - **Purpose**: Begin exploratory analysis of the uploaded dataset.
 - **AI Tool Used**: Perplexity AI
@@ -30,3 +30,25 @@ This log documents the use of AI tools during the Google Sheets data analysis pr
     - **Sales Trend Analysis**: How have sales trends evolved over time, and what are the key drivers behind these trends? Are there noticeable seasonal patterns, growth trends, or areas of concern that require strategic attention?
     - **Demand Forecasting**: What is the projected demand for the next quarter/year, and how can inventory be optimized and production plannied to meet this demand effectively? What are the potential risks and opportunities associated with these forecasts?
     - **Shipping Carrier Performance**: Which shipping carrier is the fastest on average? Which is the most cost-effective?
+
+## 2025-04-17 - Brainstorming the Analysis Workflow
+
+- **Purpose**: Collaboratively brainstorm with AI to efficiently structure the analysis and address key project questions.
+- **AI Tool Used**: Perplexity AI
+- **Approach**: Engaged in a dynamic conversation with AI, exploring various strategies for breaking down the dataset and organizing the analysis.
+- **Key Outcomes**:
+  - Decided to create three sheets to centralize specific analyses:
+    - Revenue Sheet: Focus on sales value, trends, and profitability.
+    - Inventory Sheet: Track stock levels and identify risk of stockouts or excess inventory.
+    - Shipping Sheet: Analyze delivery costs and performance.
+  - Defined preprocessing needs, such as calculating sales value (sale price × quantity) and linking product costs from the products sheet.
+  - Identified an efficient workflow to answer key questions comprehensively.
+
+## 2025-04-17 - Company Logo Creation
+
+- **Purpose**: Create a visually appealing company logo for use in project documentation.
+- **AI Tool Used**: Canva's AI Image Generator Magic Media
+- **Prompt**: "Generate a logo on a white background for 'Snack Attack Shack' using the colors blue, green and red."
+- **Outcome**:
+  - Chose one of the generated designs and note the color codes used for branding.
+  - Incorporated the logo into project documentation for cohesive visual identity.
