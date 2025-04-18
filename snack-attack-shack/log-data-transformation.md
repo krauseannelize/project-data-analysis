@@ -57,3 +57,4 @@ This log documents the steps taken in the Google Sheets data analysis project.
   - Step 32: Created a combination chart in "visualizations" titled "Pareto Chart: Revenue by Category" with:
     - Columns: Representing category revenue.
     - Line: Representing cumulative % of total revenue.
+  - Step 33: Added comments to cells containing the QUERY function to warn users: *"The QUERY function references specific columns. If columns in the source data are added, removed, or reordered, this formula may break or return incorrect results. Update the QUERY parameters as needed."*
