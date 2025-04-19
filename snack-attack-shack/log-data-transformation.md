@@ -133,3 +133,17 @@ This log documents the steps taken in the Google Sheets data analysis project.
     - Filter: Applied a filter to productName, to focus individually on each of the four discontinued products in the top 25 products by revenue (e.g., Alice Mutton).
   - Step 52: Copied the filtered pivot table three times to generate individual tables for each of the remaining products (Thüringer Rostbratwurst, Rössle Sauerkraut, and Perth Pasties).
   - Step 53: Created area graphs for each of the four discontinued products in the "visualizations" worksheet. Each graph includes a moving average trendline to illustrate changes in revenue patterns over time.
+  - Step 54: Created a pivot table in the "summary" worksheet with the following configuration:
+    - Rows:
+      - orderPrice sorted in ascending order and grouped into intervals of 10 (e.g., €0.00-€10.00, €10.00-€20.00, etc.).
+    - Values:
+      - Order Count: SUM of orderQuantity.
+      - Total Revenue: SUM of revenue.
+  - Step 55: Used the resulting pivot table to generate a graph in the "visualizations" worksheet:
+    - Graph Type: A dual-axis graph with:
+      - Left Y-Axis: Order Count.
+      - Right Y-Axis: Total Revenue.
+      - X-Axis: Price brackets (orderPrice) grouped in intervals of 10.
+  - Step 56: Added two trendlines to the graph:
+    - Trendline indicating relationship between Order Count and price brackets.
+    - Trendline indicating relationship between Total Revenue and price brackets.
