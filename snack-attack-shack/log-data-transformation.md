@@ -16,7 +16,7 @@ This log documents the steps taken in the Google Sheets data analysis project.
     - Step 1: Create a copy of the workbook with name `analysis-snack-attack-shack-challenge`.
     - Step 2: Uploaded the workbook to AI for initial exploration and querying. *For details on AI interactions, refer to the* [AI Usage Log](/snack-attack-shack/log-ai-usage.md).
 
-## 2025-04-17 - Continued Data Processing
+## 2025-04-17 - Data Processing & Analysis
 
   - Step 3: Create a copy of the "1 orders" worksheet and rename the copy to "analysis-revenue".
   - Step 4: Change the named table name to "revenue".
@@ -39,7 +39,7 @@ This log documents the steps taken in the Google Sheets data analysis project.
   - Step 21: Inserted a column "% of Total" to calculate each customer's percentage of the total revenue.
   - Step 22: Inserted a column "Cumulative" to calculate a running balance of the "% of Total," providing insight into cumulative revenue distribution per customer.
 
-## 2025-04-18 - Continued Data Processing
+## 2025-04-18 - Continued Data Processing & Analysis
 
   - Step 23: Create a new worksheet named "visualizations" to centralize charts and graphs for analysis.
   - Step 24: Created a combination chart titled "Pareto Chart: Revenue by Customers" with:
@@ -84,10 +84,34 @@ This log documents the steps taken in the Google Sheets data analysis project.
     - Non-Returning: Customer has placed exactly 1 order and the gap between their order date and 2024-04-30 exceeds 180 days.
     - Dormant: Customer has placed multiple orders, but has not made a purchase within the last 180 days and at least one gap between orders exceed 365 days.
     - Regular: Customer has placed multiple orders, all gaps between orders are less than or equal to 365 days, with at least one purchase within the 180 days preceding 2024-04-30.
-    The classification was done using this formula: `=IF(MAXIFS(dynamic[orderCount], dynamic[customerID], B2)=1, 
-     IF((DATE(2024,4,30) - MAXIFS(dynamic[orderDate], dynamic[customerID], B2)) > 180, "Non-Returning", "New"), 
-     IF(AND(MAX(dynamic[sinceLastOrder]) > 365, (DATE(2024,4,30) - MAXIFS(dynamic[orderDate], dynamic[customerID], B2)) > 180), "Dormant", "Regular"))`
+    The classification was done using this formula:
+    `=IF(MAXIFS(dynamic[orderCount], dynamic[customerID], B2)=1, 
+       IF((DATE(2024,4,30) - MAXIFS(dynamic[orderDate], dynamic[customerID], B2)) > 180, "Non-Returning", "New"), 
+       IF(AND(MAX(dynamic[sinceLastOrder]) > 365, (DATE(2024,4,30) - MAXIFS(dynamic[orderDate], dynamic[customerID], B2)) > 180), "Dormant", "Regular"))`
 
 - **Data Correction:**
   - Corrected customer "Que Delícia" city from " 12Rio de Janeiro" to "Rio de Janeiro" in the original "3 customers" worksheet to ensure data accuracy.
 
+## 2025-04-19 - Continued Data Processing & Anaysis
+
+  - Step 47: Inserted a pivot table in "summary" referencing the "analysis-dynamic" worksheet with the following configuration:
+    - Rows:
+      - customerStatus (sorted ascending by customerStatus)
+      - customerName (sorted descending by Total Revenue).
+    - Values:
+      - Total Revenue: Sum of revenue.
+      - Order Count: Max of orderCount.
+      - AVG Revenue: Calculated field to calculate the average revenue per number of orders with formula: `=SUM(revenue)/MAX(orderCount)`.
+      - Frequency: Calculated field to calculate the order frequency by getting the average days between order with the formula: `=ROUND(SUM(sinceLastOrder)/IF(MAX(orderCount)=1,1,MAX(orderCount)-1))`. I subtract 1 to exclude the first order that does not have a gap.
+      - Elapsed: Calculated field to calculate the time that has elapsed since customer's last order and the end of range 30 April 2024 with formula: `=DATE(2024,4,30) - MAX(orderDate)`.
+  - Step 48: Refined the "customerStatus" column logic to improve classification accuracy and expand the scope of analysis. Adjustments included:
+    - New: Customers are now classified as "New" if their first order occurred within the 120 days preceding 2024-04-30, regardless of how many orders they've placed.
+    - Non-Returning: Expanded the criteria to include customers with up to 2 orders, where their most recent order occurred more than 180 days before 2024-04-30.
+    - Dormant: Adjusted the definition of "multiple orders" to require at least 3 orders.
+    - Regular: Adjusted the definition of "multiple orders" to require at least 3 orders.
+    The classification was done using this formula:
+    `=IF(MINIFS(dynamic[orderDate], dynamic[customerID], B2) >= DATE(2024,4,30)-120, 
+       "New", 
+       IF(MAXIFS(dynamic[orderCount], dynamic[customerID], B2)<=2, 
+          IF((DATE(2024,4,30) - MAXIFS(dynamic[orderDate], dynamic[customerID], B2)) > 180, "Non-Returning", "Dormant"), 
+        IF(AND(MAX(dynamic[sinceLastOrder]) > 365, (DATE(2024,4,30) - MAXIFS(dynamic[orderDate], dynamic[customerID], B2)) > 180), "Dormant", "Regular")))`

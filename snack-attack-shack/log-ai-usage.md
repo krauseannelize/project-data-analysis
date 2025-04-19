@@ -74,3 +74,18 @@ This log documents the use of AI tools during the Google Sheets data analysis pr
     - "Dormant" customers were defined with stricter criteria, requiring both no recent activity within 6 months and a long gap (>365 days) between orders.
     - Reactivated customers (e.g., those with frequent recent orders after a long gap) are now correctly classified as "Regular."
    - Successfully debugged edge cases and misclassifications through detailed formula testing.
+
+## 2025-04-19 - Refining and Expanding Customer Classification Logic
+
+- **Purpose**: Collaboratively refine customer classification logic with AI to enhance accuracy, broaden classifications, and address edge cases in the dataset.
+- **AI Tool Used: Microsoft Copilot
+- **Approach**: Engaged in dynamic brainstorming and troubleshooting with AI to test new scenarios, adjust timeframes, and implement refined formulas for identifying New, Non-Returning, Dormant, and Regular customers.
+- **Key Outcomes**:
+  - Updated classification criteria for "New" customers:
+    - Now based on the first order date, with a window of 120 days preceding the end date (30 April 2024), regardless of total order count.
+    - Highlighted 1 customer as "New" due to an order placed 91 days ago.
+  - Broadened the definition of "Non-Returning" customers:
+    - Increased orderCount threshold to up to 2 orders, expanding the pool of inactive customers for analysis.
+  - Refined criteria for "Dormant" and "Regular" customers:
+    - Adjusted "multiple orders" to require at least 3 orders for more precise classifications.
+  - Successfully debugged edge cases and recalibrated logic to align with updated customer behavior insights.
