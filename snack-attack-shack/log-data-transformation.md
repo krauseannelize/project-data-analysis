@@ -68,11 +68,11 @@ This log documents the steps taken in the Google Sheets data analysis project.
   - Step 39: Created a heat map visualization representing country revenue on a world map in "visualizations". Use AI to choose an accessible color scheme. Incorporate gradient colors: Pale Gold (#FFE699), Orange (#FFA500), and Royal Blue (#002FA7) for low, mid, and high values, respectively.
   - Step 40: Inserted a pivot table in "summary" referencing the "analysis-revenue" worksheet with the following configuration:
     - Rows:
-      - customerCountry (sorted descending by sum of revenue)
-      - customerCity (sorted descending by sum of revenue).
+      - customerCountry (sorted descending by SUM of revenue)
+      - customerCity (sorted descending by SUM of revenue).
     - Values:
-      - Revenue: Sum (default).
-      - Revenue: Sum as % of grand total.
+      - Revenue: SUM (default).
+      - Revenue: SUM as % of grand total.
     - Filter: Applied filter on customerCountry to analyze city-level contributions per selected country.
   - Step 41: Create a copy of the "analysis-revenue" worksheet and rename the copy to "analysis-dynamic".
   - Step 42: Change the named table name to "dynamic".
@@ -99,8 +99,8 @@ This log documents the steps taken in the Google Sheets data analysis project.
       - customerStatus (sorted ascending by customerStatus)
       - customerName (sorted descending by Total Revenue).
     - Values:
-      - Total Revenue: Sum of revenue.
-      - Order Count: Max of orderCount.
+      - Total Revenue: SUM of revenue.
+      - Order Count: MAX of orderCount.
       - AVG Revenue: Calculated field to calculate the average revenue per number of orders with formula: `=SUM(revenue)/MAX(orderCount)`.
       - Frequency: Calculated field to calculate the order frequency by getting the average days between order with the formula: `=ROUND(SUM(sinceLastOrder)/IF(MAX(orderCount)=1,1,MAX(orderCount)-1))`. I subtract 1 to exclude the first order that does not have a gap.
       - Elapsed: Calculated field to calculate the time that has elapsed since customer's last order and the end of range 30 April 2024 with formula: `=DATE(2024,4,30) - MAX(orderDate)`.
@@ -115,3 +115,21 @@ This log documents the steps taken in the Google Sheets data analysis project.
        IF(MAXIFS(dynamic[orderCount], dynamic[customerID], B2)<=2, 
           IF((DATE(2024,4,30) - MAXIFS(dynamic[orderDate], dynamic[customerID], B2)) > 180, "Non-Returning", "Dormant"), 
         IF(AND(MAX(dynamic[sinceLastOrder]) > 365, (DATE(2024,4,30) - MAXIFS(dynamic[orderDate], dynamic[customerID], B2)) > 180), "Dormant", "Regular")))`
+  - Step 49: Inserted a new column "productStatus" in the "analysis-dynamic" worksheet looking up the status in the "2 products" worksheet and assigning "Discontinued" and "Current".
+  - Step 50: Created a pivot table in the "summary" worksheet with the following configuration:
+    - Rows:
+      - productStatus (sorted ascending by productStatus).
+      - productName (sorted descending by SUM of revenue).
+   - Values:
+     - Order Count: COUNTUNIQUE of orderID.
+     - Total Revenue: SUM of revenue.
+     - Last Order: MAX of orderDate.
+  - Step 51: Created a second pivot table in the "summary" worksheet with the following configuration:
+    - Rows:
+      - productName (sorted ascending by productName).
+      - Month: orderDate (sorted ascending by orderDate and grouped by year-month).
+    - Values:
+      - Total Revenue: SUM of revenue.
+    - Filter: Applied a filter to productName, to focus individually on each of the four discontinued products in the top 25 products by revenue (e.g., Alice Mutton).
+  - Step 52: Copied the filtered pivot table three times to generate individual tables for each of the remaining products (Thüringer Rostbratwurst, Rössle Sauerkraut, and Perth Pasties).
+  - Step 53: Created area graphs for each of the four discontinued products in the "visualizations" worksheet. Each graph includes a moving average trendline to illustrate changes in revenue patterns over time.
