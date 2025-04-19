@@ -16,7 +16,7 @@ This log documents the steps taken in the Google Sheets data analysis project.
     - Step 1: Create a copy of the workbook with name `analysis-snack-attack-shack-challenge`.
     - Step 2: Uploaded the workbook to AI for initial exploration and querying. *For details on AI interactions, refer to the* [AI Usage Log](/snack-attack-shack/log-ai-usage.md).
 
-## 2025-04-17 - Continued Data Processing
+## 2025-04-17 - Data Processing & Analysis
 
   - Step 3: Create a copy of the "1 orders" worksheet and rename the copy to "analysis-revenue".
   - Step 4: Change the named table name to "revenue".
@@ -39,7 +39,7 @@ This log documents the steps taken in the Google Sheets data analysis project.
   - Step 21: Inserted a column "% of Total" to calculate each customer's percentage of the total revenue.
   - Step 22: Inserted a column "Cumulative" to calculate a running balance of the "% of Total," providing insight into cumulative revenue distribution per customer.
 
-## 2025-04-18 - Continued Data Processing
+## 2025-04-18 - Continued Data Processing & Analysis
 
   - Step 23: Create a new worksheet named "visualizations" to centralize charts and graphs for analysis.
   - Step 24: Created a combination chart titled "Pareto Chart: Revenue by Customers" with:
@@ -91,3 +91,15 @@ This log documents the steps taken in the Google Sheets data analysis project.
 - **Data Correction:**
   - Corrected customer "Que Delícia" city from " 12Rio de Janeiro" to "Rio de Janeiro" in the original "3 customers" worksheet to ensure data accuracy.
 
+## 2025-04-19 - Continued Data Processing & Anaysis
+
+  - Step 47: Inserted a pivot table in "summary" referencing the "analysis-dynamic" worksheet with the following configuration:
+    - Rows:
+      - customerStatus (sorted ascending by customerStatus)
+      - customerName (sorted descending by Total Revenue).
+    - Values:
+      - Total Revenue: Sum of revenue.
+      - Order Count: Max of orderCount.
+      - AVG Revenue: Calculated field to calculate the average revenue per number of orders with formula: `=SUM(revenue)/MAX(orderCount)`.
+      - Frequency: Calculated field to calculate the order frequency by getting the average days between order with the formula: `=ROUND(SUM(sinceLastOrder)/IF(MAX(orderCount)=1,1,MAX(orderCount)-1))`. I subtract 1 to exclude the first order that does not have a gap.
+      - Elapsed: Calculated field to calculate the time that has elapsed since customer's last order and the end of range 30 April 2024 with formula: `=DATE(2024,4,30) - MAX(orderDate)`.
