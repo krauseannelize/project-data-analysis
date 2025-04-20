@@ -144,6 +144,6 @@ This log documents the steps taken in the Google Sheets data analysis project.
       - Left Y-Axis: Order Count.
       - Right Y-Axis: Total Revenue.
       - X-Axis: Price brackets (orderPrice) grouped in intervals of 10.
-  - Step 56: Added two trendlines to the graph:
+  - Step 56: Added two moving average trendlines to the graph:
     - Trendline indicating relationship between Order Count and price brackets.
     - Trendline indicating relationship between Total Revenue and price brackets.
