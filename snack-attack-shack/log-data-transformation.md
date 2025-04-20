@@ -194,3 +194,12 @@ This log documents the steps taken in the Google Sheets data analysis project.
       - Left Y-Axis: Profit (Area graph).
       - Right Y-Axis: Profit Margin (Line graph).
       - X-Axis: orderDate in Year-Month format.
+- Step 72: Created a pivot table in the "summary" worksheet to summarize sales volume data by month and year for trend analysis:
+    - Rows:
+      - orderDate: Sorted ascending and grouped by Year-Month.
+    - Values:
+      - Sales Volume: SUM of orderQuantity.
+- Step 73: Used the resulting pivot table to create a graph in the "visualizations" worksheet showing sales volume trends over time from July 2022 to April 2024
+    - Graph Type: An area graph with:
+      - Y-Axis: Sales Volume.
+      - X-Axis: orderDate in Year-Month format.
