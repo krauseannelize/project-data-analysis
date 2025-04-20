@@ -147,3 +147,14 @@ This log documents the steps taken in the Google Sheets data analysis project.
   - Step 56: Added two moving average trendlines to the graph:
     - Trendline indicating relationship between Order Count and price brackets.
     - Trendline indicating relationship between Total Revenue and price brackets.
+
+## 2025-04-20 - Continued Data Processing & Anaysis
+
+- Step 57: Created a copy of "1 orders" worksheet and renamed it "analysis-operations". - Changed the named table name to "operations".
+- Step 58: eleted columns "customerID", "orderPrice" and "discountApllied" - Insert column "productName" and use VLOOKUP to pull in the product name from the "2 products" worksheet.
+- Step 59: Inserted a new column "productStatus" in the "analysis-dynamic" worksheet looking up the status in the "2 products" worksheet and assigning "Discontinued" and "Current". - Inserted a new column "unitsStocked" and used VLOOKUP to pull in the units in stock from the "2 products" worksheet.
+- Step 60: Inserted a new column "unitsOrdered" and used VLOOKUP to pull in the units on order from the "2 products" worksheet.
+- Step 61: Inserted a new column "reorderLevel" and used VLOOKUP to pull in the reorder level from the "2 products" worksheet.
+- Step 62: Added a new column titled "orderCount" to track the cumulative count of unique orders per customer using the formula `=COUNTUNIQUEIFS($A$2:$A2,$F$2:$F2,F2)`. This calculates a running balance of distinct orders per customer, ensuring line items for the same order are counted only once.
+- Step 63: Added a new column titled "sinceLastOrder" to calculate the days since the customer's last order using the formula `=IF(M2=1, 0, B2 - INDEX($B$2:$B2,MATCH(1, ($F$2:$F2=F2)*($M$2:$M2=M2-1), 0)))`. This will help to identify gaps in customer order history for classification purposes.
+- Step 64: Added a new column titled "salesVelocity" to measure the average rate of product sales over time using the formula: `=IF(operations[sinceLastOrder]=0, 0, operations[orderQuantity] / operations[sinceLastOrder])`. This calculates the velocity by dividing the order quantity by the days since the last order providing insight into how quickly products are selling and helps identify stockout risks or slow-moving inventory.
