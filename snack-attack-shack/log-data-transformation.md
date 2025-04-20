@@ -158,3 +158,14 @@ This log documents the steps taken in the Google Sheets data analysis project.
 - Step 62: Added a new column titled "orderCount" to track the cumulative count of unique orders per customer using the formula `=COUNTUNIQUEIFS($A$2:$A2,$F$2:$F2,F2)`. This calculates a running balance of distinct orders per customer, ensuring line items for the same order are counted only once.
 - Step 63: Added a new column titled "sinceLastOrder" to calculate the days since the customer's last order using the formula `=IF(M2=1, 0, B2 - INDEX($B$2:$B2,MATCH(1, ($F$2:$F2=F2)*($M$2:$M2=M2-1), 0)))`. This will help to identify gaps in customer order history for classification purposes.
 - Step 64: Added a new column titled "salesVelocity" to measure the average rate of product sales over time using the formula: `=IF(operations[sinceLastOrder]=0, 0, operations[orderQuantity] / operations[sinceLastOrder])`. This calculates the velocity by dividing the order quantity by the days since the last order providing insight into how quickly products are selling and helps identify stockout risks or slow-moving inventory.
+- Step 65: Created a pivot table in the "summary" worksheet with the following configuration:
+    - Rows:
+      - productStatus (sorted ascending by productStatus).
+      - productName (sorted ascending by Days-to-Stockout).
+   - Values:
+     - In Stock: MAX of unitsStocked
+     - Ordered: MAX of unitsOrdered
+     - Reorder Level: MAX of reorderLevel
+     - Days-to-Stockout: Add a calculated field with the formula: `=unitsStocked / AVERAGE(salesVelocity)` to estimate the number of days until stock depletion.
+     - Levels: Add a calculated field with the formula: `=IF(unitsStocked > (AVERAGE(salesVelocity) * 30), "Excess", "Normal")` to flag products with excess inventory relative to sales velocity.
+     - Status: Add a calculated field with the formula: `=IF(unitsStocked > reorderLevel, "Adequate", IF((unitsStocked + unitsOrdered) > reorderLevel, "On Order", "Reorder"))` to classify products based on their stock levels and reorder thresholds.
