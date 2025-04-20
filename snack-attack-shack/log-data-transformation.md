@@ -144,6 +144,74 @@ This log documents the steps taken in the Google Sheets data analysis project.
       - Left Y-Axis: Order Count.
       - Right Y-Axis: Total Revenue.
       - X-Axis: Price brackets (orderPrice) grouped in intervals of 10.
-  - Step 56: Added two trendlines to the graph:
+  - Step 56: Added two moving average trendlines to the graph:
     - Trendline indicating relationship between Order Count and price brackets.
     - Trendline indicating relationship between Total Revenue and price brackets.
+
+## 2025-04-20 - Continued Data Processing & Anaysis
+
+- Step 57: Created a copy of "1 orders" worksheet and renamed it "analysis-operations". - Changed the named table name to "operations".
+- Step 58: eleted columns "customerID", "orderPrice" and "discountApllied" - Insert column "productName" and use VLOOKUP to pull in the product name from the "2 products" worksheet.
+- Step 59: Inserted a new column "productStatus" in the "analysis-dynamic" worksheet looking up the status in the "2 products" worksheet and assigning "Discontinued" and "Current". - Inserted a new column "unitsStocked" and used VLOOKUP to pull in the units in stock from the "2 products" worksheet.
+- Step 60: Inserted a new column "unitsOrdered" and used VLOOKUP to pull in the units on order from the "2 products" worksheet.
+- Step 61: Inserted a new column "reorderLevel" and used VLOOKUP to pull in the reorder level from the "2 products" worksheet.
+- Step 62: Added a new column titled "orderCount" to track the cumulative count of unique orders per customer using the formula `=COUNTUNIQUEIFS($A$2:$A2,$F$2:$F2,F2)`. This calculates a running balance of distinct orders per customer, ensuring line items for the same order are counted only once.
+- Step 63: Added a new column titled "sinceLastOrder" to calculate the days since the customer's last order using the formula `=IF(M2=1, 0, B2 - INDEX($B$2:$B2,MATCH(1, ($F$2:$F2=F2)*($M$2:$M2=M2-1), 0)))`. This will help to identify gaps in customer order history for classification purposes.
+- Step 64: Added a new column titled "salesVelocity" to measure the average rate of product sales over time using the formula: `=IF(operations[sinceLastOrder]=0, 0, operations[orderQuantity] / operations[sinceLastOrder])`. This calculates the velocity by dividing the order quantity by the days since the last order providing insight into how quickly products are selling and helps identify stockout risks or slow-moving inventory.
+- Step 65: Created a pivot table in the "summary" worksheet with the following configuration:
+    - Rows:
+      - productStatus (sorted ascending by productStatus).
+      - productName (sorted ascending by Days-to-Stockout).
+   - Values:
+     - In Stock: MAX of unitsStocked
+     - Ordered: MAX of unitsOrdered
+     - Reorder Level: MAX of reorderLevel
+     - Days-to-Stockout: Add a calculated field with the formula: `=unitsStocked / AVERAGE(salesVelocity)` to estimate the number of days until stock depletion.
+     - Levels: Add a calculated field with the formula: `=IF(unitsStocked > (AVERAGE(salesVelocity) * 30), "Excess", "Normal")` to flag products with excess inventory relative to sales velocity.
+     - Status: Add a calculated field with the formula: `=IF(unitsStocked > reorderLevel, "Adequate", IF((unitsStocked + unitsOrdered) > reorderLevel, "On Order", "Reorder"))` to classify products based on their stock levels and reorder thresholds.
+- Step 66: Add new column "deliveryDuration" to "analysis-operations" worksheet to calculate the time from shipping to arrival.
+- Step 67: Created a pivot table in the "summary" worksheet with the following configuration:
+    - Rows:
+      - Carrier: Displays the name of each shipping carrier (sorted ascending by Average Duration).
+    - Values:
+      - Average Duration: AVERAGE of deliveryDuration.
+      - Cost Effectiveness: Add a calculated field with the formula: `=AVERAGE(freightCost) / AVERAGE(shipDuration)` to evaluate the cost per shipment for each carrier.
+- Step 68: Used the resulting pivot table to generate a graph in the "visualizations" worksheet to visually compare shipping carriers based on both speed and cost-effectiveness, enabling quick identification of optimal carriers:
+    - Graph Type: A dual axis combination chart.
+    - Setup:
+      - X-Axis: Carrier names.
+      - Left Y-Axis: Average Delivery Duration displayed as bars.
+      - Right Y-Axis: Average Freight Cost (€) displayed as a line overlay.
+- Step 69: Revised the original question "Sales Trends" to "Profitability Trends" using AI assistance, ensuring alignment with the analysis focus.
+- Step 70: Created a pivot table in the "summary" worksheet with the following configuration:
+    - Rows:
+      - orderDate: Sorted ascending and grouped by Year-Month.
+    - Values:
+      - Profit: SUM of profit.
+      - Profit Margin: AVERAGE of profitMargin.
+- Step 71: Used the resulting pivot table to generate a graph in the "visualizations" worksheet to illustrate monthly profit and profit margin trends from July 2022 to April 2024:
+    - Graph Type: A dual-axis graph with:
+      - Left Y-Axis: Profit (Area graph).
+      - Right Y-Axis: Profit Margin (Line graph).
+      - X-Axis: orderDate in Year-Month format.
+- Step 72: Created a pivot table in the "summary" worksheet to summarize sales volume data by month and year for trend analysis:
+    - Rows:
+      - orderDate: Sorted ascending and grouped by Year-Month.
+    - Values:
+      - Sales Volume: SUM of orderQuantity.
+- Step 73: Used the resulting pivot table to create a graph in the "visualizations" worksheet showing sales volume trends over time from July 2022 to April 2024
+    - Graph Type: An area graph with:
+      - Y-Axis: Sales Volume.
+      - X-Axis: orderDate in Year-Month format.
+- Step 74: Added a new column in the "analysis-revenue" worksheet named "orderCosts" with the formula: `=revenue[productCost] * revenue[orderQuantity]` to calculate total product costs for each order.
+- Step 75: Created a pivot table in the "summary" worksheet with the following configuration:
+    - Rows:
+      - orderDate: Sorted ascending and grouped by Year-Month.
+    - Values:
+      - Product Cost: SUM of orderCosts.
+      - Sale Price: SUM of orderTotal.
+Step 76: Used the resulting pivot table to create a graph in the "visualizations" worksheet showing product cost and sale price trends over time:
+    - Graph Type: A stacked area chart with:
+      - Y-Axis: Product Cost & Sale Price.
+      - X-Axis: orderDate in Year-Month format.
+      

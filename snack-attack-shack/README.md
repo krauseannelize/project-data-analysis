@@ -22,7 +22,7 @@ We are encouraged to use AI as much as possible to guide the analysis and interp
 
 With the assistance of AI-powered tools, which provided suggestions based on best practices in data analysis and relevance to executive decision-making, I added the following 3 questions:
 
-- **Sales Trend Analysis**: How have sales trends evolved over time, and what are the key drivers behind these trends? Are there noticeable seasonal patterns, growth trends, or areas of concern that require strategic attention?
+- **Profitability Trends**: How have profit margins and profits evolved over time? What factors are driving changes in profitability, and are there any areas of concern to address?
 - **Demand Forecasting**: What is the projected demand for the next quarter/year, and how can inventory be optimized and production planned to meet this demand effectively? What are the potential risks and opportunities associated with these forecasts?
 - **Shipping Carrier Performance**: Which shipping carrier is the fastest on average? Which is the most cost-effective?
 
