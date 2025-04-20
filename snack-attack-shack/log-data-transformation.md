@@ -169,3 +169,16 @@ This log documents the steps taken in the Google Sheets data analysis project.
      - Days-to-Stockout: Add a calculated field with the formula: `=unitsStocked / AVERAGE(salesVelocity)` to estimate the number of days until stock depletion.
      - Levels: Add a calculated field with the formula: `=IF(unitsStocked > (AVERAGE(salesVelocity) * 30), "Excess", "Normal")` to flag products with excess inventory relative to sales velocity.
      - Status: Add a calculated field with the formula: `=IF(unitsStocked > reorderLevel, "Adequate", IF((unitsStocked + unitsOrdered) > reorderLevel, "On Order", "Reorder"))` to classify products based on their stock levels and reorder thresholds.
+- Step 66: Add new column "deliveryDuration" to "analysis-operations" worksheet to calculate the time from shipping to arrival.
+- Step 67: Created a pivot table in the "summary" worksheet with the following configuration:
+    - Rows:
+      - Carrier: Displays the name of each shipping carrier (sorted ascending by Average Duration).
+    - Values:
+      - Average Duration: AVERAGE of deliveryDuration.
+      - Cost Effectiveness: Add a calculated field with the formula: `=AVERAGE(freightCost) / AVERAGE(shipDuration)` to evaluate the cost per shipment for each carrier.
+- Step 68: Used the resulting pivot table to generate a graph in the "visualizations" worksheet to visually compare shipping carriers based on both speed and cost-effectiveness, enabling quick identification of optimal carriers:
+    - Graph Type: A dual axis combination chart.
+    - Setup:
+      - X-Axis: Carrier names.
+      - Left Y-Axis: Average Delivery Duration displayed as bars.
+      - Right Y-Axis: Average Freight Cost (€) displayed as a line overlay.
