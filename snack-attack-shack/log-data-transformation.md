@@ -182,3 +182,15 @@ This log documents the steps taken in the Google Sheets data analysis project.
       - X-Axis: Carrier names.
       - Left Y-Axis: Average Delivery Duration displayed as bars.
       - Right Y-Axis: Average Freight Cost (€) displayed as a line overlay.
+- Step 69: Revised the original question "Sales Trends" to "Profitability Trends" using AI assistance, ensuring alignment with the analysis focus.
+- Step 70: Created a pivot table in the "summary" worksheet with the following configuration:
+    - Rows:
+      - orderDate: Sorted ascending and grouped by Year-Month.
+    - Values:
+      - Profit: SUM of profit.
+      - Profit Margin: AVERAGE of profitMargin.
+- Step 71: Used the resulting pivot table to generate a graph in the "visualizations" worksheet to illustrate monthly profit and profit margin trends from July 2022 to April 2024:
+    - Graph Type: A dual-axis graph with:
+      - Left Y-Axis: Profit (Area graph).
+      - Right Y-Axis: Profit Margin (Line graph).
+      - X-Axis: orderDate in Year-Month format.
