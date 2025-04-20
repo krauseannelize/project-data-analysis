@@ -203,3 +203,15 @@ This log documents the steps taken in the Google Sheets data analysis project.
     - Graph Type: An area graph with:
       - Y-Axis: Sales Volume.
       - X-Axis: orderDate in Year-Month format.
+- Step 74: Added a new column in the "analysis-revenue" worksheet named "orderCosts" with the formula: `=revenue[productCost] * revenue[orderQuantity]` to calculate total product costs for each order.
+- Step 75: Created a pivot table in the "summary" worksheet with the following configuration:
+    - Rows:
+      - orderDate: Sorted ascending and grouped by Year-Month.
+    - Values:
+      - Product Cost: SUM of orderCosts.
+      - Sale Price: SUM of orderTotal.
+Step 76: Used the resulting pivot table to create a graph in the "visualizations" worksheet showing product cost and sale price trends over time:
+    - Graph Type: A stacked area chart with:
+      - Y-Axis: Product Cost & Sale Price.
+      - X-Axis: orderDate in Year-Month format.
+      
