@@ -6,3 +6,7 @@ This will be a collection of data analysis reports I created using different dat
 
 - [AdventureWorks Sales Performance](/excel-adventure-works-sales-2017/README.md)
 - [Databel Customer Churn](/excel-databel-customer-churn/README.md)
+
+## Google Sheets
+
+- [Snack Attack Shack Challenge](/snack-attack-shack/README.md)

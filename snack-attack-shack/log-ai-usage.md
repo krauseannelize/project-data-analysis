@@ -110,3 +110,13 @@ This log documents the use of AI tools during the Google Sheets data analysis pr
   - Revised the main question from Sales Trends to Profitability Trends shifting focus from revenue and seasonal sales fluctuations to profitability metrics such as profit levels and profit margins.
   - Incorporated actionable insights into drivers of profitability changes.
   - Enhanced alignment of profitability analysis with other sections, maintaining clarity and relevance in the overall narrative of the report.
+
+## 2025-04-20 - General AI Usage Brainstorming Session
+
+- **Purpose**: To explore ways AI can assist with data analysis, visualization, and strategic recommendations, enhancing the efficiency and depth of insights in the report.
+- **AI Tool Used**: Microsoft Copilot
+- **Approach**: Engaged in a collaborative session with AI to refine analysis techniques, troubleshoot issues, and generate new ideas for presenting findings.
+- **Key Outcomes**:
+  - Identified new ways to visualize and summarize data, such as using stacked area graphs to compare product costs and sales prices over time.
+  - Developed strategies for forecasting future demand and costs using AI-assisted techniques, including formula-based approaches in Google Sheets.
+  - Produced concise recommendations for inventory optimization, production planning, and risk mitigation based on forecast results.
