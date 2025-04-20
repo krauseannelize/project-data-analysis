@@ -210,8 +210,17 @@ This log documents the steps taken in the Google Sheets data analysis project.
     - Values:
       - Product Cost: SUM of orderCosts.
       - Sale Price: SUM of orderTotal.
-Step 76: Used the resulting pivot table to create a graph in the "visualizations" worksheet showing product cost and sale price trends over time:
+- Step 76: Used the resulting pivot table to create a graph in the "visualizations" worksheet showing product cost and sale price trends over time:
     - Graph Type: A stacked area chart with:
       - Y-Axis: Product Cost & Sale Price.
       - X-Axis: orderDate in Year-Month format.
-      
+- Step 77: Added a new table to "summary" worksheet by copying the sale volume pivot and extending it with forecasted values for May to July 2024 using the formula: `=FORECAST(BC25,$BD$3:$BD$24,$BC$3:$BC$24)`
+- Step 78: Used the resulting table to create a graph in the "visualizations" worksheet showing sales volume trend over time adding a 3-month forecast:
+    - Graph Type: A column chart with:
+      - Y-Axis: Sales Volume.
+      - X-Axis: orderDate in Year-Month format.
+- Step 79: Added a new table to "summary" worksheet by copying the product cost (and sale price) pivot and extending it with forecasted values for May to July 2024 using the formula: `=FORECAST(BF25,$BG$3:$BG$24,$BF$3:$BF$24)`
+- Step 80: Used the resulting table to create a graph in the "visualizations" worksheet showing product cost trend over time adding a 3-month forecast:
+    - Graph Type: A column chart with:
+      - Y-Axis: Product Cost.
+      - X-Axis: orderDate in Year-Month format.
