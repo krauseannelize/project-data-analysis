@@ -44,7 +44,7 @@ This project provided an opportunity to apply data analysis and visualization te
 All relevant documentation for this project is accessible via the following links:
 
 - Analyzed Dataset: Available in [Google Sheets](https://docs.google.com/spreadsheets/d/1Iv6HGxvAdLl0ABWVxop-I6QmwgHjhbrV2cixf1_S1fA/edit?usp=sharing).
-- Full Report: Available in [Google Docs](https://docs.google.com/spreadsheets/d/1Iv6HGxvAdLl0ABWVxop-I6QmwgHjhbrV2cixf1_S1fA/edit?usp=sharing) or as a PDF.
+- Full Report: Available in [Google Docs](https://docs.google.com/document/d/16prC0SmlDMYDkrghBnnISGCJbprsPETUOhcDm1_Sbjk/edit?usp=sharing) or as a PDF.
 - [Changelog](/snack-attack-shack/log-data-transformation.md): Includes a detailed log of the data transformation process.
 - [AI Usage Log](/snack-attack-shack/log-ai-usage.md): Captures all interactions and collaborative brainstorming sessions with AI during the project.
 
