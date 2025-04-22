@@ -224,3 +224,9 @@ This log documents the steps taken in the Google Sheets data analysis project.
     - Graph Type: A column chart with:
       - Y-Axis: Product Cost.
       - X-Axis: orderDate in Year-Month format.
+
+## 2025-04-22 - Fixes
+
+- **Fixes**
+  - Discover all values in column "orderQuantity" in worksheet "analysis-operations" has been replaced with 12. I use the formula: `=INDEX('1 orders'!I2:I, MATCH(1, ('1 orders'!A2:A=A2)*('1 orders'!G2:G=F2), 0))` to look up the correct order quantity from the original "1 Orders" worksheet.
+  - Update analysis and conclusions.
